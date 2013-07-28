@@ -1,0 +1,54 @@
+\input texinfo   @c -*-texinfo-*-
+@c %**start of header
+@setfilename helwar.info
+@settitle Helvetian War
+@c %**end of header
+
+@set VERSION 1.0
+
+@copying
+This is the novel ``Helvetian War'', version @value{VERSION}.
+
+Copyright @copyright{} 2013 Alan Manuel K. Gloria.
+
+@quotation
+You are free to copy this work under the terms of the
+Creative Commons Attribution-ShareAlike 3,0
+(CC-BY-SA 3.0) license.
+@end quotation
+@end copying
+
+@titlepage
+@title Helvetian War
+@subtitle version @value{VERSION}
+@author Alan Manuel K. Gloria
+
+@page
+@vskip 0pt plus 1filll
+@insertcopying
+@end titlepage
+
+@contents
+
+@ifnottex
+@node Top
+@top Helvetian War
+
+@insertcopying
+
+@end ifnottex
+
+@menu
+* Lorem Ipsum::
+@end menu
+
+@ifplaintext
+-*-The novel's text starts here-*-
+@end ifplaintext
+
+@node Lorem Ipsum
+@chapter Lorem Ipsum
+
+Lorem ipsum.
+
+@bye

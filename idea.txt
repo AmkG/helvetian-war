@@ -1,0 +1,45 @@
+
+The brain is a black box, its operations hidden and dark.  Through science we
+analyze it and open its mechanism to the light; through disputation arenas and
+government competition we replace the brain with openly designed decision
+mechanisms.  The brain is not trustworthy, which is why we have moved away
+from monarchies; governments are not trustworthy, which is why we have moved
+away from traditional land-based countries.  We started as a community of
+rationalists on a ship with no home port, headed by rationalism masters,
+Senseis, as we half-jokingly called them.  We grew into a loose-knit network
+of sea platforms, exporting knowledge and culture, importing food and physical
+necessities.
+
+Our vital mistake was to forget that power begets more power.  And to forget
+that conflict inevitably blossoms when a new power begins to rise just enough
+to potentially challenge an old power.
+
+All it took was the most powerful land-based country to get an egotistical
+head of state, in a travesty of disputation arenas called an "election".
+
+--
+
+The tension between government and individual can be seen, writ large enough
+to see, in the tension between governmental environmentalism and corporate
+interest.
+
+Each sea platform inevitably pollutes; the question is how much pollution is
+acceptable.  In a continuously flowing and changing medium, where does one
+individual's rights end and another's begin?
+
+It is this insight that reveals that government is not some faceless entity
+that serves only to consume resources by taxation.  Instead, it is the proxy
+for each and every other individual.  Government does not fail by existing; it
+fails solely if it fails to uphold the interests of those it represents.
+
+--
+
+R1 - Stable government, maintenance version
+- Has Seedling concept
+R2 - Unstable government, mainline development
+- Based on R1 laws
+
+Monkeyspheres - Stable government
+- Sea platforms split upon reaching 150 individuals (Dunbar's number)
+
+
