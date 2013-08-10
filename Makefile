@@ -6,13 +6,15 @@ all : helwar.pdf helwar.txt helwar.info helwar.html helwar.count
 MAKEINFO = makeinfo
 TEXI2PDF = texi2pdf
 
-helwar.pdf : helwar.texi
+SOURCES = helwar.texi ccbysa3.texi
+
+helwar.pdf : $(SOURCES)
 	$(TEXI2PDF) --tidy -o helwar.pdf helwar.texi
-helwar.txt : helwar.texi
+helwar.txt : $(SOURCES)
 	$(MAKEINFO) --plaintext -o helwar.txt helwar.texi
-helwar.info : helwar.texi
+helwar.info : $(SOURCES)
 	$(MAKEINFO) --no-split -o helwar.info helwar.texi
-helwar.html : helwar.texi
+helwar.html : $(SOURCES)
 	$(MAKEINFO) --html --no-split -o helwar.html helwar.texi
 helwar.count : helwar.txt
 	sed -n -e ": top"\
@@ -23,9 +25,15 @@ helwar.count : helwar.txt
 	       -e "n"\
 	       -e "b top"\
 	       -e ": good"\
+	       -e "t skip2"\
+	       -e ": skip2"\
+	       -e "s|^Appendix A||"\
+	       -e "t end"\
 	       -e "p"\
 	       -e "n"\
 	       -e "b good"\
+	       -e ": end"\
+	       -e "q"\
 	       < helwar.txt > helwar.count
 
 count : helwar.count

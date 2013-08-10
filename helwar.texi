@@ -40,6 +40,9 @@ Creative Commons Attribution-ShareAlike 3,0
 
 @menu
 * Lorem Ipsum::
+
+Appendix
+* CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
 
 @ifplaintext
@@ -50,5 +53,10 @@ Creative Commons Attribution-ShareAlike 3,0
 @chapter Lorem Ipsum
 
 Lorem ipsum.
+
+@node CC-BY-SA 3.0 Unported
+@appendix CC-BY-SA 3.0 Unported
+
+@include ccbysa3.texi
 
 @bye
