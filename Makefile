@@ -29,6 +29,7 @@ helwar.count : helwar.txt
 	       -e ": skip2"\
 	       -e "s|^Appendix A||"\
 	       -e "t end"\
+	       -e "s|^\**$$||"\
 	       -e "p"\
 	       -e "n"\
 	       -e "b good"\
