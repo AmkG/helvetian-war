@@ -29,17 +29,39 @@ individual's rights end and another's begin?
 
 It is this insight that reveals that government is not some faceless entity
 that serves only to consume resources by taxation.  Instead, it is the proxy
-for each and every other individual.  Government does not fail by existing; it
-fails solely if it fails to uphold the interests of those it represents.
+for each and every other individual -- each individual who is not the
+individual being taxed.  Government does not fail by existing; it fails
+solely if it fails to uphold the interests of those it represents.
 
 --
 
 R1 - Stable government, maintenance version
-- Has Seedling concept
+- Has Seedling concept (teenagers at the cusp of adulthood (15-16)
+  are put on a cruise ship (built by R1 and R2) to learn more and
+  experience life in other governments of Sea State, and to find
+  their niche)
 R2 - Unstable government, mainline development
 - Based on R1 laws
 
-Monkeyspheres - Stable government
+Dunbarites - Stable government
 - Sea platforms split upon reaching 150 individuals (Dunbar's number)
 
+--
 
+Strength through diversity
+Diversity through tolerance
+Tolerance through understanding
+Understanding through rationality
+
+--
+
+Plot threads:
+
+1.  Seedlings
+- This year's seedlings, living in the cruise ship
+2.  Gardeners
+- The two adults guiding the seedlings, on their own
+  homeboats, accompanying the seedling cruise ship
+3.  Spymaster
+- A counterintelligence operative who has just caught
+  two spies who have infiltrated Sea State.
