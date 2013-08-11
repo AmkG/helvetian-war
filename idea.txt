@@ -65,3 +65,145 @@ Plot threads:
 3.  Spymaster
 - A counterintelligence operative who has just caught
   two spies who have infiltrated Sea State.
+4.  Spy
+- One of the two spies (the technolibertarian one)
+  caught by the Spymaster.
+
+--
+
+(The stuff in this section of notes is CC-BY-NC-SA 3.0 Unported by
+TV Tropes Foundation, LLC)
+
+Hero's Journey:
+
+1.  Call to Adventure
+2.  Supernatural Aid
+3.  Threshold Guardian
+4.  Threshold
+5.  Helper      \
+6.  Mentor       |--- Challenges
+7.  Temptation  /
+8.  Revelation
+    - Abyss
+    - Death and Rebirth
+9.  Transformation
+10.  Atonement
+11.  Return
+
+1->3, 11: KNOWN
+4->10: UNKNOWN
+
+Three Stages:
+
+1.  Departure: the Hero leaves the familiar world behind.
+2.  Initiation: the Hero learns to navigate the unfamiliar world of adventure.
+3.  Return: the Hero returns to the familiar world.
+
+More elaborate taxonomy:
+
+1.  Miraculous or unusual circumstances around the Hero's conception or birth.
+    - The Chosen One
+    - Less common in modern stories which tend to emphasize that anyone could
+      be The Chosen One.
+2.  Begins in the oridinary world of the Hero's hometown, in one of the
+    following forms:
+    - Peacful Kingdom (Hero must save the world from impending doom)
+    - The Wasteland (Hero must restore the world)
+    - Suburbia (depends)
+3.  Hero may be dissatisfied with the ordinary, express desire for adventure.
+    - Optional
+4.  The Herald brings a Call to Adventure.
+5.  The Hero decides how to answer the call:
+    - Refusal of the Call.  More common in classic stories.  The Call will
+      often try again because The Call Knows Where You Live.  Can't Stay
+      Normal and Resigned to the Call are special cases of call refusal.
+    - Jumped at the Call, sometimes even in the face of Adventure Rebuff.
+      More ommon in modern stories.
+6.  Frequently the first step on the journey is receiving some kind of
+    magical tchotchke (It May Help You On Your Quest) or other Supernatural
+    Aid.
+    - The One Ring in Lord of the Rings, for example.
+7.  Crossing the First Threshold: The Hero must make a conscious, willing
+    decision to embark on the adventure and leave the known world behind.
+    This is the First Threshold.  The Hero may have to defeat Threshold
+    Guardians, who are not necessarily adversarial but do test the Hero's
+    resolve.
+8.  The Land of Adventure: the Hero enters a strange, dreamlike realm, where
+    logic is topsy-turvy and the "rules" are markedly different from the
+    ordinary world.
+9.  The Belly of the Whale represents a symbolic death for the Hero: the
+    Hero is defeated and killed, his flesh scattered, ready to be reborn
+    and emerge as a new person.
+10.  Road of Trials: the path out of the Belly of the Whale.  Usually the meat
+    of the story.  Different kinds of tests.  Stops along the way include:
+    - The Shapeshifter: someone you don't trust but nonetheless need for his
+      or her help/information
+    - The Goddess: Hero's Muse.  The Hero's motivation for pursuing the quest
+      derives from his regard for some sort of idealized woman.  She is a
+      goddess, a saint, a queen, a princess, or something similar.  Generally,
+      she is very pure, sometimes to the point of being unapproachable.  If
+      she is unmarried, she is chaste.  The lady can be the one who gives the
+      hero his quest; he then departs to complete it before returning to her.
+      Alternately, she flits in and out of the hero's path, reminding him of
+      her presence but staying out of reach.  Occasionally, she is at his side
+      all along, serving as a reminder of what he is striving for and
+      inspiring him to persevere.  In all situations, she often dispenses
+      advice to the hero, althought that advice can be rather cryptic.
+    - The Temptress: The Vamp.  The beauty who uses her feminine wiles to
+      undermine a moral and upright man, for evil purposes.  Sexy and Evil, a
+      liar and sneak, and uses the good guy's sympathy against him, often with
+      a sob story about her mother and some hospital bills or a Wounded
+      Gazelle gambit.  She is rotten to the core, and will never be swayed
+      from the path of darkness by love.
+    - Atonement With the Father: "Well Done, Son!" Guy.  What The Hero really
+      wants is for this *one* guy to acknowledge him.  Most often, that *one*
+      guy is his emotionally distant father, though it can also be The Ace,
+      The Obi-Wan, an Aloof Big Brother or even the Always Someone Better
+      individual, usually an old friend of the hero.  In the end, one of two
+      things happens.  Rarely, the "Well Done, Son!" Guy will turn out to have
+      some kind of massive character flaw (Broken Pedestal), and the Hero will
+      realize that it's been a mistake to weigh his opinion so highly, and
+      then Calling the Old Man Out.  Most of the time, though, everything
+      comes to a head when the "Well Done, Son!" Guy finally asks the Hero why
+      he's going to such ridiculous ends.  The Hero fesses up, and the "Well
+      Done, Son!" Guy explains that he's respected The Hero all along, and
+      assumed The Hero already knew (You Didn't Ask).
+    - A Leave Your Quest Test: The Hero will be given the chance to lay down
+      their Sword of Plot Advancement and leave the fight.
+11.  Night Sea Voyage: The Hero must sneak into the Big Bad's Elaborate
+     Underground Base and retrieve something or someone.  Often involves night
+     and water, hence the name.
+12.  Time out just before the big battle: The Heroes gather around a campfire
+     and prepare for the battle, tell stories, confess their feelings,
+     etc.  It reminds them of what's at stake, and serves as a breather after
+     all the action of the Road of Trials.
+13.  Apotheosis / Fight against the Big Bad / Ultimate Boon.  These are
+     typically very closely related, often intertwined.
+     - Apotheosis: The Hero comes to view the world in a new and radically
+       different way, either because of a critical breakthrough he's made or
+       some crucial information he's uncovered.  If it is something to do with
+       himself then this is a good time for I Am Who?.
+     - Fight against the Big Bad: The Hero confronts the Big Bad in a typical
+       David versus Goliath fashion: He is usually called upon to sacrifice
+       himself or something/someone important to him.  Friend or Idol Decision
+       is a common scenario.  Note that *asked* is the key word here -- it's
+       usually enough that the Hero be willing to sacrifice something without
+       actually having to do it.
+     - Ultimate Boon: getting the reward the hero's been chasing all this
+       time, often but not always a MacGuffin.
+14.  Refusal of the Return: At this point in the story, the Hero has mastered
+     the strange world he was thrust into.  He probably has earned a permanent
+     place here, if he wants it.  He may even want to stay, but usually there
+     are forces at work that propel him home.
+15.  The Return: Also called the Magic Flight.  The Hero now has the boon and
+     high-tails it away, with the villain or his forces in hot pursuit; while
+     they engage in a battle of wits and magic (especially shapeshifting)
+     during the chase (See: Celtic story of Taliesin's escape from Cerridwen
+     for a textbook example of this).  The Hero's escape may not require
+     actual magic, but *will* require all of the new skills he's learned
+     (Final Exam Finale) and new allies he's made.
+16.  Crossing the Return Threshold: Sometimes a flight against the forces of
+     the Muggle world, which The Hero wins thanks to help from his Muggle
+     allies.
+17.  Freedom to Live: The Hero grants the boon to his people.
+
