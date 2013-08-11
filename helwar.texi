@@ -14,6 +14,7 @@ Copyright @copyright{} 2013 Alan Manuel K. Gloria.
 @quotation
 @c From creativecommons.org license chooser, Offline mode.
 @ifnothtml
+@image{by-sa}
 This work is licensed under the Creative Commons
 Attribution-ShareAlike 3.0 Unported License. To view
 a copy of this license, visit
