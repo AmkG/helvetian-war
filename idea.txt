@@ -207,3 +207,12 @@ More elaborate taxonomy:
      allies.
 17.  Freedom to Live: The Hero grants the boon to his people.
 
+--
+
+Bitcoin mining capacity (2013):
+
+Current capacity (2013): 60 THash/s
+Avalon ASIC capacity (2013): 65GHash/s
+Cost of 923 Avalons: 1.2M$ (Capacity to take over the bitcoin network,
+does not include power, internet connection, support equipment, etc.)
+
