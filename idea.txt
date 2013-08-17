@@ -216,3 +216,18 @@ Avalon ASIC capacity (2013): 65GHash/s
 Cost of 923 Avalons: 1.2M$ (Capacity to take over the bitcoin network,
 does not include power, internet connection, support equipment, etc.)
 
+--
+
+Micromort - unit of risk (1-in-a-million chance of death)
+
+--
+
+In May 2, 2012, Gavin Andresed mentioned a method of protecting against
+"the 51% attack".
+
+http://gavintech.blogspot.co.uk/2012/05/neutralizing-51-attack.html
+https://bitcointalk.org/index.php?topic=78403.0
+
+The exact method of protection is to include the sum of the priorities
+of the transactions in the blocks.
+
