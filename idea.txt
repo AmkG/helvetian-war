@@ -105,7 +105,7 @@ More elaborate taxonomy:
     - The Chosen One
     - Less common in modern stories which tend to emphasize that anyone could
       be The Chosen One.
-2.  Begins in the oridinary world of the Hero's hometown, in one of the
+2.  Begins in the ordinary world of the Hero's hometown, in one of the
     following forms:
     - Peacful Kingdom (Hero must save the world from impending doom)
     - The Wasteland (Hero must restore the world)
@@ -118,7 +118,7 @@ More elaborate taxonomy:
       often try again because The Call Knows Where You Live.  Can't Stay
       Normal and Resigned to the Call are special cases of call refusal.
     - Jumped at the Call, sometimes even in the face of Adventure Rebuff.
-      More ommon in modern stories.
+      More common in modern stories.
 6.  Frequently the first step on the journey is receiving some kind of
     magical tchotchke (It May Help You On Your Quest) or other Supernatural
     Aid.
@@ -230,4 +230,65 @@ https://bitcointalk.org/index.php?topic=78403.0
 
 The exact method of protection is to include the sum of the priorities
 of the transactions in the blocks.
+
+--
+
+Bitcoin miner's agreement (world concept)
+
+Miners implicitly agree not to utilize their full hashing power, but
+only a fragment of it, since otherwise their electricity consumption
+increases too much.  However, in the event of a 51% attack, they can
+all quickly increase their hashing power to repel the attack.
+
+This means that an external attacker needs to consider that the full
+hashing power of the network is larger than the perceived hashing
+power.
+
+--
+
+Physical bitcoins:
+
+https://www.casascius.com/
+
+Excerpts:
+
+฿25 Casascius Coin: This brilliant coin is electroplated with real
+gold.  It's sure to get attention, or at least to take a chat about
+cryptocurrency out of the abstract and into the aesthetically
+pleasing.  Each coin is about 1.75inch (44.5mm) in diameter, 2.9mm
+thick, and weighs about 1.2 ounces.  Makes a great savings gift for
+someone special. (2011 version - will not be remade - for sale while
+supply lasts) 
+
+-
+
+How they work: The "private key" is on a card embedded inside the
+coin and is protected by a tamper-evident hologram.  The hologram
+leaves behind a honeycomb pattern if it is peeled. If the hologram
+is intact, the bitcoin is good. If you have purchased a 2-factor
+item, the private key is encrypted and will need to be decrypted
+using your original preselected passphrase before you can redeem
+the funds.
+
+The 8-character code you see on the outside of the coin is the
+first eight characters of the Bitcoin address assigned specifically
+to that coin.  You can verify the coin's balance on Block Explorer.
+There is a mathematical relationship between the Bitcoin address
+and the private key inside the coin. The digital bitcoin is actually
+located on the public "block chain" stored on the internet, but it
+is completely inaccessible to anyone unless the private key from the
+coin is loaded into a Bitcoin wallet.
+
+To recover the digital bitcoins, there are several ways to convert
+the embedded code back into a digital bitcoin so it can be spent
+over the internet.  Most importantly, none of the methods relies on
+me or any other central issuer, due to Bitcoin's completely
+decentralized design.  The embedded private key code is everything a
+Bitcoin client needs to find and claim the digital Bitcoins from the
+peer-to-peer network. For example, you can enter (or "import") your
+coin's private key code directly into Bitcoin clients such as
+Armory, Blockchain.info, or directly into Mt. Gox as a deposit
+method.  (Casascius coins use the "minikey" private key format, and
+the main Bitcoin.org client does not yet support redeeming
+minikeys.)
 
