@@ -292,3 +292,37 @@ method.  (Casascius coins use the "minikey" private key format, and
 the main Bitcoin.org client does not yet support redeeming
 minikeys.)
 
+-
+
+From the blog:
+
+I have been informed that someone was successfully able to compromise
+the hologram on a Casascius Coin this afternoon at Def Con 21 in Las
+Vegas. Having been a regular attendee of Def Con for some time now, I
+figured it was a matter of time before I’d have the honor of being a
+subject of the “Hardware Hacking Village / Tamper Evident” section
+they have there.
+
+I had a chance to speak with that person today, who goes by Stits
+(twitter: @stits) and he shared with me the process he went through.
+It was pretty intriguing, in a nutshell he says he used a particular
+solvent and method of application, and in the process, left a very
+minimal amount of visible damage to the hologram.
+
+--
+
+Chernoff Face
+
+Chernoff faces are representations of multivariate data, using
+human faces.  The idea is that the brain has builtin circuits for
+classifying and recognizing faces.
+
+--
+
+Sweden needs more trash, because it has turned all it's got into
+energy.
+
+In the future: Sweden is a FREE ELECTRICITY state with lower tax
+rates, due to making it their business to import (and get paid for
+importing) trash.  Electricity is produced by burning the trash.
+The ash gets exported back to the source country.
