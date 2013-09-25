@@ -244,6 +244,9 @@ This means that an external attacker needs to consider that the full
 hashing power of the network is larger than the perceived hashing
 power.
 
+This *also* means that a *successful* 51% attack requires a much
+larger hashing power than the perceived hashing power.
+
 --
 
 Physical bitcoins:
@@ -309,6 +312,55 @@ It was pretty intriguing, in a nutshell he says he used a particular
 solvent and method of application, and in the process, left a very
 minimal amount of visible damage to the hologram.
 
+-
+More on hacking Casascius physical bitcoins:
+
+Defcon researchers Stits and Datagram
+(http://www.reddit.com/user/datagram_locks)
+tried their hand at the physical Bitcoin on Saturday afternoon
+(possibly August 3, 2013) and it took them roughly 10 minutes to
+recover the private key and the researchers say that with practice it
+could probably be breeched in 1 to 2 minutes.
+
+...
+
+The methodology consisted of using a hypodermic needle to carefully
+inject tiny quantities of what the researchers will only refer to
+as a “non-polar solvent” between the holographic security sticker
+and the brass coin itself. After the solvent weakened or entirely
+dissolved the adhesive they were able to peel back the holographic
+foil and access the private key beneath. The sticker was then
+trivially replaced, though Stits felt that using a secondary
+adhesive might be necessary since little of the original adhesive
+was left.
+
+The re-assembled coin bore only a tiny mark at the edge of the foil
+where the needle was first inserted, a mark which could be easily
+mistaken for slight wear and tear, perhaps from being carried in a
+pocket with other coins. Stits indicated that with practice even
+this small mark could be avoided and suggested that next time he’d
+like to try submerging or fuming the coin in the solvent and simply
+allowing the foil to fall off without a scratch.
+
+...
+
+While the “non-polar solvent” used was not specified, there are only
+a dozen or so known non-polar solvents and such solvents
+(http://en.wikipedia.org/wiki/Solvent#Solvent_classifications) are
+rather common and easily obtained – toluene, for example, is
+commonly sold as paint thinner and hexane is an extremely common
+solvent often used in the food manufacture industry. Stits and
+Datagram have indicated that they’d love to try their hands at the
+more expensive silver rounds and that they expect the softer, less
+reactive noble metal to be even easier to work with than the
+cheaper brass.
+
+--
+
+Bitcoin attacks in plain english:
+
+http://codinginmysleep.com/bitcoin-attacks-in-plain-english/
+
 --
 
 Chernoff Face
@@ -351,3 +403,57 @@ how well you can develop new products or techniques, and how well
 you can implement them, not in how well you can write pseudotechnical
 language that is obfuscated enough for your competitors not to see the
 patent trap you have set for them.
+
+--
+
+Communal Property laws
+
+- Corporations cannot sue individuals for copyright infringement and
+  patent violations.
+- Corporations may violate patent if they have less than one-fourth
+  the owner's market share.
+- .... or something....
+
+--
+
+Big Bad:
+
+- Helvetia (Switzerland) - banking center, deeply involved in fiat
+  currencies but unbalanced due to (relatively) new cryptocurrencies,
+  which they ignored, not expecting it to become a significant
+  economic force.
+
+* OR *
+
+- Bigger Bad: a militarist of the Sea State deliberately manipulates
+  Helvetia into manipulating USA into nuking *the* major Sea State
+  platform, R1.  He is using the oldest trick in the book to force
+  the disparate and mostly-independent Sea State platforms into unity.
+
+--
+
+From The Prestige (2006 movie):
+
+Every great magic trick consists of three parts or acts. The first
+part is called "The Pledge". The magician shows you something
+ordinary: a deck of cards, a bird or a man. He shows you this
+object. Perhaps he asks you to inspect it to see if it is indeed
+real, unaltered, normal. But of course... it probably isn't. The
+second act is called "The Turn". The magician takes the ordinary
+something and makes it do something extraordinary. Now you're
+looking for the secret... but you won't find it, because of course
+you're not really looking. You don't really want to know. You want
+to be fooled. But you wouldn't clap yet. Because making something
+disappear isn't enough; you have to bring it back. That's why
+every magic trick has a third act, the hardest part, the part we
+call "The Prestige".
+
+Reflection: Seems to tie well with the Hero's Journey.  The Pledge
+is the first part of the Hero's Journey, where the protagonist is
+in the ordinary world (and is thus "ordinary" - but of course...
+he/she probably isn't).  The Turn is the act where the protagonist
+enters into the "magical world" - the protagonist does something
+(or some things) extraordinary, and continues to do extraordinary
+things.  The final act, The Prestige, ties in with The Flight from
+the Hero's Journey: the protagonist *comes back*, bringing the
+boons from the magical world.
