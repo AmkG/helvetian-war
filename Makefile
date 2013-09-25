@@ -14,8 +14,8 @@ helwar.txt : $(SOURCES)
 	$(MAKEINFO) --plaintext -o helwar.txt helwar.texi
 helwar.info : $(SOURCES)
 	$(MAKEINFO) --no-split -o helwar.info helwar.texi
-helwar.html : $(SOURCES)
-	$(MAKEINFO) --html --no-split -o helwar.html helwar.texi
+helwar.html : $(SOURCES) helwar.css
+	$(MAKEINFO) --html --no-split --css-include=helwar.css -o helwar.html helwar.texi
 helwar.count : helwar.txt
 	sed -n -e ": top"\
 	       -e "t skip"\
