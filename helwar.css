@@ -1,11 +1,37 @@
 
 body {
 	position: absolute;
-	left: 20%;
-	width: 75%; }
+	left: 25%;
+	width: 65%; }
 
 div.contents {
 	position: absolute;
-	left: -25%;
-	top: 1%;
-	width: 19%; }
+	left: -35%;
+	width: 34%; }
+
+/* Don't put TOC in sidebar if width is narrow.  */
+@media all and (max-width: 639px) {
+	body {
+		left: 10%;
+		width: 80%;
+	}
+	div.contents {
+		position: relative;
+		left: 0;
+		width: 100%;
+	}
+}
+
+div.footer {
+	font-size: smaller;
+	text-align: center;
+	display: block;
+	background-color: gray; }
+h1.settitle {
+	display: block;
+	width: 100%;
+	background-color: black;
+	color: white; }
+
+hr {
+	width: 20%; }

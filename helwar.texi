@@ -69,4 +69,10 @@ Lorem ipsum.
 
 @include ccbysa3.texi
 
+
+@c Add a footer
+@html
+<div class=footer>Helvetian War &middot; Copyright &copy; 2013 Alan Manuel K. Gloria</div>
+@end html
+
 @bye
