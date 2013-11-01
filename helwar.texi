@@ -49,7 +49,8 @@ a copy of this license, visit
 @end ifnottex
 
 @menu
-* Lorem Ipsum::
+* The Children::
+* The Walk of the Seedlings::
 
 Appendix
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
@@ -59,16 +60,628 @@ Appendix
 -*-The novel's text starts here-*-
 @end ifplaintext
 
-@node Lorem Ipsum
-@chapter Lorem Ipsum
+@node The Children
+@chapter The Children
 
-Lorem ipsum.
+Only three of their parents would be able to attend
+the Seedling initiation of
+Marco de Alugbati and Stephanie de Alugbati.
+One of their fathers, Redemptor Alugbati or Daddy Red,
+was currently assigned to the sea fertilization pumps.
+Redemptor had offered to pull some strings
+to swap his assigned shift ---
+the family had quite a bit of influence, after all,
+given the family business ---
+but this was overruled by the other adults in the family.
+The Alugbatis took pride in public service.
+
+Marco de Alugbati woke up early.
+
+As he started to gain wakefulness,
+he realized that his heartbeat was speeding up.
+He hadn't been able to sleep early last night, either.
+After all, this was the last day he would be de Alugbati.
+
+The officially-sanctioned knapsack lay on the bunk
+beside his head.
+It contained all the personal belongings
+assigned to him.
+
+As he got up, he realized that his sister's bunk was
+already empty,
+and that the bunk was already properly @emph{made}.
+He got up and started to make his own bed,
+and prepare for today.
+
+@sp 2
+
+The government-issued clothes in his knapsack
+felt stiff and pinched his skin a little,
+but he was not allowed to wear anything else
+to the Seedling initiation ---
+or even to bring anything other than himself,
+the knapsack, and the contents of the knapsack,
+as issued.
+No Seedling could be allowed an unfair advantage,
+and if his parents had been so inclined,
+they could give him
+a very, very unfair advantage indeed.
+
+They were also very, very unlikely to be so inclined.
+
+The clothes were a simple white shirt
+and knee-length pants,
+with corresponding underwear and socks.
+They looked similar to his school uniform,
+which had been returned to the school
+several days ago.
+
+He rummaged through his knapsack again,
+knowing that there could be nothing extra there,
+but he still persisted irrationally in checking.
+The computation pad, 3D-printed personal items,
+medikit, choline supplements,
+notebook and pencil, sets of clothes...
+
+@sp 2
+
+He'd woken up early, but his parents and sister,
+it turned out, had woken up even earlier.
+The table was already set,
+his older sister Stephanie and Mommy Lizet
+were already sitting down waiting for breakfast,
+which Mommy Maria was helping Daddy Mike to cook.
+
+Their two younger siblings, Rudy and Rayne,
+were probably still sleeping;
+they had school today,
+and in any case were not allowed to witness
+the Seedling initiation ceremony.
+
+Well, perhaps Mommy Lizet,
+with her half-lidded eyes,
+was not yet actually completely awake either.
+
+Stephanie was fidgeting, which worried Marco a little,
+but then he reflected on his own racing heart
+and his dry mouth.
+She was, quite likely, nervous just like him ---
+or maybe excited would fit her personality more.
+Marco wondered how she would say goodbye
+to her boyfriends;
+none of those he knew about were old enough
+to be part of this year's Seedling initation.
+
+``Good morning,'' said Stephanie.
+
+``Good morning,'' said Marco.
+
+Daddy Mike and Mommy Maria
+looked up from the frying fish,
+and chorused a ``Good morning;''
+Mommy Lizet remained sitting upright
+for a while,
+then turned to him and murmured a slurred
+``Good morning.''
+
+``We heard your sister messing up the kitchen
+so early in the morning,''
+said Daddy Mike.
+``She said she was @emph{really} hungry,
+she hadn't slept well,
+so I thought we'd have an early breakfast
+and leave before
+your little brother and little sister
+go to school.
+I guess my little sweets are old enough
+to take care
+of getting ready for today.
+I'll just leave breakfast for them.''
+
+``Please give Lizet her coffee,'' said Mommy Maria,
+handing it to Marco,
+``you know how she is in the mornings.
+We'd planned on bringing you later
+so that Rayne and Rudy could say goodbye properly,
+but your sister's so excited.
+I'll have to re-explain later to Lizet
+why we're changing plans
+once she gets her brain properly working.''
+
+Marco placed the cup in front of Mommy Lizet,
+then put his knapsack in his chair.
+
+``I'll...'' he started, then he cleared his throat.
+``I'll just go outside a bit.''
+
+``You're not going to eat breakfast?'' asked Stephanie.
+``You're even more excited than I am!''
+
+``I'll eat breakfast when it's ready,'' he said.
+``I just need some fresh air right now.''
+
+He opened the door of the common room to the outside
+and stepped on the deck of their homeboat.
+He walked over to the public-use part of their deck,
+connected by pontoon bridges to other homeboats.
+
+His parents' homeboat and his parents' deck,
+he corrected himself mentally.
+
+He looked at their neigbors' homeboats,
+looked up at the dark blue sky,
+and looked at the lightening to the east.
+He breathed in the salt breeze of the sea a few times,
+to build up his strength.
+
+This was the day he had been anticipating and dreading.
+
+After a particularly big breath,
+he let out a whoop with all his strength
+in the direction of the dawning sun.
+
+@sp 2
+
+``What was that for?'' said Stephanie
+as he re-entered the common room.
+His parents were all grinning at him
+as they sat around the central table,
+even Mommy Lizet.
+
+``Sorry,'' said Marco, taking his seat
+and smelling the fried fish.
+``I just had to let it out.''
+
+``@emph{You're} more excited than I am,'' she said.
+
+``You're the one who woke up all our parents early
+and made them change their plans.''
+
+``Yeah, you're just the one
+who woke up all our @emph{neighbors} early,
+and made them change @emph{all} their plans,
+most likely.''
+
+Marco shrugged.  ``Yeah, I guess.
+I don't really know what got into me.
+I just wanted some air, and then I couldn't help it,
+I just wanted to shout.''
+
+Stephanie rolled her eyes.  ``And you're supposed
+to be the one with all that @emph{self-control}.''
+
+``Doesn't mean I have an infinite amount of self-control,
+and that was just the results
+of the standard test a decade ago anyway,''
+said Marco.
+
+He took a fish and then noticed something else on the table.
+``Carbo bars?''
+
+``Today's a special day,'' said Daddy Mike,
+looking up from the common room's computation pad,
+which he was fiddling with.
+``You both need lots of energy.  Anyway...
+we've been trying to connect to your Daddy Red,
+but I guess he's still sleeping.
+Ah, there he is.''
+He set up the pad in its location
+at the end of the common room table,
+where they could all see it and be seen by its camera.
+
+``What's up?'' said Daddy Red.
+The video was dark,
+but his bleary eyes were obvious.
+``Why so early?  It's five in the morning.''
+
+``Oh, nothing,'' said Daddy Mike.
+``We just promised to ekiga you
+before we brought the kids
+to the Seedling initiation.
+So we're calling now,
+since Steph and Marco are so excited,
+they want to go soon.''
+
+``Not really, dad,'' said Stephanie.
+``I was planning for a midnight snack,
+or rather an early-morning snack,
+but I knocked down some pans
+and that woke Daddy Mike up.''
+She then whisperred loudly, winking,
+``You know, I think Daddy Mike wasn't
+actually @emph{sleeping} at all,
+he was just waiting for an excuse to get up.
+Because he's the most excited of us all.''
+She then smiled innocently at Daddy Mike,
+batting her eyelashes.
+
+Daddy Red laughed.
+``Yeah, that does sound like your Daddy Mike.
+You know how deep he sleeps normally.
+I've dropped pans while cheating an early-morning snack
+and @emph{he} never woke up to make me breakfast!''
+
+``You know that's not true, Redemptor,'' said Daddy Mike,
+his faced flushed.
+Mommy Maria, Daddy Red, and Stephanie laughed.
+
+``Oh, and guess what?'' said Mommy Maria.
+``So Stephanie got up early and woke us all up.
+You know what your son Marco did, when he got up?
+He went outside and woke all our neighbors up!''
+
+``What?'' said Daddy Red.
+
+``No I didn't!'' Marco objected.
+``I just whooped once!''
+
+``It was a really big shout,
+I'm sure they heard it all the way
+up to Rationality One,''
+said Stephanie.
+
+``What did Marco do?'' said Daddy Red.
+
+``Nothing really, I just went outside
+for a good breath of fresh air
+while waiting for breakfast,
+then I just whooped once!''
+
+Daddy Mike, Daddy Red, Mommy Maria and Stephanie laughed.
+Even Mommy Lizet smiled through the fog of drowsiness.
+
+Marco sighed, digging into breakfast.
+
+``Why don't you eat breakfast too?''
+Daddy Mike asked Daddy Red.
+
+``Canteen's probably not open yet,'' said Daddy Red.
+``And I'll probably go back to sleep when you go.''
+
+``How about you, Lizet?'' said Daddy Mike.
+
+``Just coffee, sweetheart,'' said Mommy Lizet.
+
+``Just coffee isn't healty, sweets,'' said Daddy Mike.
+``It'll be a tiring day for all of us.''
+
+``My brain isn't working yet, so it cannot possibly verify
+the validity of that statement, so just give me the coffee,
+sweetheart.''
+
+``It's been right in front you since Marco put it there,
+Lizet,'' said Mommy Maria.
+
+``I'm going to need more.  A lot more.
+I feel so sleepy today, sleepier than usual.
+What time is it anyway?''
+
+``Have a carbo bar at least,'' said Daddy Mike, offering one,
+which Mommy Lizet took, dipping it into the coffee.
+``It's about a quarter after five.''
+
+``Why are we up so early?  I thought we would eat breakfast
+after Rudy and Rayne leave for school?''
+
+Mommy Maria grinned.  ``Because Stephanie woke up really early.
+And now Marco's awake too.
+They're excited to begin the Seedling initiation,
+so Mike and I decided to bring them early.
+I probably need to record this explanation because
+that's the third time you asked that question this morning.''
+
+``Really?''
+
+Stephanie giggled.  Mommy Lizet absently patted her hand.
+
+``Why don't we wake Rudy and Rayne up?'' asked Marco.
+``I know it's early and the schoolboat
+won't pass here until seven thirty,
+but at least we can say goodbye personally.''
+
+``They were up late last night doing school projects,''
+said Daddy Mike.  ``Let them sleep.
+Waking them up is bad for their health.''
+
+``It's just one day, dad,'' said Marco.
+
+``That's what I told him, too,'' said Mommy Maria.
+
+``Marco and Steph can just write notes for them.
+And kiss them but don't wake them.''
+
+``Nothing's as good as saying goodbye in person,''
+said Stephanie.  ``Or at least by ekiga,'' she added,
+winking at Daddy Red, who smiled back.
+
+Daddy Mike grumbled.  ``Fine, then.
+But finish your breakfast first,
+my little sweets will want to eat when they get up
+and we don't have enough seats here.''
+
+``Anyway,'' said Daddy Red, ``the reason I wanted
+to ekiga you before you left, is, well, Mike?''
+
+``Uh, yes, Red.  Sweets, you have to wake up @emph{now},''
+Daddy Mike told Mommy Lizet, poking her.
+
+Mommy Lizet drank the rest of her coffee
+in a single gulp.
+She blinked, then breathed deeply.
+``Children --- Stephanie, Marco --- today is your
+Seedling initiation.  When you enter the Seedling boats,
+you'll stop being de Alugbati, and become ex Alugbati.
+And later when you form families of your own,
+you'll pick a new family name for your own family.''
+
+Her eyes drifted back into sleepiness.
+Marco almost wanted to laugh at this,
+but he guessed that this was a solemn leavetaking.
+
+Stephanie grinned at it, though.
+
+``So starting today,'' said Daddy Mike, ``you don't have to call
+us `mom' or `dad' anymore.  Today, you'll start becoming adults.
+A year from today, you'll officially be adults.
+And then, you shall be equal in standing,
+in the eyes of our laws and our culture, to us.''
+
+``We hope you become upstanding, successful, and public-minded citizens,''
+said Daddy Red, ``of whatever platform you choose to call your home.
+We hope that you remember this:
+for fifteen years, you were of the Alugbati family,
+and we have always strived to instill the values
+that we believe are necessary,
+for the success of an individual,
+for the success of a family,
+and for the success of a sea platform.''
+
+``And for the success of all of humanity,'' said Mommy Maria.
+``Perhaps some day you too shall have children,
+which you too shall send off as Seedlings
+when they grow to this age.
+And you too will know this:
+that you love your children,
+that you will want to protect them and to guide them,
+and that the best thing to do is to let them go
+and make their own path.''
+
+``We love you,'' said Daddy Mike.
+Their other parents nodded in agreement.
+
+There was a moment of silence.
+
+Marco forced himself to speak.  ``I love you too,''
+he said.  Then, tentatively, ``Mike, and Red, and Fara
+Lizet, and Maria --- I love you too.''
+
+``I love you too, moms, dads,'' said Stephanie.
+``I know we don't @emph{have} to call you that anymore
+but you didn't say we have to @emph{not} call you that ---
+so I'm going to call you that.  Is that okay?''
+
+Their parents chuckled.
+``I think it's okay with us, if you really want to,''
+said Redemptor.
+
+``Thanks,'' said Stephanie.  ``I really want to.
+I'm really happy.  And nervous, and excited.
+Thank you, moms, dads.''
+
+@node The Walk of the Seedlings
+@chapter The Walk of the Seedlings
+
+Rudy and Rayne waved them off
+as Marco and Stephanie crossed the threshold
+between the private and public-use areas of the deck.
+
+``Remember to e-mail us!'' said Rayne.
+
+``We will!'' said Stephanie.
+
+``Of course we will,'' said Marco.
+
+``Take care!  Make sure to come back
+and give us lots of money!
+You know how tightwad Daddy Mike is!''
+said Rudy.
+
+``I heard that, Rudy,'' said Michael Alugbati.
+Rudy stuck out his tongue at his father.
+
+``So,'' said Marco, as they stepped off
+their parents' homeboat
+onto a pontoon connected to their neighbor,
+``do we get a taxi?''
+
+``No,'' said Michael, ``traditionally,
+Seedlings are supposed to walk from their ex-homes
+to the Seedling launch location.''
+
+``But @emph{dad},'' said Stephanie,
+``that can't be a tradition,
+the Seedling initiations were started
+just ten years ago,
+this is just the fourth Seedling initiation,
+there's not enough time for there
+to be a tradition like that!''
+
+``Sounds like just the right time
+to start a tradition to me,''
+said Michael.
+
+``Wouldn't walking be fundamentally unfair?''
+said Marco.
+``I mean, some Seedlings would start farther
+from the Seedling launch site than others.
+Isn't the intent of the Seedling initiation
+supposed to be to give an equal start to all
+R1 and R2 teenagers?''
+
+``It's not as if being tired
+on this particular day
+would have that big an effect
+on your future.''
+
+``But it @emph{could},'' said Stephanie.
+``We'd be too tired to talk properly
+to our roommates during Self-Introduction,
+which could make us appear to be less valuable
+as allies later on,
+thus making us less actually valued by our peers
+and greatly reducing our chance
+of becoming successful.''
+
+Michael just sighed loudly.
+
+``Stop teasing your dad, sweethearts,''
+said Fara Elizabeth Alugbati.
+``Or your ex-dad, as your choice may be.
+In any case, you won't have any access to money
+until you get on the Seedling boats,
+and we're not going to spring any to pay
+for a taxi.''
+
+``What if we memorized the private key
+to the family wallet?'' asked Marco.
+
+``Then accessing it after we kicked you
+out of our homeboat would be stealing,
+sweetheart,'' said Lizet.
+``That is punishable by the laws
+of pretty much every platform of Sea State.
+The Alugbati family affiliates as a citizen of R1,
+which most definitely has stealing as an illegal act,
+and you would be punished
+whatever the jurisdiction you decide to live under.
+Starting this day you are viewed by the state of R1
+and the various R2 platforms
+as prospective adults.
+You would then be treated as adults
+if you access the property, without permission,
+of an R1-affiliated citizen.''
+
+``We lack sleep, Daddy Mike,'' said Stephanie.
+``It's unhealthy to walk all the way to
+Rationality One in this state,
+hopping onto different pontoons and homeboats.
+We might slip due to drowsiness and drown.
+How could we be successful that way?''
+
+Michael just sighed again.  Maria, Lizet, Stephanie,
+and Marco just laughed and hugged him.
+
+@sp 2
+
+Their route required them to pass through
+the public-use area of Lancer ex Caballeros' homeboat.
+The two fully adult women almost had to drag
+Michael off of the pontoon onto the deck.
+
+Marco stared at one of the reasons
+for Michael's reluctance ---
+a large sign on Lancer's private deck
+with the following epigram:
+
+@display
+Strength from Diversity
+Diversity from Tolerance
+Tolerance from Understanding
+Understanding from Rationality
+@end display
+
+A thickset, white-haired man
+emerged onto the homeboat's private deck
+and waved to them.
+As usual, he was wearing his naval uniform,
+emblazoned with advertisements from the sponsors
+of his navy.
+Seeing him, Michael forced a pleasant smile
+on his face and nodded in greeting.
+
+``Good morning, neighbors!'' said Lancer.
+``Hello, children.  Or I suppose you are Seedlings, now?''
+
+``Sir, yes, sir, ex-admiral sir!'' said Stephanie,
+smiling.
+
+Lancer stood at attention and saluted.
+``Succeed, Seedlings!
+And remember that you're the future of R1 and all the R2's.
+And if you can't decide on what to do with your life,
+well, there's the navy!
+Look up the Sea Strikers, or our siblings-in-arms,
+the Ocean Hunters!''
+
+Marco and Stephanie saluted in response,
+then laughed and waved goodbye
+to the eccentric retired navyman.
+
+Michael, the last to step onto Lancer's homeboat,
+was the first to hop onto the pontoon connecting it
+to the next homeboat.
+
+@sp 2
+
+``It's illegal, that's what it is,'' said Michael.
+
+``Just let it go, Mike,'' said Maria.
+``He's just a harmless, eccentric old man,
+all the kids like him,
+they like hearing his stories of patrolling the high seas
+and fighting sea pirates.''
+
+``They haven't finished debating the merits and demerits
+of that set of slogans,'' said Michael.
+``He should keep it on R2 where the politics is done.
+He could have just settled down on one of the R2 platforms
+after retirement.
+We'll vote for the slogans, or not vote for them,
+after the R2's have finished their debates.
+Let @emph{them} be the ones to subject their families
+to the cutting edge of sociopolitical structures!
+We chose R1 so that we could live in stability.
+And all those advertisements!
+On his clothes, on his deck, on top of his cabin,
+he probably has them on his underwear.''
+
+``He loves his old outfit, sweetheart,'' said Lizet.
+``They send the current advertisements of their sponsors
+and he puts them on his boat.
+On the private part of his boat,
+so that's not really our business.''
+
+``A man's right to throw around garish photons ends
+where my retina begins.''
+
+``Now, Mike,'' said Maria,
+``Remember, `Strength through Diversity.'
+It takes all kinds of people to make a society.
+And our own homeboat isn't pretty, either,
+with all those weird things
+Lizet and Red keep making
+to get more electrical power
+for the bitcoin mining rigs.''
+
+``Bah, don't quote them to me!
+I don't like hearing them.
+It'll bias me when the R2 debates end
+and R1 has to vote on whether to accept or reject them.''
+
+Maria shrugged.  ``I don't know why Mike hates Lance so much,''
+she whispered to Lizet.
+
+``Oh, and you quoted wrong,'' Michael added.
+``It's `Strength @emph{from} Diversity,' not `through'.''
+
+Behind his back, Lizet, Maria, Marco, and Stephanie
+grinned at each other.
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
 
 @include ccbysa3.texi
-
 
 @c Add a footer
 @html
