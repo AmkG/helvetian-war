@@ -35,3 +35,6 @@ h1.settitle {
 
 hr {
 	width: 20%; }
+
+ul.menu {
+	display: none; }
