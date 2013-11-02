@@ -51,6 +51,8 @@ a copy of this license, visit
 @menu
 * The End of Childhood::
 * The Walk of the Seedlings::
+* The Seedling Counselor::
+* The Gardeners::
 
 Appendix
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
@@ -576,7 +578,8 @@ and Marco just laughed and hugged him.
 Their route required them to pass through
 the public-use area of Lancer ex Caballeros' homeboat.
 The two fully adult women almost had to drag
-Michael off of the pontoon onto the deck.
+Michael off of the pontoon onto the deck
+of the infamously eccentric old man's homeboat.
 
 Marco stared at one of the reasons
 for Michael's reluctance ---
@@ -769,6 +772,463 @@ Stephanie ran up to Michael and hugged him.
 ``But I suddenly realized that these are also
 the last moments I'll have
 to tease you personally!''
+
+@sp 2
+
+The Alugbatis encountered
+more and more families with their Seedlings
+as they approached the ship Rationality One.
+Marco could son make out a queue of Seedlings,
+in their plain white, government-issued shirts,
+on the deck of the converted warship.
+
+A ramp led from a pontoon to that part of the ship.
+An official stood at the lower end,
+allowing only Seedlings to pass through.
+A small crowd of well-wishing parents stood around her,
+watching their Seedlings as they waited in line
+for their ship assignments.
+
+``Welcome to Rationality One,'' said Maria.
+``This is where our walk ends.''
+
+Marco and Stephanie started hugging their parents.
+
+Lizet hugged Marco and kissed him.
+Marco felt her press a small, flat and round
+metallic object into his hand.
+Then she whispered, ``this may be useful to you soon.''
+
+When he looked at her in surprise, she whispered,
+``Go west, sweetheart, and use this for the benefit
+of all of humanity.''
+
+He pocketed it, hoping nobody noticed.
+He recognized it from its shape and composition.
+
+His heart pounding, he approached the official
+and gave her his papers,
+hoping that he wasn't obviously sweating
+and that his polite smile didn't look fake.
+He rushed up the ramp when she let him pass.
+
+It was something that gave him an unfair advantage.
+It was something he never expected his parents
+to give him, not as a Seedling.
+
+It was a physical bitcoin.
+
+@node The Seedling Counselor
+@chapter The Seedling Counselor
+
+``Marco de Alugbati,'' said the man behind the desk,
+in a tiny government office onboard
+the de facto government center Rationality One,
+after Marco gave him the Seedling acceptance letter.
+Behind the man was a poster of a pair of staring eyes.
+``Genetic child of Redemptor and Fara Elizabeth Alugbati,
+registered child of Redemptor, Fara Elizabeth, Maria,
+and Michael Alugbati.''
+
+``Yes, sir,'' said Marco.
+
+``I'm Ricardo,'' the man said.
+``Cognitivist Ricardo Derrick,
+but just call me Ricardo.
+I'm your Seedling counselor,
+and I will conduct a short interview with you.
+Then you will be evaluated and,
+if deemed acceptable,
+your name will be formally changed from
+Marco de Alugbati to Marco ex Alugbati.
+Are you ready?''
+
+``Yes, Ricardo,'' said Marco.
+
+``Good,'' said Ricardo, tapping on the keyboard
+on his desk, not meeting his gaze.  ``Let's begin.''
+
+Ricardo asked Marco a series of simple,
+objective questions;
+the cognitivist focused intently
+on the computer screen.
+
+``What's your age?''  ``Fifteen years and a month.''
+``Have you completed basic education?'' ``Yes.''
+``Have you completed intermediate education?'' ``Yes.''
+``Have you completed basic rationality training?'' ``Yes.''
+``How often do you socialize with friends?''  ``About once a week.''
+...
+
+And then the question that made Marco slip.
+
+``Are you carrying anything other than the standard-issue
+Seedling knapsack?''
+
+Marco could almost say ``No.''  But, involuntarily,
+his eyes met the staring eyes on the poster for a moment.
+It made him pause.
+
+Ricardo looked at him.  ``So, Marco,'' he said,
+``you @emph{are} carrying something extra, aren't you?''
+
+Marco nodded.
+He felt the blood rush to his face,
+and found himself
+unable to meet Ricardo's eyes.
+
+``A neat trick, isn't it?'' said Ricardo.
+``Those eyes behind me, I mean.
+Old cognitivist's trick.
+While interviewing you we are not suppoed
+to look directly at you,
+as that would bias our judgment.
+But seeing eyes stare at you forces you
+to be honest.
+And those unblinking, perenially staring eyes
+up there force you to be very, very honest.''
+
+Marco said nothing.
+
+``That's strange,'' said Ricardo,
+looking up something on his computer.
+``You are listed as having surprisingly high
+self-control, at least when you were five years old.
+And you're de Alugbati.
+Your parents are famous
+for taking our laws and customs very seriously,
+and for being extremely concerned about, and I quote,
+`giving our rightful share for the advancement of society.'
+I wouldn't have thought that you would bring
+anything other than the items that were issued to you.
+So what, exactly, are you bringing in?''
+
+Marco fumbled for the coin in his pocket.
+He showed it to Ricardo,
+the placed it on the desk.
+
+``What is it?'' Ricardo asked, frowning.
+
+``It's a Casascius physical bitcoin,'' said Marco.
+``It has a face value of twenty-five bitcoins,
+as you see here under the big bitcoin symbol.
+The `vires in numeris'
+on the left side of the bitcoin symbol
+means `strength in numbers,'
+and is meaningful at several levels.
+The number `2011'
+on the right side is the year of minting.
+Here on the flip side of the coin
+is the tamper-resistant hologram label;
+the eight printed characters in the center
+are the first eight characters
+identifying a bitcoin wallet
+supposedly containing the face value amount.
+Peeling off the hologram label will reveal
+a small card containing the private key
+that allows access to the bitcoin wallet,
+and there is no conventional method
+of returning the label afterwards.
+This coin appears to be untampered,
+although you should realize that less than a decade
+after this coin was released,
+enthusiasts had already found a way
+to extract the card
+without the tampering being evident.
+Minting of this particular series of coin
+was stopped almost immediately.
+Currently, most of its value is actually
+in its collectibility;
+many collectors consider the face value
+to be essentially zero,
+and it is the coin itself,
+being of limited minting,
+that is valued.
+I'd estimate it to be worth about
+a hundred bitcoins
+at an antiques shop today,
+and a collector might be willing
+to go as high as a hundred fifty bitcoins for it.''
+
+Ricardo blinked.
+
+``Mr. de Alugbati,'' Ricardo said,
+``your family's business is bitcoin mining.
+I must confess that as a cognitivist,
+I only use bitcoins for receiving my salary
+and paying for things.
+Private keys, wallets ---
+can you explain them to me?''
+
+Marco nodded.  ``Well,
+I suppose you have a bank account somewhere,
+probably at R1 Bank?''
+
+``Yes.''
+
+``Now, a bank account is just
+a name attached to a number,
+the number being the amount of cash you own.
+Your bank account is, of course,
+protected by a personal identification number
+or PIN, correct?''
+
+``Correct.''
+
+``So a bank account is just a name,
+attached to a number, protected by a PIN.
+Now, imagine the bitcoin system
+as a giant, worldwide bank.''
+
+``I don't see how the bitcoins system
+would work like a bank.''
+
+``Well, a bank is just a set of bank accounts, right?
+And a bank account is just a record containing the name,
+the current balance, and the PIN.
+At the simplest and most naive level,
+you could implement a bank as a set of index cards.
+The bitcoin system is just a very special method
+of storing that information on very many computers
+over the Internet, with lots of encryption to ensure
+that the none of the computers can be programmed
+to cheat.''
+
+``I see.''
+
+``Think of each wallet as a `bank account,' associating a name ---
+or rather, what we call the `public key' of the wallet ---
+with a number, the number being the balance of bitcoins
+in that wallet.
+We use the public key instead of a name,
+to allow anonymity ---
+much like a numbered Swiss bank account.
+The bank account is protected by the `private key,'
+which is something like a PIN protecting the bank account.''
+
+``Ah,'' said Ricardo, ``so this physical bitcoin is something
+like a bank access card with the PIN written on it.''
+
+``Yes, although the PIN is hidden by a tamper-resistant label.''
+
+``How would I use it?''
+
+``Well, one way of paying another person would be
+to open an anonymous numbered bank account,
+deposit the needed amount of money,
+write the PIN on the bank access card,
+then wrap the bank access card in a tamper-proof package
+and give it to the other person.
+The person would then be able to open the tamper-proof
+package to withdraw the money.
+Or alternately, he or she could pass it, still wrapped,
+as payment to a third person,
+who could further pass it to a fourth, and so on.''
+
+``It doesn't seem to be very practical to me.''
+
+``Well, creating a new bitcoin wallet is much easier
+than opening an anonymous numbered bank account,
+but you're correct, it is relatively impractical.
+If both you and the other person have an account
+in the same bank,
+it's far easier to just transfer the amount
+between your accounts.
+And that's what a payment
+in the bitcoin system actually is:
+an inter-account transfer.
+The impractical nature of these coins meant
+that they were more of a publicity stunt
+for the bitcoin system;
+their impracticability is the reason for why
+they had limited minting.
+But today, the value of the coin is driven
+by the historic nature of the coin
+as an early publicity stunt
+at a time when bitcoin was considered a passing fad,
+and the limited minting of these coins.
+It is valuable because it is impractical.''
+
+Ricardo smiled.  ``Ironic, I suppose.
+The value you just quoted me ---
+a hundred bitcoins ---
+is too large for me to overlook.
+But knowing your family, a hundred bitcoins
+wouldn't be much to them.
+If I had been asked to imagine your parents
+giving you something valuable,
+something that would give you
+an advantage over your peers,
+I would have imagined them giving you
+at least a thousand bitcoins,
+and I'd probably seriously consider
+ten times that.
+They donated a thousand bitcoins
+for this year's Seedling fund,
+so anything they'd give to you
+would have to match that.
+And to risk this kind of scandal,
+to only give you a hundred bitcoins...''
+Ricardo shook his head.
+``This was given to you by your parents?''
+
+``Yes,'' said Marco.  ``Mommy Lizet ---
+Fara Elizabeth Alugbati ---
+gave it to me.
+Just a little while ago.''
+
+``Very strange.''
+Ricardo rubbed his lips,
+his forehead knotted.
+``The value of this coin would be sufficient grounds
+for me to cancel your Seedling acceptance letter
+and have you discreetly sent back home.
+But no matter how discreet it would be,
+someone would know that you were caught trying to cheat.
+Your parents would lose significant influence
+once word of this leaks out,
+and you would find your Seedling initiation delayed
+until the next initiation.''
+
+Ricardo leaned back in his chair.
+``Did she tell you anything about it?''
+
+``Well, all she told me was that
+I might find it useful, and to go west
+and help humanity.''
+
+Ricardo raised his eyebrows,
+but otherwise said nothing for a long while.
+
+@sp 2
+
+``Sir?'' asked Marco, ``does this mean that
+I have to go...?''
+
+``Can you try to remember exactly
+what she told you?''  Ricardo said,
+as if Marco hadn't asked a question.
+
+``Uh... It went something like:
+`You might find it useful soon.
+Go west, sweetheart, and use this
+to benefit all humanity.'
+That's all I remember.''
+
+Ricardo picked up the coin
+and held it out to Marco.
+
+``Take it.  I'm going out on a limb
+and say that you never mentioned this,
+and I trust that you will not
+mention the coin to anyone,
+until the time you need to use it.
+Go on, take it.''
+
+Puzzled, Marco took the coin.
+At the brief touch,
+he realized that Ricardo's hand was shaking.
+
+``So she said `go west,' did she?'' asked Ricardo.
+``Thank you for telling me.
+There are --- some organizations, part of Sea State,
+with particular code words and phrases.
+Your parents are an important contact point
+for one of those organizations.
+As part of a --- common code ---
+`go west' has a particular meaning.
+It means: `prepare for imminent war.'
+Your parents have just sounded a warning,
+and used you, and most likely your sister,
+to transmit that warning
+to the central government of R1
+and its associated sea platforms.''
+
+``My parents are @emph{spies}?''
+
+``Information processing nodes, actually.
+Spymasters, not spies.''
+
+Marco could not think of a proper reaction
+to this revelation.
+
+Ricardo smiled.
+``Your parents are known to be very clever.
+Especially Red and Lizet.
+If you had managed to pass through this interview
+without mentioning the coin,
+then you would have accepted their advice
+at the literal level.
+Which means that you would, literally,
+want to go west from R1.
+So I suggest that you continue to follow the
+literal meaning of the advice: go west.
+Head west, and convince your fellow Seedlings
+to head west.
+Cross the South Pacific.
+Head for the Dunbarite platforms, if you can.
+And @emph{use} that coin.
+I suspect its value is far, far more than a mere
+one hundred bitcoins.''
+
+@sp 2
+
+``Here are the formal papers attesting to
+your change of name and status
+from child of the Alugbatis --- de Alugbati ---
+to an adult that has left the Alugbatis ---
+ex Alugbati.
+This sealed envelope is your randomly-assigned
+room number.
+When you exit this room, turn right
+and then open your room number envelope,
+then board your assigned ship
+and look for your assigned room on that ship.''
+
+Marco took the offered papers, but remained seated.
+``Ricardo, I'm sorry, but this has been so fast ---
+I was expecting to be sent home,
+shamed for trying to smuggle in a physical bitcoin.
+Now you're telling me I can go?''
+
+``Son, what you just told me means that we will be
+a lot less strict about what the Seedlings are
+allowed to bring on board.
+The Alugbatis have sounded the alarm.
+We may need to consider evacuating R1 and the R2's.
+Right now, getting you and your fellow Seedlings out there
+takes higher priority than
+merely ensuring fairness.
+Go, Seedling, and keep that coin safe!''
+
+@sp 2
+
+When Marco finally mustered enough self-awareness
+to stand and leave, he turned right and walked a little,
+then stopped.
+
+He stood there for a moment, looking behind him.
+
+Another Seedling exited from an adjacent office,
+running past Marco.
+Another Seedling then walked up from the waiting
+area on a lower deck, and entered that office.
+Then another Seedling exited another counselor's office,
+jumping in joy, and soon another one entered timidly
+into that office.
+
+For a long while,
+nobody entered Ricardo Derrick's office
+after Marco left it.
+
+@sp 2
+
+As if in a dream, he opened the sealed envelope.
+
+Seedling boat 3, room number 2.
+
+@node The Gardeners
+@chapter The Gardeners
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
