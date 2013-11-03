@@ -53,6 +53,7 @@ a copy of this license, visit
 * The Walk of the Seedlings::
 * The Seedling Counselor::
 * The Gardeners::
+* Seedling Boat 3; Room Number 2::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -1235,7 +1236,19 @@ to be with his family?
 With Rudy and Rayne and Daddy Mike and Mommy Lizet and
 Mommy Maria and Daddy Red?
 
-Then, with a deep breath, he continued in the direction
+@emph{Your parents are known to be very clever.
+Especially Daddy Red and Mommy Lizet,
+but they're all clever.
+If you had managed to pass through that interview
+without mentioning the coin,
+then you would have gone on
+with the Seedling initiation.
+Which probably means that
+going on the Seedling initiation
+is the best course of action
+your parents could come up with.}
+
+With a deep breath, he continued in the direction
 that Ricardo had indicated.
 
 @node The Gardeners
@@ -1246,6 +1259,500 @@ beside the newly 3D-printed hull of this year's
 Seedling boat 3.
 Her fellow Gardener, Renee Magnus,
 should be arriving soon.
+
+The cognitivists of Rationality One
+were supposed to be the ones
+who would brief Renee Magnus.
+
+Except that a few minutes ago,
+a cognitivist had contacted her by ekiga
+and informed her that a situation had come up
+that would require their attention.
+They were too busy
+to brief the new Gardener
+on her duties.
+She would have to be the one
+to introduce Gardening
+to her new partner.
+
+The irregularity --- @emph{worried} her.
+
+In previous years,
+the cognitivists had insisted on
+briefing her,
+even though she had been part
+of the Seedling project
+even before it had been introduced
+to R1 ten years ago.
+She had been one of the first Gardeners
+who had volunteered for a limited trial run
+of the concept
+on one of the R2 platforms,
+before it could be accepted for voting
+by the main, R1 platform.
+
+A sleek, fast homeboat cruised beside hers,
+stopping to align their public-use decks.
+
+Sara ex Mulligan opened the door of her cabin
+to greet Renee.
+
+@sp 2
+
+``Good morning,'' said Sara,
+standing at the demarcating line between
+the public-use and private parts
+of Renee Magnus's homeboat,
+once she had tied their decks together.
+
+``Greetings,'' said the middle-aged woman
+who emerged from the other cabin.
+``I am Renee Magnus.
+My husband Simon is inside.
+Sara ex Mulligan, I presume?"'
+
+``Yes,'' said Sara.
+``Welcome to the Seedling initiation of
+the R1 platform and all the R2 platforms.
+You have volunteered to be a Gardener ---
+a counselor, guide, and guardian
+for our Seedlings.
+You have thus been assigned to be
+one of the two Gardeners
+of Seedling boat 3, here.
+Normally, this briefing would be conducted
+by a cognitivist of Rationality One,
+but, due to unavoidable circumstances,
+I will be the one giving you this briefing.
+Have you read the handbook?''
+
+``I have,'' said Renee.  ``Please, do come in.''
+
+Sara suppressed a slight fidget.
+``Actually, I've prepared the presentation
+on my homeboat's computer.
+So I'd like to invite you to my own homeboat.
+Your family may also attend,
+although it may be a tight fit
+if there are more than two people
+in my cabin.''
+
+``Ah --- thank you for your invitation.
+I suppose my husband can wait for me.''
+
+@sp 2
+
+``Do you have any questions?'' asked Sara
+at the conclusion of her briefing.
+
+``Well,'' said Renee, ``no socialization
+with your partner Gardener ---
+that seems strange to me.''
+
+``The cognitivists insisted on that,'' said Sara.
+``The original Seedling initiation plan
+did not have that rule,
+but apparently the cognitivists worried
+that the partner Gardeners might collude
+in order to cheat the Seedlings
+or otherwise abuse their position.
+The reason for having two Gardeners per Seedling boat
+is for them to keep an eye on one another,
+as well as to keep an eye on the Seedlings themselves.
+Apparently, a classic cognitivist piece of advice
+is that dishonesty is limited
+if there is a stranger monitoring you,
+but the dishonesty rises and erases that effect
+once you get become familiar and friendly
+with the monitor.
+Hence the no socialization rule.''
+
+``But having you brief me on the rules
+of Gardening ---''
+
+``Is not normal procedure, actually.''
+Sara wondered if continuing
+on this conversation topic
+was a good idea.
+She did not know
+the reason for this irregularity,
+and she suspected that sharing her speculations
+could be considered too near to socialization.
+
+On the other hand,
+this briefing, by itself,
+could be considered a form of socialization ---
+
+``So what @emph{is} normal procedure?''
+
+``Normally, a fresh Gardener would be briefed
+by certified cognitivists of Rationality One.
+And they'd also insist that long-time Gardeners,
+like me,
+should also be briefed each time.''
+
+``How long have you been a Gardener?''
+
+Sara smiled thinly.
+``I'd prefer to answer questions about
+the rules of Gardening,
+rather than personal questions about myself.''
+
+``My apologies,'' said Renee.
+``I suppose that falls under socialization.''
+
+``Yes.''
+
+``As to the rules of Gardening ---
+the rules have been bent, haven't they?''
+said Renee.
+``I accept the reasoning for
+why we should not socialize ---
+but this briefing would make us,
+at least a little,
+more familiar with each other.
+Which suggests to me
+that your cognitivists
+are currently very concerned
+about something
+they consider much more important
+than the future of your precious Seedlings.
+What could it be?''
+
+Sara just shook her head.
+She'd already thought as much,
+on receiving the order
+to handle this briefing by herself.
+
+``Now, now,'' Renee pressed forward,
+``The rule on not socializing with
+your fellow Gardener has been bent.
+I suggest that sharing information we have
+has more valuable utility
+than attempting to maintain a rule
+whose spirit has already been violated.''
+
+``You are from a Dunbarite platform,''
+said Sara, still shaking her head.
+
+``And what of it?'' Renee said, tightly.
+``I am still a citizen of Sea State.
+R1 may be the largest and most well-known
+platform of Sea State,
+it may serve as the de facto capital city
+of Sea State,
+it may have a navy of client platforms
+it simply calls `the R2's,'
+without even individual names ---
+but this does not justify
+your apparent mistrust, withholding
+possibly vital information.''
+Renee sniffed.
+``Very well, then,'' she said,
+when Sara continued her silence.
+``I shall endeavour to gain your trust,
+unjustified though I consider your mistrust may be.
+I am part of a network of knowledge workers
+who monitor world events.
+A short while ago, a node of our network,
+here on R1, went silent ---
+suspiciously silent.
+By backtracking through the information shared
+and queries sent
+by that node,
+I concluded that this node had became worried
+about the possibility
+that Sea State might get into conflict ---
+with what, I do not know.
+That is, in fact,
+the true reason for why I volunteered
+for the cultural exchange program
+between our platform and R1,
+and why I volunteered to be
+a Gardener for this year's Seedling initiation.''
+
+``I see,'' said Sara.
+She held up her hand, and said,
+``Let me think for a moment.''
+
+After a while, she said,
+``Obviously, the reason for
+their disregard for the Seedling's future
+is their concern
+for the Seedling's @emph{present}.''
+
+``Obviously,'' said Renee.
+
+``I'm not sure if it's relevant,'' Sara said,
+``but the no-socialization rule
+had been an important point
+that the cognitivists of R1 insisted on.
+To be honest, I thought it was quite impractical
+to impose that rule
+when they first proposed it ---
+or rather, when they first insisted on it.
+The cognitivists also recommended
+shuffling the Gardeners
+when the Seedlings get shuffled between boats,
+to help enforce the needed separation.
+To allow that rule to be bent now ---
+means that the conflict you told me about
+must be something to be taken seriously.''
+
+``You've been with the Seedling program
+since the beginning?''
+
+``I've been a Gardener since the Seedling program
+was prototyped on an R2 platform,'' Sara said,
+unconsciously sitting a little straighter.
+``So tell me, miss member-of-a-network ---
+is war coming?
+If war comes,
+where can my beloved Seedlings grow?''
+
+@node Seedling Boat 3; Room Number 2
+@chapter Seedling Boat 3; Room Number 2
+
+Marco climbed down the ladder
+from Rationality One
+leading to a boat
+emblazoned with the sign
+`Seedling Number 3.'
+He presented his papers
+to the official
+standing at the demarcating line
+between the public-use
+and private parts of the boat's deck.
+
+The official handed the papers back,
+then said, with a practiced, cheery smile
+and a slight bow,
+``Welcome, Mr. @emph{ex} Algubati,
+to Seedling boat 3!''
+
+He was on the vessel he would call
+his homeboat for at least three months.
+
+His heart still pounding, not yet recovered
+from the interview with the Seedling counselor,
+he took the papers,
+entered the private part of the deck,
+and climbed a short staircase leading
+to the rooms inside.
+
+@sp 2
+
+The room had four bunk beds, two on each of
+the longer sides,
+and two smaller doors
+at the end opposite the entrance,
+which Marco supposed led to toilets.
+On the left-side upper bunk
+lay a young man,
+who appeared to be napping.
+
+``Hello,'' Marco said softly.
+
+``Oh, hello!'' said the young man,
+who got up.
+``Cheers de Littlefoot.
+Err, I mean Cheers ex Littlefoot.''
+He extended his hand.
+``Pleased to meet you, roommate!
+You are?''
+
+``Marco ex Alugbati,'' said Marco,
+closing the door
+and reaching up
+to shake Cheers' hand.
+
+``Good, good,'' said Cheers.
+``I'll confess I was hoping to be
+the only guy in a room of girls,
+but I guess I'll have to settle
+for a much more normal two guys,
+two girls setup.''
+
+Marco forced himself to smile
+at this crudity.
+``I think most of us have fantasized
+something like that.''
+
+Cheers laughed.  ``No, no, my friend!''
+His name certainly seemed aproppriate.
+``You misunderstand.
+We're all guys in my family.
+So I was hoping to find out
+what it is like
+to live with girls.
+Are they as noisy and strange as
+my research led me to believe?''
+
+``I doubt real girls are as noisy
+and strange as you are,''
+said Marco.
+``So your siblings are all boys?''
+
+``Yes, but it's even worse than that,
+roommate!''  said Cheers.
+``My parents are both boys.
+They're a homosexual couple.
+I'm straight, to their lasting disappointment.
+My younger brother is better in that regard.
+He's the only sibling I have.
+Anyway, welcome to Seedling boat 3's
+room number 2.
+Pick a bunk!
+You can have any of those three.''
+
+Marco threw his knapsack
+into the remaining upper bunk
+and climbed into it.
+``So... are you adopted?'' he asked.
+He suspected the question
+would not be even remotely offensive
+to his cheery roommate.
+
+``Ah, no!'' said Cheers.
+``I'm a biological child of both my fathers.
+And my mystery deepens,
+does it not, my friend?
+It's hard to explain,
+but I promise I'll tell all
+at my Self-Introduction later,
+when our room is complete.
+Anyway, I got up very early today,
+which is why I got this nice bunk,
+which is fractionally nicer than yours,
+and orders of magnitude better
+than the bottom bunks.
+You are to be complemented
+on your choice of bunk.
+In any case, as I mentioned,
+I woke up early and
+I'm a little sleepy right now.
+I'll nap just a bit, okay?''
+
+``Okay,'' said Marco.
+
+Not knowing what to do,
+and still not quite calm enough to sleep,
+he opened his knapsack
+and took out the computation pad.
+He enabled it and waited for it
+to connect to the ship's wireless.
+
+@sp 2
+
+The computation pad was a cheap, low-power model.
+It had an electronic paper main display,
+which took a half-second to refresh at each change,
+and a smaller low-resolution black-and-white LCD display,
+which was used to show the text he was currently entering.
+It was far less powerful
+than the computation pad
+his parents had given him.
+Still, it was all that he was allowed to use,
+as a Seedling.
+
+He wrote a short note to his family.
+
+@quotation
+Hello!
+
+I'm on board!
+
+I'm on Seedling boat 3, room number 2.
+There's one other guy here now,
+Cheers ex Littlefoot.
+He's a little weird, I think.
+He says he's girl-obsessed
+because both of his parents are guys
+and all he has
+is a younger brother for a sibling.
+
+He says he's the biological son
+of both his fathers.
+Don't know how that happened.
+He says he'll explain everything later,
+in Self-Introduction.
+
+We're waiting for our two remaining roommates.
+I guess they'll probably both be girls,
+to balance things out.
+
+Rudy, sorry, but I haven't earned lots of money yet.
+You'll have to beg your Daddy Mike
+to raise your allowance for now.
+
+My love to you all.
+I miss you already, Mike, Lizet, Red, Maria,
+Rudy and Rayne.
+I wonder if I'll get to be on the same boat
+as Steph after the shufflings.
+@end quotation
+
+Then he sent the message by e-mail.
+
+He debated with himself for a short while.
+Then he created another e-mail,
+addressed only to Fara Elizabeth Alugbati,
+agonizing over almost each word,
+crafting the message to be
+as innocous as possible,
+and yet having some meaning,
+if you knew
+particular bits of information beforehand.
+
+@quotation
+Hi mom!
+
+I just had to tell my Seedling counselor,
+Cognitivist Ricardo Derrick,
+about your advice to go west.
+
+He seemed to understand.
+
+He agreed that I should use
+the resources that all our parents
+pooled together and gave to us Seedlings
+to go west.
+
+Love, Marco.
+@end quotation
+
+@sp 2
+
+He waited for a reply for a moment,
+but none came.
+
+Then he wondered about the physical bitcoin
+that his mother had given him.
+The 8-digit code printed on the coin itself
+was not long enough to identify the bitcoin wallet
+containing the face value amount,
+but he knew that files could be found
+on the internet
+which mapped Casascius physical bitcoin codes
+to the full wallet address.
+
+He found a few copies of that file,
+which all matched up the same,
+and then found a PGP signature
+known to be made by Casascius himself
+attesting to the veracity of those copies.
+He copied the wallet address
+and looked it up
+on Block Explorer, @url{blockhain.info}.
+
+The wallet address contained
+the full face value of twenty-five bitcoins.
+
+But in order to withdraw it,
+he would have to open the coin
+and extract the private key
+that would allow acccess
+to the wallet.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
