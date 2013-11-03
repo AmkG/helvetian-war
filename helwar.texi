@@ -1346,7 +1346,7 @@ I suppose my husband can wait for me.''
 at the conclusion of her briefing.
 
 ``Well,'' said Renee, ``no socialization
-with your partner Gardener ---
+with your fellow Gardeners ---
 that seems strange to me.''
 
 ``The cognitivists insisted on that,'' said Sara.
@@ -1586,7 +1586,7 @@ So I was hoping to find out
 what it is like
 to live with girls.
 Are they as noisy and strange as
-my research led me to believe?''
+my research has led me to believe?''
 
 ``I doubt real girls are as noisy
 and strange as you are,''
@@ -1598,6 +1598,8 @@ roommate!''  said Cheers.
 ``My parents are both boys.
 They're a homosexual couple.
 I'm straight, to their lasting disappointment.
+Straighter than a straight edge,
+as my fathers like to say.
 My younger brother is better in that regard.
 He's the only sibling I have.
 Anyway, welcome to Seedling boat 3's
@@ -1626,7 +1628,7 @@ which is why I got this nice bunk,
 which is fractionally nicer than yours,
 and orders of magnitude better
 than the bottom bunks.
-You are to be complemented
+You are to be complimented
 on your choice of bunk.
 In any case, as I mentioned,
 I woke up early and
@@ -1723,7 +1725,8 @@ Love, Marco.
 
 @sp 2
 
-He waited for a reply for a moment,
+He waited for a reply from his family
+for a moment,
 but none came.
 
 Then he wondered about the physical bitcoin
@@ -1741,11 +1744,22 @@ which all matched up the same,
 and then found a PGP signature
 known to be made by Casascius himself
 attesting to the veracity of those copies.
-He copied the wallet address
+Keeping an eye on Cheers,
+who seemed to be genuinely asleep,
+he took out the coin
+and copied the 8-digit code
+into the computation pad,
+then put the coin back
+into his pocket.
+
+He looked up the 8-digit code
+in the file,
+then copied the complete wallet address
 and looked it up
 on Block Explorer, @url{blockhain.info}.
 
-The wallet address contained
+To his surprise,
+the wallet address contained
 the full face value of twenty-five bitcoins.
 
 But in order to withdraw it,
@@ -1753,6 +1767,200 @@ he would have to open the coin
 and extract the private key
 that would allow acccess
 to the wallet.
+Obvious tampering would drastically lower
+the collector's value of the coin itself ---
+which was much higher than the face value
+of the coin ---
+and he doubted he had enough skill
+to peel and return the hologram label
+without damage.
+
+Then he heard a knock on the door,
+disabled his computation pad,
+and saw Cheers get up from his bunk.
+He himself got up as the door opened.
+
+@sp 2
+
+``Hello,'' said the young man at the door.
+
+``Hello!'' said Cheers.
+``Cheers ex Littlefoot.
+Pleased to meet you,
+roommate!'' he said,
+extending his hand.
+``You are?''
+
+``I'm Damian Carlo ex Mantis,''
+said the young man.
+``Call me Damian.''
+He shook Cheers' hand.
+
+``Hi Damian,'' said Marco,
+extend his hand.
+``I'm Marco ex Alugbati.
+Pleased to meet you.''
+
+``My pleasure,'' said Damian,
+shaking his hand.
+
+``Welcome to Seedling boat 3's
+room number 2!'' said Cheers.
+``You can have any
+of the two bunks below us.''
+
+Damian nodded and put his knapsack
+in the bunk under Marco's.
+
+``I have to confess,
+I was hoping my last two roommates
+would be girls,'' said Cheers.
+``In order to properly balance
+the room.
+Ah well, I guess our last roommate
+is our only hope
+of a feminine touch.''
+
+``Well,'' said Damian,
+as he sat on his chosen bunk
+and took out his computation pad,
+``Given already two males in the room,
+there's only slightly more than 25% chance
+of getting two females in the remaining
+two slots.''
+
+Then Damian took out a small keyboard
+and connected it to his computation pad.
+
+``Hey, how'd you get that?'' asked Cheers.
+
+``This keyboard?'' said Damian.
+``Smuggled it in.
+Not like it's gonna be a big advantage
+over the rest of you, eh?''
+
+``I guess,'' said Cheers.
+
+``Sorry, but I'm a programmer,
+and I hate touchscreeens,'' Damian said.
+``Something wrong with my skin's galvanic response,
+or something,
+so that touchscreens sometimes fail
+to register my tapping.
+Touchscreens don't have tactile feedback,
+and the worst combination
+is this slow electrophoretic electronic paper display,
+which means that the visual feedback is slow.
+It's like trying to program with both hands tied
+behind your back.
+Still nothing faster than a touch typist
+using a tactile, button-based, physical keyboard.''
+
+``What did you say when the Seedling counselor
+asked you if you were carrying items
+that weren't in the standard-issue knapsacks?''
+asked Cheers.
+
+``Hmm?'' Damian said.  ``Don't remember being asked
+about extra items.
+Sounds dumb to ask that,
+could just lie, right?
+Prolly just weeding out idiots
+who can't lie.''
+
+``I guess,'' said Cheers.
+He still frowned at
+Damian's keyboard,
+then shook his head.
+
+Marco wished he could tell them
+about the eyes, and the coin.
+
+@sp 2
+
+Cheers settled back down to nap,
+and Damian leaned out of sight,
+probably to program his computation pad.
+
+Marco lay back again and checked his mail.
+
+There was a message from Steph.
+
+@quotation
+Hey bro!
+
+We're lucky!
+I'm on Seedling boat 3 too!
+Room 5.
+Looks like I'll be seeing you!
+
+There's a cute girl here,
+maybe I'll introduce you to her,
+what do you think?
+She's Susan ex Guillermo,
+from an R2 platform.
+
+Your roommate Cheers sounds interesting!
+I'm curious about how he got to be
+the biological son
+of both of his fathers.
+That makes him sound like the unnatural product
+of a laboratory experiment!
+
+Anyway, Rayne, Rudy, study well
+and maybe I'll send you something nice,
+haha.
+I love you two!
+Hope you're comforting Daddy Mike,
+he's probably crying about losing
+two of his children
+on the same day!
+Hugs and kisses everyone!
+@end quotation
+
+After he finished reading Steph's e-mail,
+he saw another message in his inbox.
+
+It was from Red,
+carbon-copied to all of his parents.
+
+@quotation
+Hello Marco,
+
+It's good to know
+that the cognitivists of R1
+agree with us.
+
+Love, Red.
+@end quotation
+
+@sp 2
+
+Just as Marco had read Red's message,
+he heard a knock on the door.
+They all got up to greet their last
+roommate.
+
+Slowly, the door opened,
+revealing a short young man.
+
+Cheers grinned.  ``Hello!
+Cheers ex Littlefoot.
+Pleased to meet you, roommate!
+You are?''
+He extend his hand.
+
+The young man bowed slightly,
+his cheeks flushed,
+and stuttered slightly.
+``I'm J--- I'm John de ---
+John ex Nikos.''
+He bowed again.
+``I'm pleased to meet you too,
+and I hope we can work together
+as roommates.''
+
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
