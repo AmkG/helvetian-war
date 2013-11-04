@@ -54,6 +54,7 @@ a copy of this license, visit
 * The Seedling Counselor::
 * The Gardeners::
 * Seedling Boat 3; Room Number 2::
+* The Politician::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -1960,7 +1961,219 @@ He bowed again.
 and I hope we can work together
 as roommates.''
 
+``Hello,'' said Damian.
+``Damian Carlo ex Mantis.''
+They shook hands.
 
+``Hello!'' said Marco.
+``I'm Marco ex Alugbati.''
+He extended his hand to John.
+
+John beamed a lopsided, shy smile at him,
+took his hand and shook it.
+Then he bowed a little
+and backed into the remaining empty bunk.
+
+``Sadly, it seems that
+we'll all be boys in this room,''
+said Cheers.
+``How unlikely could that get?''
+
+``Not so unlikely,'' said Damian.
+``One out of sixteen approximately.
+Given 7 rooms a boat,
+and seven boats,
+expect maybe two or three
+all-male rooms,
+and maybe about the same number of
+all-female rooms.''
+
+``Maybe we'll get to be with girls
+after the Shuffling
+three months from now, eh?''
+He winked at Marco,
+then shook his head ---
+possibly in mock sadness, Marco thought.
+
+``Sorry,'' John said.
+Marco heard Damian grunt.
+
+``No need to be, roommate!'' said Cheers
+``So!  It looks like we're all here.
+Come on!''
+He rubbed his hands, beaming at them.
+``Let's start Self-Introduction!''
+
+@node The Politician
+@chapter The Politician
+
+``Does anyone feel a pressing need
+to volunteer to go first?'' asked Cheers.
+
+``No,'' said Damian.
+Marco shrugged and John shook his head.
+
+``Ah well!'' said Cheers.
+``Somebody has to go first,
+so to break the ice,
+I'll volunteer.''
+He got off his bunk
+and bowed.
+Marco clapped a little.
+
+``Hi, roommates!'' said Cheers, waving his hand.
+``I'm Cheers ex Littlefoot,
+as I told you all before.
+I'm from an R2 platform.
+My parents manage part of
+the sea fertilization pumps
+south of R1,
+and also operate a fleet of fishing boats
+as a side business.
+But to be honest,
+they don't really think of themselves
+as enterpreneurs, or fishermen, or managers.
+As they keep on telling me and my brother ---
+they're politicians.
+The work they do is
+just to pay the bills.
+But their @emph{passion},
+their @emph{drive} ---
+that's for politics ---
+or in their own words,
+designing the policies
+to make human society
+more efficient.''
+
+``Wow,'' said John.
+
+``Please, I am just the children of my fathers,''
+said Cheers.
+``I have yet to live up to their ambitions and dreams.''
+
+``Fathers?'' asked Damian.
+
+``As I told our good roommate Marco ---
+my two parents are both male.
+Papa Samuel and Papa Havelock Littlefoot.''
+
+``Really?'' said John.
+
+``Really!'' said Cheers.
+``They keep saying over and over again that
+they're gayer than a gay old time,
+whatever that means ---
+some old joke, I guess.
+Oh, by the way ---
+I am also the biological son
+of both of my fathers!''
+He grinned, teasing them,
+then bowed again.
+
+``You said that to me earlier,'' said Marco.
+``How'd that happen?''
+
+``Quite simply, actually,'' said Cheers.
+``My fathers made a deal with 
+lesbian couple
+who also wanted to have children.
+They would donate semen
+for artificial insemination,
+and my biological mothers
+would get one child
+and my fathers would get the other.
+My fathers decided to combine their semen,
+and with genetic profiling,
+I turned out to be a genetic chimera,
+with genes from both of my fathers.
+So I am, in fact,
+quite literally the son of my fathers.''
+
+``What's a genetic chimera?'' said John.
+
+``Multi-celled organism with
+cells from different genetic lines,''
+said Damian.
+``Basically means that Cheers
+should have been fraternal twins,
+except the two fertilized egg cells
+joined together to form one fetus
+rather than two separate fetuses.''
+
+``Thank you very much, Damian!'' said Cheers.
+``A clear and concise explanation.
+My gonads, after genetic testing,
+turned out to be genetically from
+Papa Havelock,
+so I'm registered as the genetic child
+of Havelock Littlefoot
+and Michelle Wisteria.''
+
+``Have you met your genetic mother?''
+asked Marco.
+
+``Oh, we visit each other occassionally,''
+said Cheers.
+``My genetic mother and her partner
+is from the Dunbarite platform
+`Sharp Insight.'
+My half-sister Janelle de Wisteria
+is just a few days older than me.
+Age of adulthood on `Sharp Insight'
+is 17 years old, though,
+so I'm an adult before she is,
+ha ha!''
+
+``Why did your parents choose `Littlefoot'?''
+asked John.
+
+``I don't know,'' said Cheers.
+``They never really told us about why
+they chose that name.
+Anyway, they were both
+already highly active politicians
+when they met each other
+and started their relationship.
+They said they enjoyed
+debating with each other
+on politics ---
+`sparring sessions' is
+what they would call it,
+ha ha!''
+John and Cheers chuckled.
+
+Damian blinked.
+``What's funny about `sparring session'?''
+
+John cleared his throat.
+``Well, while `sparring' is used to refer
+to a one-on-one friendly competition
+in a combat sport
+for the purpose of training,
+the base word `spar' itself
+literally means a, um,
+thick, strong wooden pole.
+So, in the context of, um,
+a homosexual male couple ---''
+
+Damian groaned.
+``Okay, okay, understood.''
+
+``Thank you, John!'' said Cheers.
+``Don't worry, my good roommate Damian,
+it took me a @emph{very} long time
+to understand
+a lot of my fathers' jokes.
+Papa Samuel likes to say it needs
+a really penetrating intellect
+to really get into
+and enjoy Papa Havelock's basest.''
+He smiled even wider
+than Marco had ever seen him smile today.
+
+After a short while, Damian groaned again.
+
+@sp 2
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
