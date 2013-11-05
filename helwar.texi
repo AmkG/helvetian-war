@@ -2322,7 +2322,7 @@ John bowed, blushing.
 Or more importantly ---
 perhaps some of you already know more
 about me and my family
-than I do myself?
+than I do myself, like John did?
 Marco?  Damian?''
 
 Damian shrugged.
@@ -2396,7 +2396,8 @@ plus some spare change
 to start a small business.
 And a cognitivist ---
 a cognitivist! ---
-thinks it is far, far more valuable
+thinks that it is somehow
+far, far more valuable
 than its fair market value
 as a collector's item.}
 
@@ -2421,6 +2422,74 @@ that the Alugbati family was formed.''
 `information processing node'
 would be more efficient that way?}
 
+``Wow,'' said John.
+Damian gave him a bemused smile.
+
+``You know, sometimes my friends
+ask me what it's like
+growing up with two male parents
+and no female ones,'' said Cheers.
+``But now you've got me wondering
+what it's like
+to grow up with two male parents
+@emph{and} two female parents.''
+
+``You know how you can ask your mom ---
+or one of your dads, in Cheers' case, I guess ---
+for something
+and she denies it to you,
+then you could try to ask, um, your other parent
+and maybe the other one will give in to you?''
+Marco said, pausing for greater impact.
+``Well, I've got it even better,
+because if I fail to convince two,
+I still have two more chances
+of getting what I want!''
+
+They chuckled.
+
+``You know,'' said Marco,
+``a four-parent family is
+actually more stable,
+according to Daddy Red.
+We call him `Rad Dad', sometimes,
+when our parents can't hear us,
+because he can come up
+with really great ideas,
+somtimes.
+We call Daddy Mike `Mad Dad', too,
+because he's usually the one who scolds us
+about not fixing the beds and everything.''
+
+Cheers asked, ``Why does your Rad Dad
+say a four-parent family is more stable?''
+
+``Childcare duties are more distributed,''
+said Marco.
+``And if you get in a fight with one partner
+you can get comfort from two other partners,
+and they can act as mediators between you.
+You have more resources in total to pool togehter,
+and you can cook larger meals more efficiently.
+Four parents are not so large to coordinate,
+so that's sort of like a sweet spot ---
+more people to get more done,
+but not so many that coordination
+becomes a problem.
+And so on.
+Things like that.
+To be honest,
+I've lived with four parents for so long
+that it's the idea of having just two parents
+in a family
+that seems @emph{weird} to me.
+Although I suppose your point of view
+would be drastically different.''
+
+John nodded in sympathy.
+Damian still looked bemused.
+
+``
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
 
