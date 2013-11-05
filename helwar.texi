@@ -55,6 +55,7 @@ a copy of this license, visit
 * The Gardeners::
 * Seedling Boat 3; Room Number 2::
 * The Politician::
+* The Banker::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -2165,15 +2166,260 @@ it took me a @emph{very} long time
 to understand
 a lot of my fathers' jokes.
 Papa Samuel likes to say it needs
-a really penetrating intellect
+a strong and sharp intellect
 to really get into
 and enjoy Papa Havelock's basest.''
 He smiled even wider
-than Marco had ever seen him smile today.
+than Marco had ever seen him smile so far.
 
-After a short while, Damian groaned again.
+Damian groaned again.
 
 @sp 2
+
+``Apologies, my friend!'' said Cheers,
+bowing to Damian, as if he were a stage actor.
+``I am the child of two men
+who had a deeply nuanced enjoyment
+for two things:
+off-color homosexual innuendo and politics.
+Despite being straighter than a straight edge,
+I find that, like my beloved parents,
+my passions are for the same.''
+
+Marco started clapping,
+which John and even Damian joined.
+
+``So, Cheers,'' said Marco,
+``I guess those would be
+your hobbies?''
+
+``Yes, Marco,'' said Cheers.
+``The study of power,
+the exercise of power,
+the transfer and exchange of power,
+and the words we use to justify
+the actions that surround
+the manipulation of power.
+That, and how words can be arranged
+into having both prosaic
+and perverted meanings.''
+
+John clapped, strong and vigorous.
+
+``Thank you!'' said Cheers.
+``I'm afraid that's all I can think of
+to tell about myself.
+Is there anything any of you
+are curious about?''
+
+``You said earlier that
+you had a younger brother,''
+said Marco.
+``And you mentioned a sister, too.''
+
+``My younger brother, Petrie de Littlefoot,
+was born from another
+arranged artificial insemination
+with a different lesbian couple,
+a few years after me;
+he's 11, I'm 16.
+He might be gay, like my parents,
+which delights them, of course.
+My sister Janelle de Wisteria is basically a sister
+simply because her biological mother
+is the family partner
+of my own biological mother;
+genetically, we have different parents,
+as she got her genes from Daddy Samuel.
+Neither of them are chimeras,
+as it happens,
+so they only have
+two biological parents each.
+Which makes them quite boring
+compared to me,
+right?''
+
+``Your younger brother is named @emph{Petrie}?''
+said John.
+``That's quite interesting.''
+
+``Why is that?'' said Cheers.
+
+``Um, well...'' said John.
+He appeared suddenly uncomfortable
+
+``There is no need to explain, of course,''
+said Cheers, smiling at John,
+``although it does pique my curiousity,
+roommate!
+As you can see,
+my parents seem to like
+unusual names.''
+
+John bowed slightly, then cleared his throat
+and sat straighter.
+``As far as I can remember,
+the name `Littlefoot' is from a
+classic animated video,
+`The Land Before Time,'
+released in the late twentieth century.''
+said John.
+``It's set at or near
+the end of the age of the dinosaurs.
+All the characters are dinosaurs
+who can speak and think.
+The story revolves around Littlefoot,
+a baby apatosaurus,
+whose mother dies,
+leaving him orphaned.
+He then goes on a quest
+to search for the `Great Valley,'
+which his mother always told him about,
+and along the way
+gathers a small group
+of fellow orphaned dinosaurs
+of various species.
+Two other characters
+are a female triceratops
+named `Cera,' which I think
+is suspiciously similar to `Cheers,'
+and somewhat skittish male Pteranadon
+named `Petrie.'
+Littlefoot himself makes friends easily
+and is the leader of his group of friends,
+which I suspect
+are traits that your parents value,
+and is probably the reason why
+they selected that name for their family.''
+
+Cheers stood with his mouth open,
+staring at John.
+
+@sp 2
+
+Once Cheers recovered, he laughed,
+bowing to John.
+
+``Thank you, my good friend!'' he said,
+still chuckling.
+``The Seedling initiation
+is supposed to be
+a year-long voyage
+of self-discovery
+for us.
+And on my very first day,
+you have helped me discover
+important knowledge
+about my own family.
+I am in your debt,
+John!''
+
+John bowed, blushing.
+``Th-thanks,'' he said.
+
+``The pleasure is mine,'' said Cheers.
+``Would any of you like to know more about me?
+Or more importantly ---
+perhaps some of you already know more
+about me and my family
+than I do myself?
+Marco?  Damian?''
+
+Damian shrugged.
+
+``I can't think of anything more to ask,''
+said Marco.
+
+``Then I suppose my Self-Introduction
+is done!'' said Cheers.
+``Is there anyone who would like to volunteer
+to be next?''
+
+Damian, Marco, and John
+just looked at each other
+and shook their heads.
+
+``Well, then!'' said Cheers.
+``I propose that we do Self-Introduction
+in the order that we arrived.
+I was first,
+then Marco,
+then Damian,
+then John.
+Marco, if you please?''
+
+@node The Banker
+@chapter The Banker
+
+Marco shrugged in resignation,
+and descended from his bunk,
+taking Cheers' place
+in the middle of the room.
+
+``Hello, everyone,'' said Marco.
+``My name is Marco ex Alugbati.
+I'm from R1.
+My parents are primarily bitcoin miners,
+and also have side investments.
+I have an older sister,
+Stephanie ex Alugbati,
+who is also a Seedling now,
+and, as I found out just a little while ago,
+is actually on this same boat.
+She's in room number 5.
+Oh ---
+I have four parents.
+Although I guess that's far less interesting
+than Cheers having two genetic fathers.''
+
+``Don't worry about it, my friend!'' said Cheers,
+``Each one of us here, I suppose, has his or her own
+unique, fully interesting story.''
+
+``His or @emph{her}?'' said Damian.
+
+``If we were to refer to all Seedlings here today,
+so to speak,'' said Cheers.
+``So, Marco, as you were saying
+about your four parents?''
+
+@emph{They're spymasters, not spies, actually,}
+some naughty part of Marco whispered
+deep in the recesses of his brain.
+@emph{Oh, and they gave me this
+physical bitcoin,
+which as a collector's item
+is priced at maybe one hundred bitcoins.
+Which is probably enough to buy
+a used homeboat for myself,
+plus some spare change
+to start a small business.
+And a cognitivist ---
+a cognitivist! ---
+thinks it is far, far more valuable
+than its fair market value
+as a collector's item.}
+
+What he actually said was,
+``Yes, I have four parents.
+Daddy Mike, Daddy Red, Mommy Lizet, and
+Mommy Maria.
+They originally were two separate couples,
+but Daddy Red and Mommy Lizet
+got into each other romantically
+and intellectually.
+They still loved
+their spouses very much, though,
+and still wanted to be with them.
+So they convinced their spouses
+to form a single larger family.
+And it was from there
+that the Alugbati family was formed.''
+
+@emph{Is it true, though?} he wondered.
+@emph{Or did they decide that their
+`information processing node'
+would be more efficient that way?}
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
