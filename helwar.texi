@@ -2452,14 +2452,14 @@ They chuckled.
 ``a four-parent family is
 actually more stable,
 according to Daddy Red.
-We call him `Rad Dad', sometimes,
+We call him `Rad Dad,' sometimes,
 when our parents can't hear us,
 because he can come up
-with really great ideas,
-somtimes.
-We call Daddy Mike `Mad Dad', too,
+with really great ideas.
+We call Daddy Mike `Mad Dad,' too,
 because he's usually the one who scolds us
-about not fixing the beds and everything.''
+about not fixing the beds,
+things like that.''
 
 Cheers asked, ``Why does your Rad Dad
 say a four-parent family is more stable?''
@@ -2489,7 +2489,351 @@ would be drastically different.''
 John nodded in sympathy.
 Damian still looked bemused.
 
-``
+``And you know,'' said Marco,
+``it's not likely the cognitivists
+would allow polyamorous marriage
+to be legalized
+if their studies showed
+it would have
+any significant negative effect
+on society.
+As long as it was simply an option,
+not something you'd be obligated to do,
+anyway.''
+
+``Still atypical,'' said Damian.
+
+``Most people would have at least one trait
+that's atypical,'' said Marco.
+
+``I agree!'' said Cheers.
+``Now, Marco, tell me something ---
+just how does bitcoin mining work?''
+
+Marco grinned.
+``It might take some time to explain,''
+he said.
+``Are you sure you want me
+to explain all that?''
+
+@sp 2
+
+``Why not?'' said Cheers,
+looking at the others.
+``It's Self-Introduction.''
+
+Marco shrugged.
+``Okay,'' he said,
+``but no complaining about
+how complicated it is, deal?''
+
+The others nodded agreement.
+
+``Good,'' he said.
+``Now, first things first.
+You know how banks
+handle your bank accounts?''
+
+Cheers shrugged, and John shook his head.
+Damian said,
+``Yeah, something congruent
+to a mapping from a name to a bank balance
+and security information.''
+
+``Yes, something like that.
+Basically, a bank account
+is just a name attached to a number,
+plus, as Damian said, security information.
+The number is your bank balance.
+The security information is something
+like your birthday
+or a parent's birth name.
+Okay so far?''
+
+The other nodded.
+
+``Now the important part of the bank
+is storing the account information:
+basically, the big, master list
+of the account name, account balance,
+and security information.
+And the bitcoin system is,
+at its core,
+just that.
+In the bitcoin system,
+the `bank account` is the bitcoin wallet,
+and the `account name' is the wallet address.
+The `security iformation' is the private key
+to the wallet,
+and the `account balance' is
+the money in the wallet.
+The entire bitcoin system
+is simply the information about
+the set of wallets ---
+basically, the data of
+the bitcoin bank accounts ---
+stored across all the computers
+of bitcoin miners all over the world.''
+
+``Distributed hash table,'' said Damian.
+To Marco, it sounded like
+just so much gibberish.
+
+``Wait, what ensures that
+the bitcoin miners don't
+transfer all the money
+to their own, um `bank accounts'?''
+said John.
+
+``The security information
+of the bitcoin wallet,''
+said Marco.
+``The security information
+in the bitcoin system
+is composed of two keys.
+This is the public key:
+it's the part of your security information
+that is stored in the bitcoin system,
+which, since it is duplicated
+on each bitcoin miner's computer,
+is effectively public information.
+Then there's the private key,
+which is not stored in the bitcoin system ---
+it's private.
+There's a special mathematical relationship
+between the number representing the public key
+and the number representing the private key.
+This allows something to be encrypted
+using the public key,
+which can then only be decrypted
+using the private key.
+It also allows the inverse:
+it allows something to be encrypted
+using the private key,
+which can then only be decrypted
+using the public key.
+Okay so far?''
+
+``Okay,'' said Cheers,
+``something encrypted with the public key
+can only be decrypted with the private key,
+and vice versa.''
+
+``Good.
+So if any bitcoin user
+wants to transfer some money
+from their account
+to somebody else's,
+they encrypt the request to transfer
+using the private key.
+The encrypted request
+can be decrypted
+using the public key.
+So suppose I'm a bitcoin miner.
+In order to verify that you are
+the owner of the account,
+you have to encrypt the transfer request
+using the private key,
+and since I know the public key,
+I can verify that
+by simply decrypting the transfer request
+using the public key.
+And no one,
+not even the bitcoin miners,
+can falsify a transfer request,
+because even the bitcoin miners
+would not be able
+to encrypt using the private key,
+because all we have
+is the public key.''
+
+``You said there's a mathematical relationship
+between the public and private keys,''
+said John.
+``Wouldn't it be possible to derive one
+from the other, then?''
+
+``Yes --- in theory,
+but not in practice.
+You see,
+there are certain mathematical operations
+that are reversible,
+but which is much easier to do one way
+than the other way.
+For example:
+what are the two prime factors
+of the number 91?''
+
+Damian grinned.
+The others just shrugged their heads.
+``I don't think I still remember
+how to do prime factors,''
+said Cheers.
+
+``Right.
+But if I asked you to multiply
+the numbers 7 and 13,
+would you be able to do it?''
+
+``With pen and paper, yes,''
+said Cheers.
+``Or a computation pad, ha.''
+
+``Precisely.
+Now, the prime factors of the number,
+when multiplied together,
+result in that number.
+It's easier to do the multiplication
+from the two prime numbers
+than to get the prime factorization
+from the product.
+Similarly, the private key is
+very hard to derive
+from the public key:
+it's the prime factors
+of the public key.
+But the public key is simply the product
+of two components of the private key.
+It's theoretically possible
+to get the private key from the public key,
+but it would require more computing hardware
+than is available in the whole world.
+See?''
+
+John nodded.
+
+Then Cheers said,
+``That lets the bitcoin miner
+verify that the bitcoin user
+is allowed to transfer the amount.
+How does the bitcoin user
+make sure that the bitcoin miner
+updates the account balances correctly?''
+
+Marco smiled.
+``A good point.
+Now, the informal slogan
+of the bitcoin system
+is `vires in numeris:'
+strength in numbers.
+As I just said,
+there's a special numeric relationship
+between the private key
+and the public key:
+that's one strength in numbers.
+The other strength is
+the number of bitcoin miners
+all over the world.
+Basically,
+each of the bitcoin miners
+verify that each other's records
+are correct,
+using, again,
+special numeric relationships.''
+
+``What about collusion?''
+said Cheers.
+``A bunch of miners could say
+that the records are correct
+but cheat the users.''
+
+``There's a mathematical puzzle ---
+again, strength in numbers ---
+that each miner tries to solve.
+The first miner that solves this puzzle
+wins a number of bitcoins,
+which is how bitcoins are `minted,'
+so to speak.
+Then that solution becomes
+the template for the next mathematical
+puzzle.
+Now, the winner not only needs
+to show the solution,
+the winner also needs to show
+his copy of the records.
+If the winner's records are incorrect,
+then his win is invalidated.''
+
+``I don't get how that stops collusion,''
+said Cheers.
+
+``Byzantine generals,'' said Damian,
+a smug grin on his face.
+Marco decided to ignore it.
+
+``Well,'' said Marco,
+``it means that the losers ---
+the ones who didn't guess the correct solution
+to the mathematical puzzle ---
+want to show a mistake in the winner's records.
+If the losers can show a mistake
+in the winner's records,
+then the win is invalidated,
+and the winner does not get the newly-minted bitcoins.
+Suppose we colluded to, say,
+set John's account balance to zero,
+even without a valid transaction.
+And then I guess the correct solution
+to the mathematical puzzle.
+You could then show everyone else
+the errors in my records,
+and I wouldn't win the bitcoins after all,
+because the errors in my records would
+invalidate my win.
+By invalidating my win, you gain more time
+to guess the correct answer to the mathematical puzzle,
+increasing the chance that @emph{you} would win.
+So you would @emph{want} to betray me ---
+and that makes it hard for the miners to cooperate.''
+
+Marco smiled.
+
+@sp 2
+
+``Hmm,'' said Cheers, "I suppose you're right.
+But suppose I were to hack your computer,
+or, hmm, let's say I point a gun to your head.
+I could force you to cooperate with me,
+winner of the bitcoin jackpot or not!''
+
+``Well,'' said Marco, ''that's correct.
+But you can't point a gun at every
+bitcoin miner @emph{in the world}.
+You'd need to coerce at least half
+of the bitcoin miners
+all over the world,
+because the decision to award or not award
+newly-minted bitcoins to the winner
+of the mathematical puzzle
+is done by what is essentially a democratic vote.
+It's another theoretically possible
+but practiceally unfeasible attack,
+called the `fifty-one percent attack,'
+as it requires you to gain control
+over more than half the miners.
+The bitcoin system is thus very secure,
+and that security, that strength,
+is derived from numbers.''
+
+@sp 2
+
+``Fascinating,'' said Cheers.
+
+Marco smiled again.
+``Well, any more questions about bitcoin?''
+
+There were none.
+
+@sp 2
+
+There were no more questions about Marco himself,
+either.
+
+``Thank you, my good roommate Marco,'' said Cheers,
+clapping.
+``Next, then ---
+Damian Carlos ex Mantis?''
+
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
 
