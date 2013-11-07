@@ -2885,7 +2885,7 @@ sweeping away his blank look.
 ``I started programming when I was ten.
 Been programming for six years.
 My parents run a computer equipment business.
-Used to play with the computers,
+Used to play games on the computers,
 then I stumbled on a programming tutorial
 for kids.
 Started programming, following the tutorial.
@@ -2893,20 +2893,98 @@ Wrote some simple games to play with.
 I found that I had more fun
 writing the games
 than actually playing them.
+Started to stay up late,
+just to program.
+When my parents imposed a lights-out time,
+I would wake up a little after midnight
+to sneak some time on the computers.
 That started my programming obsession.''
 
 Cheers beamed.
 ``That's good ---''
 
-``--- Began looking for more tutorials
+``--- Began looking for
+more tutorials
+and programming articles
 on the internet,''
 said Damian,
 as if Cheers hadn't
 already started speaking.
 Damian had paused only
 to gather breath, apparently.
-``Went on to more advanced stuff.''
+``Started working on
+the more advanced stuff.
+Might have ended there, actually,
+once I started getting to my limits.
+But then came the turning point.''
 
+Damian paused again.
+
+``I started participating
+in online communities.
+Engaging the programming community.
+On the internet,
+no one knows
+you're not even a teenager yet.
+In a programming community,
+nobody even @emph{cares}
+what age you are.
+There's only two things
+that are important.
+That you build good code,
+and that you're not a jerk with others.
+And if you got
+really really @emph{really}
+good code?
+Some people will tolerate
+you being a jerk anyway.
+As a programmer
+participating in
+a free or open source project,
+there's only two criteria
+for legitimacy:
+good code,
+and working with the community.''
+
+The others let Damian ramble on.
+
+``And I'm glad that
+free and open source software exists.
+So what if I probably won't get
+ridiculously rich programming,
+like Bill Gates
+in the late twentieth century?
+If some generous people
+hadn't given away
+the software source code for free
+in the first place,
+then there would be no
+free and open source software community
+in the first place.
+And if there was no programming community,
+then there wouldn't be any
+free and open source
+programming tutorials and articles.
+And if there weren't any
+free programming tutorials,
+I wouldn't have stumbled
+on that first, beginner's programming tutorial.
+I wouldn't have discovered programming at all.
+I would have completely missed
+being a programmer.
+And I can't imagine what it would be like,
+me not being a programmer.
+So I give my own software,
+my own source code,
+so that others, too,
+can discover and cultivate
+their inherent skill.''
+
+@sp 2
+
+There was a long pause,
+which Marco thought
+meant that Damian had finished.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
