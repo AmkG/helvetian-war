@@ -56,6 +56,7 @@ a copy of this license, visit
 * Seedling Boat 3; Room Number 2::
 * The Politician::
 * The Banker::
+* The Hacker::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -2658,7 +2659,7 @@ but not in practice.
 You see,
 there are certain mathematical operations
 that are reversible,
-but which is much easier to do one way
+but which are much easier to do one way
 than the other way.
 For example:
 what are the two prime factors
@@ -2830,9 +2831,82 @@ There were no more questions about Marco himself,
 either.
 
 ``Thank you, my good roommate Marco,'' said Cheers,
-clapping.
+amidst the clapping of their other roommates.
 ``Next, then ---
-Damian Carlos ex Mantis?''
+Damian Carlo ex Mantis?''
+
+@node The Hacker
+@chapter The Hacker
+
+Marco climbed back into his bunk in relief,
+as Damian stood up in his place
+to deliver his own Self-Introduction.
+
+Damian shrugged, then said,
+``Damian Carlo ex Mantis,
+from R1.
+Programmer.''
+
+Damian just stood there,
+not saying anything further,
+so Cheers prompted,
+``Can you tell us more about your family?''
+
+``Computer equipment importers,''
+said Damian,
+an absent, faraway look
+on his face.
+``Typical heteronormative parents,
+a father and a mother.
+Older sister's married,
+also R1.
+Cognitivist,
+her husband works for Blimp Tourisms,
+middle-level manager.''
+
+Damian acted as if he'd completed
+everything he wanted to say
+for Self-Introduction.
+As Cheers struggled
+to find a better prompt,
+Marco spoke,
+his voice tinged with annoyance.
+
+``Well, can you tell us more
+about programming,
+at least?'' he said.
+
+At this, a wide, feral grin lit up
+Damian's features,
+sweeping away his blank look.
+
+@sp 2
+
+``I started programming when I was ten.
+Been programming for six years.
+My parents run a computer equipment business.
+Used to play with the computers,
+then I stumbled on a programming tutorial
+for kids.
+Started programming, following the tutorial.
+Wrote some simple games to play with.
+I found that I had more fun
+writing the games
+than actually playing them.
+That started my programming obsession.''
+
+Cheers beamed.
+``That's good ---''
+
+``--- Began looking for more tutorials
+on the internet,''
+said Damian,
+as if Cheers hadn't
+already started speaking.
+Damian had paused only
+to gather breath, apparently.
+``Went on to more advanced stuff.''
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
