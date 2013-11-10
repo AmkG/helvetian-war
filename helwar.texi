@@ -57,6 +57,7 @@ a copy of this license, visit
 * The Politician::
 * The Banker::
 * The Hacker::
+* The Stranger::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -2867,6 +2868,10 @@ middle-level manager.''
 Damian acted as if he'd completed
 everything he wanted to say
 for Self-Introduction.
+He glanced at his bunk,
+clearly contemplating
+going back to it.
+
 As Cheers struggled
 to find a better prompt,
 Marco spoke,
@@ -2946,7 +2951,11 @@ for legitimacy:
 good code,
 and working with the community.''
 
-The others let Damian ramble on.
+The others let Damian ramble on,
+fascinated with his sudden talkativeness
+about this specific topic,
+compared to his earlier, taciturn,
+borderline surly answers.
 
 ``And I'm glad that
 free and open source software exists.
@@ -2962,7 +2971,8 @@ then there would be no
 free and open source software community
 in the first place.
 And if there was no programming community,
-then there wouldn't be any
+then there wouldn't be anyone
+to write
 free and open source
 programming tutorials and articles.
 And if there weren't any
@@ -2985,6 +2995,75 @@ their inherent skill.''
 There was a long pause,
 which Marco thought
 meant that Damian had finished.
+
+Cheers cleared his throat.
+``Well,'' he said, ``that was ---''
+
+``Wait,'' said Damian.
+
+Cheers looked at Marco.
+@emph{Please make it stop},
+his expression seemed to say.
+
+Damian spoke before anyone
+could do anything.
+``It's not just about programming, anymore,
+you know.
+It's about knowledge.
+Information.
+The reason why Sea State
+has a vastly different approach
+to copyright,
+compared to most other countries.
+Ideas are difficult to generate,
+but trivial to copy.
+So the most efficient way
+to handle ideas
+is to copy, copy, copy.
+And because of the way
+the human brain works ---
+as agreed upon by most cognitivists ---
+the more ideas you encounter,
+the more you can create.
+Denying access to information
+benefits the person
+with unique knowledge,
+but does not benefit
+society as much.
+Even putting into account
+the added encouragement
+of an asssured monopoly ---
+more ideas will be generated,
+and more people will have
+more equal power and access,
+given the truly free flow
+of information.''
+
+The others shifted uncomfortably;
+Damian's harangue
+was borderline political.
+
+Still, they @emph{could} end up
+settling on an R2 platform ---
+
+``Well, I guess that's all,''
+said Damian,
+the same absent, faraway look
+on his face again.
+Perhaps he was already programming
+in his head.
+
+``Okay!'' said Cheers.
+``So, anyone else have any questions?''
+He glanced at Marco,
+then at John.
+
+When nobody asked anything further,
+Damian shrugged,
+then sat down in his bunk.
+
+@node The Stranger
+@chapter The Stranger
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
