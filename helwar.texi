@@ -1439,7 +1439,8 @@ whose spirit has already been violated.''
 ``You are from a Dunbarite platform,''
 said Sara, still shaking her head.
 
-``And what of it?'' Renee said, tightly.
+``And what of it?'' Renee said,
+suppressed anger at the edge of her voice.
 ``I am still a citizen of Sea State.
 R1 may be the largest and most well-known
 platform of Sea State,
@@ -3064,6 +3065,22 @@ then sat down in his bunk.
 
 @node The Stranger
 @chapter The Stranger
+
+When Cheers called his name,
+clapping,
+John stood slowly,
+his head down, shy.
+
+``Hello,'' he said.
+``I'm John ex Nikos.
+I'm from an R2 platform,
+just off the sea fertilization pumps.
+My family are fishermen.''
+He fidgeted,
+his hands looking for pockets
+in his pants,
+his eyes darting between
+Damian and Cheers.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
