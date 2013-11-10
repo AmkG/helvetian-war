@@ -774,7 +774,7 @@ After a while,
 Stephanie ran up to Michael and hugged him.
 ``Sorry, dad,'' she said.
 ``But I suddenly realized that these are also
-the last moments I'll have
+the last moments when I'll get
 to tease you personally!''
 
 @sp 2
@@ -782,7 +782,7 @@ to tease you personally!''
 The Alugbatis encountered
 more and more families with their Seedlings
 as they approached the ship Rationality One.
-Marco could son make out a queue of Seedlings,
+Marco could soon make out a queue of Seedlings,
 in their plain white, government-issued shirts,
 on the deck of the converted warship.
 
@@ -1448,10 +1448,12 @@ it may serve as the de facto capital city
 of Sea State,
 it may have a navy of client platforms
 it simply calls `the R2's,'
-without even individual names ---
+without even the dignity of
+individual names for each platform ---
 but this does not justify
 your apparent mistrust, withholding
 possibly vital information.''
+
 Renee sniffed.
 ``Very well, then,'' she said,
 when Sara continued her silence.
@@ -2566,7 +2568,7 @@ just that.
 In the bitcoin system,
 the `bank account` is the bitcoin wallet,
 and the `account name' is the wallet address.
-The `security iformation' is the private key
+The `security information' is the private key
 to the wallet,
 and the `account balance' is
 the money in the wallet.
@@ -2861,7 +2863,8 @@ on his face.
 ``Typical heteronormative parents,
 a father and a mother.
 Older sister's married,
-also R1.
+also R1,
+also heteronormative.
 Cognitivist,
 her husband works for Blimp Tourisms,
 middle-level manager.''
@@ -3015,7 +3018,7 @@ Information.
 The reason why Sea State
 has a vastly different approach
 to copyright,
-compared to most other countries.
+compared to other countries.
 Ideas are difficult to generate,
 but trivial to copy.
 So the most efficient way
@@ -3026,6 +3029,11 @@ the human brain works ---
 as agreed upon by most cognitivists ---
 the more ideas you encounter,
 the more you can create.
+Idea generation is not
+generation from raw idea-ingredients,
+idea generation is really
+idea synthesis ---
+combining old ideas into new ones.
 Denying access to information
 benefits the person
 with unique knowledge,
@@ -3037,7 +3045,8 @@ of an asssured monopoly ---
 more ideas will be generated,
 and more people will have
 more equal power and access,
-given the truly free flow
+if all are given
+a truly free flow
 of information.''
 
 The others shifted uncomfortably;
@@ -3054,7 +3063,8 @@ on his face again.
 Perhaps he was already programming
 in his head.
 
-``Okay!'' said Cheers.
+``Okay!'' said Cheers,
+relief just barely hidden.
 ``So, anyone else have any questions?''
 He glanced at Marco,
 then at John.
@@ -3073,6 +3083,8 @@ his head down, shy.
 
 ``Hello,'' he said.
 ``I'm John ex Nikos.
+I turned sixteen
+last week.
 I'm from an R2 platform,
 just off the sea fertilization pumps.
 My family are fishermen.''
@@ -3081,6 +3093,442 @@ his hands looking for pockets
 in his pants,
 his eyes darting between
 Damian and Cheers.
+
+Cheers smiled at John,
+to encourage him.
+
+``I'm...''
+John said.
+He stood straighter,
+and clasped his hands
+behind his back.
+``I'm an only child.
+I'm not very good at making friends.
+Sorry.
+I'm...
+I've always felt a little different.
+My family was never
+particularly enthusiastic
+about politics, you see.''
+
+Marco glanced at Cheers.
+He saw
+Cheers' smile droop a little.
+
+``I'm sorry,'' John said,
+looking at Cheers.
+``I know most people in the R2's
+are at least a little interested
+in politics.
+But my parents...
+well, we never really enjoyed living
+on the R2 platforms,
+being part of all the little
+sociopolitical experiments.
+But they couldn't find
+any other ways
+of making a living.
+I know,
+usually the reason
+why most people
+would be on an R2
+is because they @emph{like}
+participating in
+and designing
+those experiments.
+I mean ---
+it's not like
+you can earn a lot of money
+in politics,
+out here in Sea State.
+In other countries, you can,
+but well.
+So the only ones
+who'd be interested
+in living in an R2 platform
+would be those who are
+really interested in politics ---
+or really desperate for any niche
+to survive in.''
+
+@sp 2
+
+Cheers' smile looked frozen,
+Marco thought.
+
+``Sorry,'' said John.
+``I'm not...
+I'm not trying to imply anything,
+uh, Cheers.''
+
+``Don't worry, roommate!''
+Cheers said.
+``We are the new generation.
+Perhaps we might eventually partner
+for a better tomorrow, right?''
+He gave John a thumbs-up, and smiled.
+
+``A better tomorrow, huh?''
+said John.
+``I hope so.''
+
+@sp 2
+
+``So, John,'' said Cheers,
+``what are your hopes for the future?''
+
+``I don't know what to hope for,''
+said John.
+``I'm really not sure what to expect.
+That's why we're here, after all,
+right?''
+
+``Right,'' said Cheers.
+
+``Right,'' said John,
+quiet.
+
+He paused, straightened.
+``I like stories, you know,''
+he said.
+``Novels, webcomics,
+webserials, movies,
+visual novels, fairy tales ---
+stories.
+My parents were worried, a little.
+My...''
+He paused,
+frowning a little.
+``My father ---
+he would always say to me,
+`Get your head out of the clouds, John.
+You can't live your life in a story.'
+And that's true, I suppose.
+I guess I used fiction
+to escape the difficulties
+of my life.
+I'm sorry.''
+
+``You don't have to be sorry, you know,''
+said Marco.
+``I mean, stories are
+one way for people
+to understand the world.
+If that's how you want
+to handle your life ---
+well, it might give you
+some advantage,
+some nice niche to fill.
+And if that way of thinking
+turns out to be completely unable
+to support you ---
+well, it's not like
+it's the twentieth century,
+when there weren't any cognitivists
+to help adjust your attitudes.''
+
+``I'm...'' John said.
+``You're right, I guess.
+Thank you, Marco.
+I guess ---
+my parents,
+they were graduates of literature majors.
+My father's from Chile,
+my mother's from Vietnam.
+They emigrated to Sea State,
+for a better life,
+met each other here,
+fell in love.
+But there wasn't much demand
+for their skills.
+They ---
+went to the cognitivists,
+of course.
+It's just that my father ---
+didn't trust them very much.
+Didn't trust them enough
+to accept their suggestions,
+didn't want them
+messing with his mind.
+So I guess
+some of that attitude
+rubbed off on me.''
+
+``Programmers of the brain,''
+Damian said.
+``@emph{Human} programmers,
+hence fallible.
+Still, better than
+the `psychologists'
+of the previous century.
+Much more often right than wrong.''
+
+``Yes,'' said John.
+``I know.
+To point to the fallibility of the source
+as a reason not to follow the advice,
+without looking at the @emph{rate} of error ---
+that's a fallacy
+that the cognitivists
+have pointed out,
+over and over again.
+It's probably fair to say
+that my parents' problem
+was, mostly, culture shock.
+They went to Sea State,
+hoping for a better life.
+Hoped to use their skills,
+somehow,
+as literature professors
+or something similar.
+But the cognitivists creeped them out,
+most likely.
+`Puppeteers,' my parents often called them.
+So they couldn't adapt well,
+to the very different way
+in which Sea State operated
+compared to their home countries,
+and ---
+well, that's it, I guess.
+Story of my life.''
+
+@sp 2
+
+It didn't seem like a good point to end
+John's Self-Introduction.
+Marco searched for some prompt
+to help John
+end his Self-Introduction
+at a more positive note.
+
+``So, stories, huh?'' Marco said,
+grasping for something positive.
+``What's your favorite story?''
+
+John smiled.
+``The Hero's Journey, I guess?''
+he said.
+
+``What's that story?'' Marco said.
+
+``Well,
+the Hero's Journey isn't a story,
+actually ---
+it's a general way in which
+a story could be written.
+A pattern, something like that.
+It starts with the hero,
+in his ordinary world ---
+usually, it's a male hero, anyway ---
+generally dreaming of adventure.
+To ordinary eyes,
+the hero is just a perfectly ordinary man,
+although, of course, he probably isn't.
+Then some character ---
+called the herald ---
+calls upon the hero,
+inviting him on an adventure.
+The hero then
+refuses the call,
+only for the invitation
+to be repeated, at a later time,
+more urgently.
+The hero finally decides
+to go on the adventure.
+But threshold guardians appear,
+stopping him from continuing
+on his journey.''
+
+John paused for dramatic effect.
+
+``The threshold guardians
+are not necessarily hostile.
+They may even become,
+in the long run,
+the allies of the hero.
+But they do exist
+to ensure that the hero
+truly wants to go on the adventure,
+and has what it takes to survive it.
+They test the hero's resolve and abilities.
+To their astonishment,
+the hero does have what it takes
+to survive his adventure,
+despite their initial reluctance.
+The threshold guardians
+let the hero enter
+the supernatural world,
+a wonderful world of adventure,
+where the rules are different,
+and the hero must learn new skills
+to survive.
+And then...
+everything changes in the belly of the whale.''
+
+``Wow,'' said Damian.
+``Your delivery is like Lisp,
+the metastory sounds like a story.''
+
+``Thank you,'' said John,
+``although I have no idea
+how it's related to lisping.
+Anyway...
+the belly of the whale
+is the lowest point,
+where the hero is, figuratively,
+chewed up and eaten
+by an irresistible force.
+This irresistible force
+is often brought into being
+by some big bad enemy
+that the hero
+is destined
+to fight and defeat.
+Starting from
+the belly of the whale,
+the hero must accept his destiny
+to defeat the big bad.
+When he does, he then moves onward ---
+to find his way
+out of the belly of the whale
+on his road of trials.''
+
+``Then what happens?'' asked Cheers,
+fascinated.
+
+``On the road of trials
+are tests, allies, and enemies,
+which the hero must discern.
+There's deadly terrain, monsters,
+temptations to give up the quest,
+deadly opposites,
+often a journey to the underworld.
+And then, near the end of the road,
+the hero must go upon
+the second-to-the-last quest
+in the story,
+the night sea voyage,
+where the hero
+sneaks into his enemy's base,
+or some site that is hostile to him,
+to retrieve something or someone.
+Because of the risk of discovery,
+he must go in the dark of night
+and will often need to go,
+at least part way,
+by sea, or through some water ---
+entering via the sewers is typical.
+The hero has to do this last quest,
+because what he retrieves
+would make him that much more powerful
+against his destined enemy.''
+
+``Then he goes to defeat the enemy, right?''
+someone asked.
+It really didn't matter who did.
+
+``Not yet,'' said John.
+``The hero, and his allies,
+take some time out,
+to rest and recover,
+and to prepare for the last stage
+in the story.
+The hero takes what was retrieved
+in the night sea voyage
+and learns from it,
+often learning some key weakness
+of the enemy.
+When he and his allies
+have prepared and rested enough,
+the hero enters apotheosis,
+doing something extraordinary,
+becoming truly The Hero'' ---
+Marco could swear
+he heard the capital letters ---
+``in order to fight the enemy.
+During the fight,
+The Hero finds that
+he needs to sacrifice
+something important ---
+a friend, lover, or family,
+or even their own lives, perhaps ---
+and The Hero pauses,
+weighing the decision,
+knowing that much more is at stake
+than what is important to him.
+Then one of his allies ---
+or more dramatically, a minor enemy
+that changes his or her allegiance ---
+sacrifices himself or herself instead.
+The Hero then presses onward,
+utilizing the key weakness,
+and defeats the enemy,
+gaining the Ultimate Boon.''
+
+``Then?'' somebody else said.
+
+``And then the final
+and most delicate act,
+the return.
+It's not enough
+to do the extraordinary,
+become The Hero,
+and defeat the enemy.
+Having won the boon,
+this extraordinary man,
+The Hero,
+must leave behind
+the world of adventure,
+to return to his ordinary world.
+You have to have The Hero
+go back to merely being
+the focus character:
+The Hero returns to @emph{us},
+the ones who @emph{couldn't}
+join the adventure.
+And he returns bearing the Ultimate Boon,
+to be given to all of us,
+so that we can all live
+happily ever after.''
+
+Nobody spoke.
+John smiled.  ``The End,'' 
+he said, bowing deeply.
+
+@sp 2
+
+Cheers' voice was more subdued.
+``Thank you, my roommate,''
+he said.
+``That was quite an adventure.
+An excellent adventure,
+given that the hero has no name
+or any other detail we could find.''
+He lead the rest in clapping.
+
+``T-thanks,'' said John,
+now red in the face.
+
+``Thank @emph{you}, John!''
+said Cheers.
+``Well, I guess that ends
+Self-Introduction ---''
+
+Damian's computation pad beeped.
+Split seconds later,
+their computation pads
+started beeping.
+
+``Ah, I guess that ends
+Self-introduction,
+just in time, my friends,''
+said Cheers.
+``And now one of our Gardeners
+will address us.
+We'll be deciding
+where to go for the next three months,
+until the next shuffling.
+So let's go!''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
