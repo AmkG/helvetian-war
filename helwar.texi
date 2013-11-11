@@ -59,6 +59,7 @@ a copy of this license, visit
 * The Hacker::
 * The Stranger::
 * The First Step of Adulthood::
+* Choice of Destination::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -3842,6 +3843,8 @@ to be replaced with an empty text box.
 The first stage of their group decision
 had ended.
 
+@node Choice of Destination
+@chapter Choice of Destination
 
 
 @node CC-BY-SA 3.0 Unported
