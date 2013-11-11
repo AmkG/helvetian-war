@@ -58,6 +58,7 @@ a copy of this license, visit
 * The Banker::
 * The Hacker::
 * The Stranger::
+* The First Step of Adulthood::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -829,10 +830,11 @@ It was a physical bitcoin.
 in a tiny government office onboard
 the de facto government center Rationality One,
 after Marco gave him the Seedling acceptance letter.
-Behind the man was a poster of a pair of staring eyes.
 ``Genetic child of Redemptor and Fara Elizabeth Alugbati,
 registered child of Redemptor, Fara Elizabeth, Maria,
 and Michael Alugbati.''
+
+Behind the man was a poster of a pair of staring eyes.
 
 ``Yes, sir,'' said Marco.
 
@@ -1369,9 +1371,12 @@ if there is a stranger monitoring you,
 but the dishonesty rises and erases that effect
 once you get become familiar and friendly
 with the monitor.
+In essence, if the monitor is no longer a stranger,
+you might prefer to cooperate with him or her specifically,
+rather than cooperate with the entirety of society.
 Hence the no socialization rule.''
 
-``But having you brief me on the rules
+``But to have you brief me on the rules
 of Gardening ---''
 
 ``Is not normal procedure, actually.''
@@ -1388,6 +1393,7 @@ this briefing, by itself,
 could be considered a form of socialization ---
 
 ``So what @emph{is} normal procedure?''
+Renee asked.
 
 ``Normally, a fresh Gardener would be briefed
 by certified cognitivists of Rationality One.
@@ -1408,13 +1414,13 @@ rather than personal questions about myself.''
 ``Yes.''
 
 ``As to the rules of Gardening ---
-the rules have been bent, haven't they?''
+the rules have been bent, have they not?''
 said Renee.
 ``I accept the reasoning for
 why we should not socialize ---
 but this briefing would make us,
 at least a little,
-more familiar with each other.
+somewhat more familiar with each other.
 Which suggests to me
 that your cognitivists
 are currently very concerned
@@ -1439,7 +1445,8 @@ whose spirit has already been violated.''
 ``You are from a Dunbarite platform,''
 said Sara, still shaking her head.
 
-``And what of it?'' Renee said,
+``My Dunbarite platform has its own name, you know.
+And what if I am?'' Renee said,
 suppressed anger at the edge of her voice.
 ``I am still a citizen of Sea State.
 R1 may be the largest and most well-known
@@ -1454,9 +1461,12 @@ but this does not justify
 your apparent mistrust, withholding
 possibly vital information.''
 
+Sarah remained silent,
+still uncertain,
+tense.
+
 Renee sniffed.
-``Very well, then,'' she said,
-when Sara continued her silence.
+``Very well, then,'' she said.
 ``I shall endeavour to gain your trust,
 unjustified though I consider your mistrust may be.
 I am part of a network of knowledge workers
@@ -1478,7 +1488,7 @@ between our platform and R1,
 and why I volunteered to be
 a Gardener for this year's Seedling initiation.''
 
-``I see,'' said Sara.
+``I see,'' said Sara, finally.
 She held up her hand, and said,
 ``Let me think for a moment.''
 
@@ -1489,11 +1499,13 @@ is their concern
 for the Seedling's @emph{present}.''
 
 ``Obviously,'' said Renee.
+She stared hard at Sara,
+challenging her to give more information.
 
 ``I'm not sure if it's relevant,'' Sara said,
 ``but the no-socialization rule
 had been an important point
-that the cognitivists of R1 insisted on.
+that the cognitivists of R1 have always insisted on.
 To be honest, I thought it was quite impractical
 to impose that rule
 when they first proposed it ---
@@ -1512,7 +1524,8 @@ since the beginning?''
 ``I've been a Gardener since the Seedling program
 was prototyped on an R2 platform,'' Sara said,
 unconsciously sitting a little straighter.
-``So tell me, miss member-of-a-network ---
+``Since before the beginning, in essence.
+Now tell me, miss member-of-a-network ---
 is war coming?
 If war comes,
 where can my beloved Seedlings grow?''
@@ -3463,7 +3476,9 @@ sacrifices himself or herself instead.
 The Hero then presses onward,
 utilizing the key weakness,
 and defeats the enemy,
-gaining the Ultimate Boon.''
+gaining the Ultimate Boon,
+the prize that
+The Hero has struggled for.''
 
 ``Then?'' somebody else said.
 
@@ -3477,9 +3492,10 @@ and defeat the enemy.
 Having won the boon,
 this extraordinary man,
 The Hero,
-must leave behind
+must @emph{leave behind}
 the world of adventure,
-to return to his ordinary world.
+to return to his ordinary world:
+he must relinquish his special status.
 You have to have The Hero
 go back to merely being
 the focus character:
@@ -3516,7 +3532,7 @@ Self-Introduction ---''
 
 Damian's computation pad beeped.
 Split seconds later,
-their computation pads
+the other computation pads
 started beeping.
 
 ``Ah, I guess that ends
@@ -3529,6 +3545,304 @@ We'll be deciding
 where to go for the next three months,
 until the next shuffling.
 So let's go!''
+
+@node The First Step of Adulthood
+@chapter The First Step of Adulthood
+
+``Hello, Seedlings,'' said the middle-aged woman
+who appered
+on Marco's personal computation pad
+after all their fellow Seedlings
+had answered the broadcast request.
+``I am Renee Magnus.
+I shall be one of your two Gardeners,
+at least until the next shuffling.
+Your other Gardener
+is Sara ex Mulligan,
+who, I am given to understand,
+shall introduce herself next time.
+Welcome to the Seedling initiation
+of the R1 platform and all the R2 platforms.
+We hope you are ready to begin
+on your quest
+to find a niche for yourselves
+in Sea State.''
+
+Renee paused, her eyes briefly glancing
+away from the camera;
+perhaps she was reading
+her speech
+from some papers.
+
+``I trust that you have already finished
+your Self-Introductions
+by now.
+If not, please continue later.
+For now,
+let me do my own Self-Introduction.
+As I said, I am Renee Magnus.
+Unlike all of you,
+I am from the sea platform `Sweet Deep,'
+near Samoa.
+I volunteered myself
+for our platform's
+cultural exchange program,
+and I decided that
+the best way to experience
+R1's culture
+is to participate, personally,
+in this institution,
+the Seedling initiation program,
+a program that is unique to R1
+and its client platforms.''
+
+Marco noticed Cheers sit up
+on hearing their Gardener
+mention the name of her sea platform.
+After the collapse
+of the excessively technolibertarian
+Atlantic Sea State,
+the only sea platforms that had
+such garish names
+were the scattered Dunbarite platforms.
+
+``I hope,'' Renee continued,
+``that you consider visiting
+my home platform.
+Or indeed any of the other
+Sea State platforms
+in Polynesia.
+I know that traditionally,
+the Seedling initiation
+involves the Seedling boats
+visiting various R2 platforms,
+the sea fertilization pumps,
+the fisheries,
+and various sections of the R1 platform,
+each of which may be larger
+than the largest Polynesian platform.
+But perhaps you might consider
+something different.
+Perhaps it is
+on the Polynesian platforms that
+you might find
+your own niche.''
+
+``Wow!'' said Cheers.
+``That's a pretty direct recruitment.''
+He sniggered.
+
+``Strange,'' Marco heard Damian say from below him.
+``Expected other Gardener to complain.
+Rather blatant attempt
+to bias our thinking.''
+
+``Or @emph{un}bias our thinking,'' said Marco.
+``I mean, I think none of us ever
+thought of going to the Dunbarite platforms
+for our Seedling initiation.
+It @emph{is} an option,
+it's just not one that comes to us
+R1 and R2 kids naturally,
+I suppose.''
+
+@emph{He looked at Lizet in surprise,
+the metal weight of the bitcoin in the palm of his hand,
+and she whispered ``Go west, sweetheart ---''}
+
+``Agreed,'' said Damian.
+``But impractical ---''
+
+``Which leads to what
+you should be doing now,'' continued Renee,
+cutting off what Damian had to say.
+``You shall begin your first group decision:
+where shall your boat, Seedling boat 2, go,
+over the next three months,
+before the next shuffling?''
+
+She paused to emphasize the question,
+letting it sink in.
+
+Then she said,
+``In the next ten minutes,
+you will be given information,
+compiled by the cognitivists
+of the ship `Rationality One,'
+which is deemed relevant
+to your decision.
+You shall evaluate this information,
+without discussing with your peers,
+until the open forum ten minutes from now.
+At the open forum,
+you shall discuss your destination
+with your fellow Seedlings on this boat.
+Open forum discussion shall be twenty minutes.
+After that, you shall have the vote,
+and then we will program the autopilot
+to the destination you, as a group,
+have decided on.
+Your first ten minutes
+begins now.''
+
+@sp 2
+
+``Seriously?  No discussing with peers?'' said John.
+
+Marco looked at John in puzzlement.
+He saw Cheers bend over to look at John,
+and no doubt Damian was probably staring at him, too.
+
+The answer to that was so obvious ---
+
+John shrunk at their stares.
+
+``Standard groupthink avoidance technique,''
+said Damian.
+He sounded a little exasperated.
+``Prevents the first ideas aired
+from becoming the status quo.
+This is basic rationality training stuff.
+What, absent the day they taught it?''
+
+``Sorry,'' said John, obviously deeply abashed.
+
+``It's alright, John,'' said Marco.
+He suspected that John might not actually
+have gotten even basic rationality training.
+Maybe John had inherited, a little,
+of his parents' mistrust of the cognitivists.
+
+Probably, the cognitivists had
+drastically loosened
+the bar for potential Seedlings,
+given the alarming message
+they had just received
+from the Alugbati family,
+care of Marco.
+
+Marco decided to expand on Damian's curt
+explanation.
+``Basically,'' he said,
+``what it means is,
+people are very reluctant to propose a change
+in the status quo.
+And the first ideas that are ever brought up
+in a group discussion
+tend to become the status quo,
+which people become reluctant to change.
+There are two techniques to overcome the status quo bias:
+the first is an individual-level technique,
+where you consider that
+the current status quo is highly unlikely to be correct.
+Like saying that life extension is bad.
+It's a bias because it implies that the current
+expected longevity
+is @emph{exactly} the perfect expected longevity.
+Why should the @emph{perfect} expected longevity
+be seventy-five years, when it could be, say,
+thirty years, or one hundred fifty years?
+And so on.
+
+``The second technique is a group-level technique,
+which is, in fact, this technique.
+You do not discuss your ideas @emph{immediately}
+upon formulating them.
+Instead, you ruminate upon them for a while,
+@emph{then} you discuss.
+Statistically, the initial idea
+that gets fixed in your brain
+is likely to be different from
+the initial idea
+that gets fixed in the brains
+of the other group members.
+This means there is no single fixed status quo,
+and you each end up defending
+your own, limited, status quo.
+That's why all group decision techniques
+follow the same basic
+disputation arena template,
+composed of two phases:
+the centrifugal phase, where group members
+come up with their own ideas initially,
+and the centripetal phase,
+where the ideas are put head-to-head against each other.''
+
+``Nice, Marco!'' said Cheers.
+``You memorized it from class, I guess?''
+
+Marco shrugged.
+
+``T-thanks,'' said John.
+``Sorry for the trouble.''
+
+Marco turned back to his computation pad
+to plan out his strategy.
+
+@sp 2
+
+Marco's computation pad displayed
+the information
+that the cognitivists
+had provided:
+the current and projected salaries
+of various possible careers,
+statistics on Seedling initiations
+of previous years,
+GDP per capita of R1 and
+the Dunbarite platforms...
+
+@emph{Cognitivist Ricardo Derrick,
+telling him, with certainty,
+``I suggest you continue to follow
+the literal meaning of that advice: go west.
+Go west, convince your fellow Seedlings to go west,
+cross the South Pacific.
+Head for the Dunbarite platforms.''}
+
+The information displayed
+was irrelevant
+to his goal,
+Marco decided.
+He needed to convince a majority
+of his fellow Seedlings
+to go west.
+
+It was all based on a few vague words.
+For a brief moment,
+Marco wondered if he had simply @emph{misheard}.
+Perhaps that phrase
+meant nothing at all...?
+
+@emph{He looked at Lizet in surprise,
+the metal weight of the bitcoin
+in the palm of his hand.
+There was fear in her eyes as she had whispered,
+Marco remembered.
+He had thought, at the time,
+that the fear was only because
+of the illegal and immoral giving
+of the coin,
+an unfair advantage
+that their family could afford,
+an advantage his peers could not have.
+But perhaps the fear was deeper.
+Perhaps the fear
+was fear of the loss of R1,
+its society,
+and its culture.}
+
+@sp 2
+
+A chime from his computation pad
+interrupted Marco's thoughts.
+The compiled information disappeared,
+to be replaced with an empty text box.
+
+The first stage of their group decision
+had ended.
+
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
