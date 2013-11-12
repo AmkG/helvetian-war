@@ -3674,16 +3674,18 @@ which is deemed relevant
 to your decision.
 You shall evaluate this information,
 without discussing with your peers,
-until the open forum ten minutes from now.
+until the ten minutes are up.
+Then we begin the open forum.
 At the open forum,
 you shall discuss your destination
 with your fellow Seedlings on this boat.
-Open forum discussion shall be twenty minutes.
+Open forum discussion shall be thirty minutes.
 After that, you shall have the vote,
 and then we will program the autopilot
 to the destination you, as a group,
 have decided on.
-Your first ten minutes
+Your ten minutes
+for evaluation
 begins now.''
 
 @sp 2
@@ -3744,6 +3746,9 @@ Why should the @emph{perfect} expected longevity
 be seventy-five years, when it could be, say,
 thirty years, or one hundred fifty years?
 And so on.
+You focus on the fact
+that it is very unlikely
+that you already live in a perfect world.
 
 ``The second technique is a group-level technique,
 which is, in fact, this technique.
@@ -3812,7 +3817,7 @@ to go west.
 It was all based on a few vague words.
 For a brief moment,
 Marco wondered if he had simply @emph{misheard}.
-Perhaps that phrase
+Perhaps that phrase had
 meant nothing at all...?
 
 @emph{He looked at Lizet in surprise,
@@ -3839,6 +3844,8 @@ A chime from his computation pad
 interrupted Marco's thoughts.
 The compiled information disappeared,
 to be replaced with an empty text box.
+He was logged in
+as the user ``@strong{u2563}''.
 
 The first stage of their group decision
 had ended.
@@ -3846,6 +3853,114 @@ had ended.
 @node Choice of Destination
 @chapter Choice of Destination
 
+Marco was thinking of what to type
+when John spoke.
+
+``Why am I logged in as `@strong{u1143}'?''
+John said.
+
+Damian just sighed, irritated.
+Cheers glanced at Marco momentarily
+before focusing on his computation pad
+again.
+@emph{All yours, roommate!} he imagined
+Cheers saying.
+
+It was getting very obvious
+that John had not gone anywhere
+near basic rationality training.
+
+``It's a temporary,
+randomly assigned username,''
+Marco said.
+``So that during the open forum,
+at least,
+there is some measure of anonymity.
+You're not supposed to say
+your temporary username to anyone,
+much less broadcast it to
+all your roommates.''
+
+``Sorry,'' said John.
+
+``After the open forum,
+your temporary username will be replaced
+with your real name.
+The main reason is to avoid bias.
+If, during the open forum itself,
+you found out that an idea
+is proposed by someone you liked,
+then, by association,
+you begin to like that idea,
+despite whatever disadvantages or advantages
+the idea might actually have.
+Similarly if you found an idea
+posted by someone you disliked:
+you get a bias towards disliking the idea,
+despite whatever merits it might have.
+It's another groupthink avoidance technique.''
+
+``Ah,'' said John.  ``Sorry for the trouble.''
+
+``It's okay,'' said Marco,
+giving him a thumbs-up.
+
+He lay back more comfortably
+to focus on the open forum.
+
+@sp 2
+
+@quotation
+Posted by @strong{u4224}:@*
+Renee wasn't subtle, was she?
+
+Posted by @strong{u9860}:@*
+@quotation
+Originally posted by @strong{u2563}:@*
+There are a LOT of advantages.
+Most of the other Seedling boats
+will probably hang around near R1
+or one of the R2s.
+But I'm pretty sure we've already been
+living on R1 or one of the R2s.
+Going to a Dunbarite platform
+will get as an edge there.
+@end quotation
+It will take maybe a month,
+give or take a couple days,
+to go to the nearest
+Dunbarite platform,
+near Tahiti.
+We need to rendezvous
+with another boat,
+prolly 4,
+for the next shuffling,
+that's three months from now.
+We pay two months travel time,
+back and forth,
+for one month of experience.
+
+Posted by @strong{u2563}:@*
+@@u4224: Didn't bother the other Gardener.
+
+@@u9860: That can't be right,
+our boat's got brand-new
+metapulse engines.
+My calculation says we can get there
+in two weeks and a couple days.
+
+Posted by @strong{u9860}:@*
+@quotation
+Originally posted by @strong{u2563}:@*
+@@u9860: That can't be right,
+our boat's got brand-new
+metapulse engines.
+@end quotation
+One of our gardeners has what looks like
+a very old homeboat.
+I'd be surprised if that's metapulse,
+it's probably standard electric engine.
+@end quotation
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
