@@ -60,6 +60,7 @@ a copy of this license, visit
 * The Stranger::
 * The First Step of Adulthood::
 * Choice of Destination::
+* Transplantation::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -3933,12 +3934,13 @@ Dunbarite platform,
 near Tahiti.
 We need to rendezvous
 with another boat,
-prolly 4,
-for the next shuffling,
-that's three months from now.
-We pay two months travel time,
-back and forth,
-for one month of experience.
+probably #4,
+for the next shuffling.
+That's three months from now.
+We pay two months
+round trip travel time,
+for one month of experience
+on a Dunbarite platform.
 
 Posted by @strong{u2563}:@*
 @@u4224: Didn't bother the other Gardener.
@@ -3960,7 +3962,165 @@ One of our gardeners has what looks like
 a very old homeboat.
 I'd be surprised if that's metapulse,
 it's probably standard electric engine.
+
+Posted by @strong{u0520}:@*
+@@u4224: I agree, she seems like
+she's trying to recruit us.
+
+@@u2563: u9860 is right,
+I noticed the incongruity of
+our nice new boat
+floating beside that old boat.
+
+That said, two months of travel
+for one month at a place
+we've never been to,
+and which is not likely
+for the other Seedling boats
+to go to
+sounds like a good trade to me.
+
+Posted by @strong{u8177}:@*
+@@u0520: I've been to a Dunbarite platform,
+it's not a good trade for me.
+
+Posted by @strong{u2563}:@*
+@quotation
+Originally posted by @strong{u9860}:@*
+One of our gardeners has what looks like
+a very old homeboat.
+I'd be surprised if that's metapulse,
+it's probably standard electric engine.
 @end quotation
+Ouch, didn't notice that.
+
+Still, even given the travel time....
+Each Dunbarite platform
+has its own culture.
+Possibly their own technologies.
+Getting a glimpse of even one of them
+seems a good trade.
+
+Posted by @strong{u2563}:@*
+@@u8177: Which one?
+If it's not the nearest Dunbarite platform
+that u9860 is referring to -@w{}-
+each Dunbarite platform
+has its own culture
+and each is PROUD to be independent
+of the others.
+So it might still end up a good trade.
+
+Posted by @strong{u8187}:@*
+Going to the Dunbarite platforms sounds
+like a bad idea.
+
+Posted by @strong{u6482}:@*
+How different are the Dunbarite platforms
+from R1 and the R2's, anyway?
+If we want culture shock, going to Chile
+is bettter,
+it's practically right next door to us.
+
+Posted by @strong{u9860}:@*
+@@u6482: Are we allowed to go to Chile?
+
+Posted by @strong{u1395}:@*
+@@u9860: Isn't that the point of the Seedling program?
+We're considered `probationary' adults
+and owners of the Fifth Seedling Company,
+which holds legal ownership of this boat.
+Our vote as stockholders of the company
+is what is supposed to determine
+our destination.
+
+Posted by @strong{u0520}:@*
+@quotation
+Originally posted by @strong{u2563}:@*
+Still, even given the travel time....
+Each Dunbarite platform
+has its own culture.
+Possibly their own technologies.
+Getting a glimpse of even one of them
+seems a good trade.
+@end quotation
+You know, the more I think about it,
+the more I think that going to
+the Dunbarite platforms is a good idea.
+
+Posted by @strong{u9860}:@*
+@quotation
+Originally posted by @strong{u1395}:@*
+@@u9860: Isn't that the point of the Seedling program?
+We're considered `probationary' adults
+and owners of the Fifth Seedling Company,
+which holds legal ownership of this boat.
+Our vote as stockholders of the company
+is what is supposed to determine
+our destination.
+@end quotation
+No, it's *R1* which considers us probationary adults.
+And by the Sea State Agreement
+the other Dunbarite platforms
+are obliged to consider us probationary adults.
+Chile isn't a part of Sea State
+and considers R1 simply as
+an incorporated foreign company,
+Rationality One Ocean Ventures.
+Age of majority in Chile is 18.
+Going to Chile means going as minors.
+
+Posted by @strong{u1395}:@*
+@@u9860: What's so bad about going there as a minor?
+
+Posted by @strong{u2563}:@*
+@@u9860: Sounds like Chile is a bad idea then.
+
+Posted by @strong{u2563}:@*
+Wait, what about going to a group of Dunbarite platforms?
+Don't they tend to cluster?
+
+Posted by @strong{u0520}:@*
+I agree with u2563.
+Going to the Dunbarite platforms
+sounds like a good idea.
+
+Posted by @strong{u9860}:@*
+@quotation
+Posted by @strong{u1395}:@*
+@@u9860: What's so bad about going there as a minor?
+@end quotation
+Minors are supposed to go around with guardians.
+Legally speaking our gardeners are not our guardians,
+the Seedling project hasn't considered doing that.
+The gardeners will have difficulty getting us in,
+the Chilean authorities will assume we were kidnapped
+or something.
+
+I think going to the Dunbarite platforms is good
+IN PRINCIPLE.
+It's the travel time that gets me.
+But if we're going to a GROUP of Dunbarite platforms,
+spend a fwe days each,
+maybe.
+
+I dunno, I'll think about it for a little while,
+maybe I'll convince myself.
+
+@end quotation
+
+@sp 2
+
+Marco stretched a little
+to relieve a crick in his neck.
+
+He checked the time,
+realizing with a jolt that
+the end of the open forum
+was in two minutes.
+
+@node Transplantation
+@chapter Transplantation
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
