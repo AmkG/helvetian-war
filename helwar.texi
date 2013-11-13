@@ -3931,7 +3931,7 @@ It will take maybe a month,
 give or take a couple days,
 to go to the nearest
 Dunbarite platform,
-near Tahiti.
+near the Marquises islands.
 We need to rendezvous
 with another boat,
 probably #4,
@@ -4116,11 +4116,160 @@ to relieve a crick in his neck.
 
 He checked the time,
 realizing with a jolt that
-the end of the open forum
-was in two minutes.
+the less than half of the mandated time
+remained for the open forum.
+
+He glanced at the computation pad.
+He didn't feel particularly confident
+that he had been able to convince
+the others to head
+for the Dunbarite platforms.
+
+He scrolled idly through various
+forum posts,
+to get a feel for what
+seemed to be the likely result
+of the upcoming vote.
+One post caught his attention.
+
+@quotation
+Posted by @strong{u3649}:@*
+@@u2563:
+Is it really that important to,
+so to speak, `go west?'
+Message me directly,
+I might help.
+@end quotation
 
 @node Transplantation
 @chapter Transplantation
+
+Sara ex Mulligan enabled
+her homeboat's computer,
+then launched ekiga
+to contact her fellow Gardener.
+
+An unfamiliar male face answered;
+most likely Renee's husband.
+``Hey, Renee!'' he said.
+``Call!''
+
+The display spun momentarily
+before focusing on Renee.
+
+``Good afternoon, Sara,'' she said.
+
+``Good afternoon,'' said Sara.
+``You've seen the result of the vote?''
+
+``A moment,'' said Renee.
+She glanced away,
+probably at another computation pad,
+then smiled.
+``Good.
+It seems that they have decided
+to head to a group
+of independent sea platforms
+near Tahiti.
+The offshoots of the `Ocean Free' platform:
+`Freedom of the Deep', `Society of the Ocean',
+`Freedom Manifested'.''
+
+Renee paused, tapping her cheek.
+She spoke again.
+``We will be coordinating our boats
+with a flocking program.
+How long would you take going there, alone?''
+
+Sara smiled.
+Many people underestimated the speed of her boat.
+``I've invested in a metapulse engine
+for my boat,'' she said.
+``An old model, and occasionally clunky,
+but workable.
+As long as the flocking program
+is set up to put my boat away
+from the turbulence caused by
+the metapulse engine of
+your boat and the Seedlings' boat,
+it shouldn't take more than three weeks
+and a few days.''
+
+``I see,'' said Renee.
+``That should help considerably.
+Well, it seems that my slight nudge
+to our Seedlings
+has borne fruit.''
+
+Sara nodded.
+``Yes.  Thank you.''
+
+Sara paused, trying to think of how
+to form the words.
+
+``So aside from informing me about
+the result of the vote,
+why did you call me?''
+said Renee,
+breaking the silence.
+
+Sara pursed her lips, then said,
+``You said earlier that you suspected
+military action against Sea State,
+most probably due to the issue of copyright.
+That Japan, and the USA, and even China
+might attempt to put pressure on Sea State,
+force us to follow the Berne Convention
+more closely,
+and to follow their rejection of
+the rule of the shorter term.
+Fine.
+I accept that.
+I haven't been following international news,
+so I have to defer to your judgment.
+But how long would such military action take?
+It's not like we can hide forever ---
+those `independent' platforms
+are still part of Sea State.''
+
+``The USA cannot formally declare war.
+And most of the countries
+that want to uphold the old copyright laws
+have a legislature, or something similar,
+that prevents them from declaring war @emph{directly}.
+But creative executives can still find a way
+to order military operations
+against foreign countries.
+I expect that the USA,
+or perhaps a pawn of theirs,
+will simply take over R1 directly,
+probably attempting to destabilize or take over
+what they consider to be the leaders of R1.
+I expect that the operation itself will not require
+more than a week to complete.
+Most people forget that our platforms are independent.
+Once R1 is under their control,
+I doubt they will pursue the independent platforms.''
+
+``So the cognitivists of Rationality One
+are going to be the likely targets
+of whatever operation they launch,''
+said Sara,
+``and all of the Dunbarite platforms, most likely,
+will be safe.''
+
+``Yes to the former.
+Very likely to the latter;
+there's still a chance that
+they will search through
+the Dunbarite platforms,
+if they suspect that some perceived `leader'
+has hidden there.
+But merely moving away from R1
+and its client platforms
+buys a significant amount of safety
+for your Seedlings.''
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
