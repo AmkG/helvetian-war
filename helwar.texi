@@ -4270,6 +4270,211 @@ and its client platforms
 buys a significant amount of safety
 for your Seedlings.''
 
+``Safe,'' said Sara.
+
+``As safe as we can get in an uncertain world,''
+said Renee.
+
+@sp 2
+
+Marco stepped out tentatively on deck,
+together with other Seedlings.
+They were about to launch.
+The homeboats of their Gardeners
+floated beside theirs.
+
+Somebody tapped his shoulder.
+Stephanie.
+
+``This is Susan,'' said Steph,
+pointing to a girl beside her.
+``Susan ex Guillermo.
+She prefers to be called Suzie.
+Suzie, meet my little brother, Marco.
+He's supposed to have a lot of self-control.''
+
+``Hello,'' said Suzie,
+giving him a pleasant smile,
+holding out her hand.
+Steph, beside her and a little behind Suzie,
+smirked at Marco.
+
+Marco smiled at the attractive girl,
+making sure not to let his eyes
+drift to her larger-than-average breasts.
+@emph{Distract yourself, Marco.
+You want to look at a
+good-looking pair of round things on her?
+Look at the irises of her eyes.
+A nice, attractive shade of light brown.}
+He shook her hand.
+``A pleasure to meet you.''
+He looked around for his roommates,
+failed to see them.
+
+Then he saw Cheers a short distance away,
+introducing himself to some fellow Seedlings.
+
+A woman emerged from the cabin of
+one of the Gardener's homeboats ---
+the older homeboat,
+the one that was probably on an electric motor.
+She wasn't Renee Magnus,
+so logically, it was probably Sara ex Mulligan.
+
+Sara stepped up from her boat,
+crossing the short ladder connecting it
+to the Seedling's boat,
+then stood at the line dividing
+the public-use and private parts
+of the deck.
+
+``Hello, Seedlings,'' said Sara.
+``I am Sara ex Mulligan,
+one of the Gardeners currently assigned
+to your boat.
+You have voted on your first destination.
+With your permission, I shall now program
+the autopilot of your boat.
+My boat, as well as Renee's,
+will be programmed as flock members
+of your boat.''
+
+The Seedlings parted to let her pass.
+
+@sp 2
+
+After having lunch with Steph and Suzie,
+Marco set about to explore the boat more.
+
+The seedlings were on their way west.
+
+He saw a door,
+labelled `3-D Printer',
+and smelled the familiar smell of
+melted plastic.
+Somebody was already using the
+3-D printer.
+
+He knocked, then opened the door.
+There was a person inside.
+
+To his surprise,
+it was someone he knew.
+John ex Nikos.
+
+``H-hello,'' John said.
+
+``Hello!'' said Marco.
+``Making something already?''
+
+``Uh, yes,''  John shifted.
+``Something to decorate my bunk with,
+at least.''
+
+Marco glanced at the 3-D printer.
+It was a RepRap model ---
+a @emph{rep}roducing @emph{rap}id-prototyper.
+The RepRap was composed primarily
+of sturdy plastic bars,
+forming a triangular prism.
+The print head was mounted
+across a bar
+that was currently midway up
+its side;
+various motors among the bars
+controlled the print head's movement.
+At its bottom was the printing plate,
+where something ---
+as yet indistinct ---
+was already started.
+A cable connected it to the nearby computer.
+
+``You've started using your allocation
+of R3PP?''
+A long spool of Reusable 3-D Printer Plastic
+was among the standard-issue items
+in the Seedling knapsack,
+together with a small bottle of melter
+that could be used with the
+recycling machine beside the RepRap,
+to transform a 3-D printed object
+back to reusable plastic.
+
+``Yes,'' said John.
+
+``Nice.  What are you making?''
+
+``Well...
+I always wanted to try out
+using a RepRap.
+I downloaded a conch-shell design
+from @url{www.thingiverse.com},
+made some adjustments.
+I've always been fascinated by the RepRaps,
+you see.
+It's like,
+you can have an idea,
+and by this device,
+you can turn that idea
+into an tactile, physical thing.
+From ideal to actual.''
+
+Marco looked at John again.
+RepRaps were very commonplace,
+they literally reproduced themselves ---
+RepRaps could print out their own components,
+and they were simple enough to
+assemble by hand,
+once the components were there.
+They were rather ordinary items,
+to the point of being positively
+@emph{boring}.
+
+To most Sea State citizens,
+at least.
+
+RepRaps were very slow,
+and they were outcompeted
+by ordinary industrial facilities
+on land,
+many of which had started to incorporate
+some of the RepRap's technological advances.
+Outside of Sea State,
+only enthusiasts used RepRaps.
+
+Sea State's
+lack of developed industrial facilities ---
+due primarily to its lack of actual land
+to build those facilities on ---
+meant that RepRaps
+were in everyone's homeboats.
+
+``Is it okay?'' asked John,
+interrupting Marco's thoughts.
+He sounded worried,
+his eyes darting between
+the working machine
+and Marco.
+
+Marco focused on John, again.
+He almost didn't ask the question
+that was nagging at him.
+He forced himself onward, anyway.
+``John, let me ask you something,'' he said.
+``Although the answer seems pretty obvious to me.
+You don't have basic rationality training,
+and you are acting as if
+you never read anything about
+the Seedling program.
+You are acting as if you've never seen
+a RepRap every day of your life
+since you were born.
+And I have some secondary information
+that I won't reveal right now,
+but it increases the possibility
+that what I suspect is true.
+You're not actually from an R2, are you?''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
