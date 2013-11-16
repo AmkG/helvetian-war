@@ -4420,8 +4420,10 @@ to transform a 3-D printed object
 back to reusable plastic.
 
 ``Yes,'' said John.
+``Is that okay?''
 
-``Nice.  What are you making?''
+``Yes, it's okay.
+What are you making?''
 
 ``Well...
 I always wanted to try out
@@ -4492,7 +4494,188 @@ And I have some secondary information
 that I won't reveal right now,
 but it increases the possibility
 that what I suspect is true.
-You're not actually from an R2, are you?''
+You're not actually
+a Sea State citizen,
+are you?''
+
+@sp 2
+
+``Is it that obvious?'' asked John,
+worry carved on his face.
+
+``Well... not really,'' said Marco.
+``I suppose the others think
+you just didn't pay attention
+to basic rationality training
+or something.
+And they're not here to see you
+gush about 3-D printing.
+To most of us,
+it's about as interesting
+as, I don't know,
+industrial manufacturing and packaging.
+Once you've watched a RepRap build
+everyone's toothbrushes once every two months,
+it gets to be boring after a while.
+I'd expect most people would go here,
+set up the RepRap to build whatever,
+then let their pads notify them
+when the RepRap's finished.''
+
+John lowered his head.
+``I like sculpting, you see,''
+said John.
+``I studied it a little.
+I found it difficult,
+even though I had good hand-eye coordination.
+It's just that my ideas
+were often a bad fit
+to the materials I had on hand.
+So, when I heard about 3-D printing
+and RepRaps,
+I thought it might be a way
+to get my ideas into reality
+much better.
+I studied everything I could get
+about them.
+Learned the important advantages
+of additive manufacturing
+over traditional,
+subtractive manufacturing ---
+you know,
+3-D printing versus
+sculpting and molding techniques.
+Afterward,
+I wanted to get a RepRap,
+but, well...''
+
+John's voice trailed off.
+He was watching the RepRap
+as it worked,
+caressing it.
+
+``Your parents didn't want to get
+a 3-D printer,''
+said Marco.
+``Because it would be impractical
+in a land-based,
+properly industrialized country.
+Which is where you'd be from,
+if you're not a Sea State citizen.''
+
+``Yes,'' said John.  He sighed.
+
+Marco thought for a while.
+He suspected that
+John's parents did not
+give him permission,
+or anything remotely like it,
+to go to a foreign country
+and join its initiation rites
+for prospective adults.
+
+A teenager who could do that
+probably did not feel
+a deep attachment to his parents.
+Marco chose his next response
+to test his hypothesis.
+To properly test it,
+it would have to assume
+the opposite of
+what his hypothesis stated,
+so that its negation provided
+evidene for his hypothesis.
+
+``Your parents might have been hoping
+that you'd become a famous sculptor.
+So they decided not to give you a RepRap,
+because it would have been a crutch
+on your budding skills.''
+
+John's face darkened.
+He looked directly at Marco,
+eyes sharp with emotion.
+``I had to study sculpturing
+in my spare time,
+hiding from my parents.
+My father thought it was a waste of time.
+@emph{Everything I did},
+it was a waste of time.
+Writing stories, sculpturing,
+3-D printing, everything.
+He wanted me to focus
+on what they were doing.
+He kept saying to me,
+`Making things is less important
+than controlling the people who make them.
+You make one thing, that's all you get.
+You control the makers,
+you get everything they make.'
+Control?
+More like coerce!''
+
+That confirmed Marco's hypothesis.
+
+``So,'' he said,
+``can you give me your @emph{real}
+Self-Introduction now?''
+
+The light ---
+the burning fire ---
+faded from John's face.
+``I'm...''
+He stopped.
+
+Marco waited patiently.
+
+``I'm from Chile,''
+John said.
+``My parents are...
+well, my mother is from Vietnam,
+that's true.
+She was a ---
+she was selected by father
+and brought into Chile.
+My father is a high-ranking politician.
+That's one of the reasons
+I went here ---
+I heard how different
+politics is
+in Sea State.
+My father is ---
+he's not the most corrupt politician,
+that's true,
+but he is definitely no angel.
+In the provinces of Chile,
+lots of things happen
+that never manage to get reported
+in the press.
+He's got his own personal army ---
+they're technically bodyguards and aides,
+but we know what they actually do.
+There's a local vigilante group ---
+they operate in that province ---
+that owes a few favors to him, too.
+Favors.
+Hate that word.''
+
+Marco nodded, keeping silent
+to encourage John to continue.
+
+``He's a devout Catholic.
+Or acts as if he's one, anyway.
+There are...
+There are a lot of reasons
+for me to get out of there.
+I'm not proud of my family,
+you know.
+If I went anywhere else,
+maybe they --- he ---
+could still reach me.
+But here ---
+there's a good chance he won't.''
+
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
