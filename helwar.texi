@@ -5482,8 +5482,9 @@ many more were left stranded
 as the electromagnetic pulse
 passed over them,
 their engines destroyed,
-rendering their skill at navigation
-useless.
+rendering their
+homeboats immobile,
+their skill at navigation useless.
 
 Many of them,
 drifting in their dead homeboats,
@@ -5524,7 +5525,8 @@ water would condense very fast,
 pouring down in tremendous sheets,
 the most powerful rains on Earth.
 
-The Chinese called them @emph{tai fung}.
+The Chinese called them @emph{tai fung},
+great wind.
 
 Abnormally, unnaturally,
 the superheated steam
@@ -5539,10 +5541,214 @@ The largest supertyphoon
 in recent history formed,
 practically overnight,
 at the graveyard
-of the sea platform R1.
+of sea platform R1.
 
 @node The Gardeners Reconsider
 @chapter The Gardeners Reconsider
+
+Renee Magnus was already deeply asleep,
+snug in her bed,
+when her husband woke her up.
+
+``Renee,'' he said,
+``something's happened.''
+
+He was sweating, badly.
+They had installed a powerful
+air-conditioning unit
+in their cabin,
+because he sweated profusely
+even in mild heat.
+Renee, comfortable at a warmer temperature,
+just piled on more blankets
+to compensate.
+
+Removing her blankets,
+Renee felt the biting cold
+in their cabin.
+Something
+other than heat
+had caused her husband's sweating,
+then.
+
+He waved one of their computation pads
+in front of her.
+
+She took the pad
+and began reading
+about R1's untimely demise.
+
+@sp 2
+
+Renee had barely manged
+to wrap her head
+around the terrible news
+when Sara ex Mulligan called her
+via ekiga.
+
+``You've heard the news?''
+said Sara.
+She looked like a mess;
+hair unkempt,
+eyebags under her bloodshot eyes.
+
+Renee suspected that she, herself,
+was a similar mess.
+
+``I just did,''
+said Renee.
+``This is worse than we expected.''
+
+``Much worse.''
+
+``I suppose we are very fortunate
+to be a good distance away
+from R1.''
+
+Sara nodded in reply.
+There was silence for a moment.
+
+Finally, Sara said,
+``There are a few things ---
+a few favors ---
+I'd like to ask.''
+
+``Yes?'' said Renee.
+
+``The Seedling boat
+has an internet connection
+via satellite.
+I'm connected to the Seedling boat's network
+as a public-use account,
+which is rate limited to use a maximum of 1%
+of the Seedling boat's available bandwidth.
+I want to download the entire English Wikipedia.
+The destruction of R1
+means the destruction of all reserve funds
+of the Seedling project,
+@emph{including the funds
+for the internet connection.}
+So the Seedling boat may get disconnected
+due to lack of funds
+some time soon.
+Before that happens,
+I want to have the English Wikipedia
+as a local copy here.
+Do you have your own internet connection?''
+
+Renee shook her head.
+``No.  We are also dependent
+on the Seedling boat's internet connection.
+We can also start downloading Wikipedia articles,
+so at least we can get 2%
+of the Seedling boat's bandwidth
+together.
+Let's coordinate with a parallel download program?''
+
+``Okay,'' said Sara.
+``I guess we'll have to ask the Seedlings directly
+for better bandwidth allocation
+while we still have internet.
+The next favor I'd like to ask is,
+would you mind taking me on your homeboat?''
+
+``Why?  There is some damage to your homeboat?''
+
+``No, it's just that it's much too slow.
+Climate reports indicate a massive supertyphoon
+forming at the site of the explosion.
+Simulations show that it will reach our general area
+in one or two days.
+According to the simulations,
+we should head due north.
+My boat is too slow,
+even if we head north now,
+but if it's not included in the flocking program,
+your homeboat
+and the Seedling boat
+will be fast enough
+that we will get hit
+only by the edges of the storm.
+Hopefully, we'll be able to weather that.''
+
+``I see,'' said Renee.
+``In that case, you're certainly welcome
+to live with us.''
+
+``I'll just stay on your public-use deck,''
+said Sara.
+``I did that before, when I was younger,
+before I scrounged up enough money
+to buy this old boat.''
+
+``Now, Sara, I refuse to let you
+be a public-use loafer.
+I shall consider it a charitable act
+to give you shelter for free.''
+She paused to enable a lawyer program,
+entered her private key to attest to it.
+She read the prompted words.
+``I, Renee Magnus,
+a citizen adhering to the Sea State Agreement,
+declare that this charitable act ---
+specifically, to allow the individual
+Sara ex Guillermo
+to take shelter
+in the private part of the homeboat
+owned jointly by the Magnus family ---
+is entered into and decided upon
+by my own will,
+and that I shall not exercise my inherent right
+to a fair exchange of resources
+specifically for this aforementioned case.''
+
+She was confident that
+she could bend her husband
+to agreeing to it.
+The lawyer program
+generated the contract file,
+which Renee sent
+to Sara.
+
+``Thank you,'' said Sara,
+upon receiving the file.
+``Unfortunately, I don't have
+a portable computation device ---
+I'll be leaving the computer
+on this boat.
+I'll just send the contract
+to an online archive.
+Are you sure it's not too much trouble?
+I've been an actual public-use loafer,
+I can adapt.''
+
+``I shall not hear of this,''
+said Renee.
+``We have a spare bunk.
+My husband sometimes sleeps in it
+since I sometimes toss and turn too much
+when I sleep,
+but I expect he shall manage well enough.
+You can sleep in the spare bunk.
+Our cabin will be very cold,
+as my husband is more comfortable that way,
+but we have enough spare blankets
+if you find it uncomfortable.
+Besides, as you said,
+we shall still be caught
+by the edge of that supertyphoon.
+It is not safe to be just on deck
+for that.''
+
+Sara smiled.
+``It's amazing what a little rope
+and a bowline knot
+can do during a storm.''
+
+Renee smiled in reply.
+``Touche.
+But you'll stay with us.''
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
