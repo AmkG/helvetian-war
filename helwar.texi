@@ -1544,7 +1544,10 @@ since the beginning?''
 ``I've been a Gardener since the Seedling program
 was prototyped on an R2 platform,'' Sara said,
 unconsciously sitting a little straighter.
-``Since before the beginning, in essence.
+``Since before the beginning,
+in essence
+a very small part
+of its conception.
 Now tell me, miss member-of-a-network ---
 is war coming?
 If war comes,
@@ -1688,12 +1691,14 @@ to connect to the ship's wireless.
 
 The computation pad was a cheap, low-power model.
 It had an electronic paper main display,
-which took a half-second to refresh at each change,
+which took a visible fraction of a second
+to refresh at each change,
 and a smaller low-resolution black-and-white LCD display,
 which was used to show the text he was currently entering.
 It was far less powerful
 than the computation pad
-his parents had given him.
+his parents had given him,
+when he was still de Alugbati.
 Still, it was all that he was allowed to use,
 as a Seedling.
 
@@ -1873,13 +1878,20 @@ Then Damian took out a small keyboard
 and connected it to his computation pad.
 
 ``Hey, how'd you get that?'' asked Cheers.
+He frowned, disapproving of the device.
 
 ``This keyboard?'' said Damian.
 ``Smuggled it in.
 Not like it's gonna be a big advantage
-over the rest of you, eh?''
+over the rest of you, eh?
+Besides, if anyone asks,
+I used the standard-issued R3PP
+to make it anyway.
+If I didn't,
+it's the first thing I'd do
+after we choose destinations.''
 
-``I guess,'' said Cheers.
+``I guess,'' said Cheers, still frowning.
 
 ``Sorry, but I'm a programmer,
 and I hate touchscreeens,'' Damian said.
@@ -1914,7 +1926,8 @@ Damian's keyboard,
 then shook his head.
 
 Marco wished he could tell them
-about the eyes, and the coin.
+about the eyes on the poster,
+and the physical bitcoin.
 
 @sp 2
 
@@ -1938,7 +1951,7 @@ There's a cute girl here,
 maybe I'll introduce you to her,
 what do you think?
 She's Susan ex Guillermo,
-from an R2 platform.
+she's also from R1.
 
 Your roommate Cheers sounds interesting!
 I'm curious about how he got to be
@@ -1968,7 +1981,7 @@ carbon-copied to all of his parents.
 Hello Marco,
 
 It's good to know
-that the cognitivists of R1
+that the cognitivists of Rationality One
 agree with us.
 
 Love, Red.
@@ -2014,7 +2027,7 @@ Then he bowed a little
 and backed into the remaining empty bunk.
 
 ``Sadly, it seems that
-we'll all be boys in this room,''
+we'll all be boys in this room.''
 said Cheers.
 ``How unlikely could that get?''
 
@@ -2030,6 +2043,7 @@ all-female rooms.''
 ``Maybe we'll get to be with girls
 after the Shuffling
 three months from now, eh?''
+Cheers said.
 He winked at Marco,
 then shook his head ---
 possibly in mock sadness, Marco thought.
@@ -4081,10 +4095,15 @@ No, it's *R1* which considers us probationary adults.
 And by the Sea State Agreement
 the other Dunbarite platforms
 are obliged to consider us probationary adults.
-Chile isn't a part of Sea State
-and considers R1 simply as
+Chile isn't a part of Sea State,
+it's not a party, implicit or explicit,
+to the Sea State Agreement,
+it considers R1 simply as
 an incorporated foreign company,
 Rationality One Ocean Ventures.
+As far as Chile is officially concerned,
+we're not citizens of any country
+it recognizes.
 Age of majority in Chile is 18.
 Going to Chile means going as minors.
 
@@ -4124,7 +4143,6 @@ maybe.
 
 I dunno, I'll think about it for a little while,
 maybe I'll convince myself.
-
 @end quotation
 
 @sp 2
@@ -4382,6 +4400,9 @@ it was someone he knew.
 John ex Nikos.
 
 ``H-hello,'' John said.
+He stood as if to block
+Marco's view
+of the 3-D printer.
 
 ``Hello!'' said Marco.
 ``Making something already?''
@@ -4390,7 +4411,9 @@ John ex Nikos.
 ``Something to decorate my bunk with,
 at least.''
 
-Marco glanced at the 3-D printer.
+Marco tiptoed to glance
+at the 3-D printer
+over John's shoulder.
 It was a RepRap model ---
 a @emph{rep}roducing @emph{rap}id-prototyper.
 The RepRap was composed primarily
@@ -4653,8 +4676,8 @@ in the press.
 He's got his own personal army ---
 they're technically bodyguards and aides,
 but we know what they actually do.
-There's a local vigilante group ---
-they operate in that province ---
+There's a vigilante group
+which operate in my father's province
 that owes a few favors to him, too.
 Favors.
 Hate that word.''
@@ -4664,7 +4687,9 @@ to encourage John to continue.
 
 ``He's a devout Catholic.
 Or acts as if he's one, anyway.
-There are...
+And he...
+he's not anywhere near good,
+anyway.
 There are a lot of reasons
 for me to get out of there.
 I'm not proud of my family,
@@ -4675,6 +4700,105 @@ could still reach me.
 But here ---
 there's a good chance he won't.''
 
+``Okay...''
+
+``He thinks Sea State is damned.
+Because of the `puppeteers,'
+the cognitivists,
+with their denial of the existence
+of souls
+and the restricted form of free will
+in the cognitivist mindset.
+That's true,
+at least,
+my father really does call them puppeteers.
+As if he isn't an even worse puppeteer.
+At least the cognitivists
+try to improve
+the greater number of people,
+instead of just benefiting themselves.
+I left a note
+about how I was going to Sea State,
+to Rationality One.
+I @emph{think} he won't try to get to me here.
+Because he thinks I've joined
+the ranks of the damned,
+just by going here.''
+
+``What if he doesn't?
+Maybe he loves you more than
+you think he does.''
+
+John smiled.
+``I think I know my father well.
+I've lived with him.
+And ---
+and there's a lot of reasons
+that he doesn't want
+to consider me his son, you know.
+So I'm fairly confident he won't try.
+He'll probably tell my mother
+to never mention me again.
+Probably already has.''
+
+John sat down on the seat again.
+
+``You won't tell anyone?''
+said John.
+``Please?''
+
+``I won't.''
+
+``T-thank you.''
+
+Marco looked at him silently,
+listening to the RepRap print
+the conch-shell design.
+Then he said,
+``It's just that there's a lot
+you don't know
+about how Sea State operates.
+For example,
+even the Dunbarite platforms ---
+the platforms we're going to ---
+all expect their adult citizens
+to have taken basic rationality training
+at some point.
+It's a de facto part of the Sea State Agreement,
+even the most separationist Dunbarites
+won't contest it.
+The few slip-ups you've had won't tag you @emph{yet},
+nobody's perfect,
+but the more you have,
+the more people will suspect
+that you don't have basic rationality training.
+I can help you with that.''
+
+John smiled.  It didn't reach his eyes.
+``In exchange for what?''
+he said.
+
+John's body was tilted slightly back,
+radiating a sense of suspicion,
+of mistrust.
+
+Marco blinked.
+It took him a while
+to understand.
+``You hate favors, eh?'' he said.
+``It's not a favor.
+Or ---
+here.''
+He held out his hand.
+``I'm your roommate.
+Maybe we can be friends.
+No tracking of favors,
+just someone you can ask for help
+when you need it.
+And I assure you,
+you need a lot of help
+if you don't want to let it slip
+that you're not from an R2 platform.''
 
 
 @node CC-BY-SA 3.0 Unported
