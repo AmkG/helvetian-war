@@ -62,6 +62,7 @@ a copy of this license, visit
 * Choice of Destination::
 * Transplantation::
 * The Mushroom at the End of R1::
+* The Gardeners Reconsider::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -5105,7 +5106,7 @@ heading for Rationality One.
 @c yay nuclear explosion!!!
 @c coz why the hell not??
 
-The thermonuclear warhead
+The nuclear warhead
 that fell upon R1
 on that fateful night
 was not intelligent.
@@ -5135,7 +5136,9 @@ to take this into account.
 Whatever minor, invisible effect
 that the local winds had
 was simply accepted as a small,
-controllable error factor.
+limited,
+ultimately controllable
+error factor.
 
 In the upper reaches of the atmosphere,
 it would arguably already be in space.
@@ -5192,7 +5195,7 @@ at the requisite timing.
 This core entered critical mass.
 
 Each second,
-a few thousand uranium atoms
+a few thousand plutonium atoms
 in the core
 would split ---
 @emph{fissioned} was the term
@@ -5205,15 +5208,15 @@ in critical mass,
 almost all of the neutrons
 would fly out of the core,
 not hitting anything,
-until they reached the beryllium sphere
+until they reached the protective sphere
 surrounding the core.
 
 But when the core was compressed,
-the uranium atoms pressed against each other.
+the plutonium atoms pressed against each other.
 Almost all the stray neutrons
-hit other uranium atoms.
+hit other plutonium atoms.
 
-The uranium atoms hit by neutrons
+The plutonium atoms hit by neutrons
 became even more unstable
 than they already,
 inherently,
@@ -5222,49 +5225,49 @@ Many more of them would split
 into smaller atoms
 and more neutrons.
 
-Perhaps a few stray uranium atoms,
+Perhaps a few stray plutonium atoms,
 by the strange, counterintuitive laws
 of quantum physics,
 did not destabilize.
 Some minor probability, some minor chance,
-kept those few uranium atoms from splitting.
+kept those few plutonium atoms from splitting.
 But in the face of what happened next,
 their luck was short-lived.
 
 Neutrons flooded the core.
 As more and more of their neighbors
 self-destructed,
-uranium atoms began splitting,
+plutonium atoms began splitting,
 left and right.
 Nothing would help,
 @emph{could} help,
 against the onslaught of neutrons
 hitting those few lucky,
-extra-stable uranium atoms.
+extra-stable plutonium atoms.
 
-A few thousand uranium atoms
+A few thousand plutonium atoms
 splitting in a second
 would warm the core very, very slightly.
 
 But as more and more neutrons
-destabilized more and more uranium atoms,
-many, many more uranium atoms
+destabilized more and more plutonium atoms,
+many, many more plutonium atoms
 would destabilize and split,
 bringing their neighbors
 closer to destruction.
-Millions more uranium atoms split.
+Millions more plutonium atoms split.
 Then billions more.
 Then trillions more.
 
 The core became very, very, very warm.
 Billions of times warmer,
 as the destruction
-of uranium atoms
+of plutonium atoms
 sped up,
-causing many more uranium atoms
+causing many more plutonium atoms
 to self-destruct.
 
-By the time all the uranium atoms
+By the time all the plutonium atoms
 in the missile's core had split,
 the temperature of the core
 had exceeded the temperature
@@ -5299,7 +5302,7 @@ then fried,
 then simply burned
 and eradicated
 as even more heat spread
-from the thermonuclear warhead.
+from the nuclear warhead.
 
 The seawater near ground zero
 reached boiling point,
@@ -5352,7 +5355,7 @@ that humankind had ever learned to grow.
 
 At sea level, many more things happened
 as a consequence of the heat buildup
-in the thermonuclear warhead's core.
+in the nuclear warhead's core.
 
 The water under ground zero,
 in boiling,
@@ -5393,7 +5396,8 @@ could only cling to the wreckage of their lives.
 
 And yet, even as the wave of destruction spread,
 it grew smaller, weaker.
-Its power stretched over a wider circumference.
+The same amount of power
+stretched over a wider circumference.
 
 By the time the wave reached the shores of Chile,
 it was barely larger than the wind-blown waves
@@ -5403,7 +5407,7 @@ that evening.
 
 Around the core was the chemical explosives
 that triggered its critical mass.
-Around @emph{that} was the beryllium sphere,
+Around @emph{that} was the protective sphere,
 which absorbed excess neutrons and radiation.
 It ensured that a nuclear warhead,
 before its explosion,
@@ -5416,7 +5420,7 @@ or gunshots,
 would trigger a nuclear warhead.
 
 When the core exploded,
-the beryllium sphere was blasted
+the protective sphere was blasted
 into smithereens.
 
 Radioactive by-products and neutrons
@@ -5444,6 +5448,59 @@ by a few years.
 It increased their chances of cancer
 slightly,
 down the road.
+
+@sp 2
+
+This was not the extent
+of the result
+of the nuclear explosion.
+
+Normally, naturally,
+water evaporated from the oceans.
+
+Normally, naturally,
+the evaporated water
+would rise
+into the upper atmosphere,
+then condense into clouds.
+In the height of summer,
+a lot of water would evaporate,
+forming large, tall clouds.
+
+Large clouds,
+pulled by Coriolis forces,
+would spin.
+The largest of these clouds
+formed over the Pacific ocean.
+As they grew even larger,
+they would spin faster,
+forming a distinctive `eye,'
+air spinning too fast
+for water to condense properly.
+Outside the eye,
+water would condense very fast,
+pouring down in tremendous sheets,
+the most powerful rains on Earth.
+
+The Chinese called them @emph{tai fung}.
+
+Abnormally, unnaturally,
+the superheated steam
+around ground zero
+brought evaporated water ---
+a @emph{lot} of evaporated water ---
+into the atmosphere.
+Far more water than most typhoons
+fed on.
+
+The largest supertyphoon
+in recent history formed,
+practically overnight,
+at the graveyard
+of the sea platform R1.
+
+@node The Gardeners Reconsider
+@chapter The Gardeners Reconsider
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
