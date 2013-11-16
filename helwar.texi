@@ -5655,7 +5655,7 @@ would you mind taking me on your homeboat?''
 ``Why?  There is some damage to your homeboat?''
 
 ``No, it's just that it's much too slow.
-Climate reports indicate a massive supertyphoon
+Weather reports indicate a massive supertyphoon
 forming at the site of the explosion.
 Simulations show that it will reach our general area
 in one or two days.
@@ -5698,7 +5698,7 @@ in the private part of the homeboat
 owned jointly by the Magnus family ---
 is entered into and decided upon
 by my own will,
-and that I shall not exercise my inherent right
+and that I waive my inherent right
 to a fair exchange of resources
 specifically for this aforementioned case.''
 
@@ -5746,8 +5746,26 @@ and a bowline knot
 can do during a storm.''
 
 Renee smiled in reply.
-``Touche.
-But you'll stay with us.''
+``Touch@'e.
+But you shall stay with us.
+I insist.''
+
+``Thank you, Renee.
+And thank your husband for me.
+I have a final favor to ask.''
+
+``Yes?''
+
+``We need to head due north @emph{now}.
+Within the hour, at least.
+That means we need to disengage
+the flocking program,
+on the Seedling boat.
+We need to wake them up.''
+
+``I'll help you,'' said Renee.
+
+@sp 2
 
 
 @node CC-BY-SA 3.0 Unported
