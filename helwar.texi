@@ -5392,7 +5392,8 @@ and who could have survived, possibly,
 drowned as the tidal wave
 overtook them.
 Those who survived
-could only cling to the wreckage of their lives.
+could only cling to the wreckage of their homeboats.
+The wreckage of their lives.
 
 And yet, even as the wave of destruction spread,
 it grew smaller, weaker.
@@ -5448,6 +5449,47 @@ by a few years.
 It increased their chances of cancer
 slightly,
 down the road.
+
+@sp 2
+
+Gamma rays from the nuclear explosion
+produce high-energy electrons.
+Those electrons spread out,
+forming an electromagnetic wavefront ---
+an electromagnetic pulse of energy.
+
+This pulse causes high voltages to be generated
+in electronic equipment.
+Voltages too high for them to tolerate.
+
+Increasingly, human lives are governed by electronics.
+
+Many citizens of Sea State
+do not actually know how to navigate
+their own homeboats.
+They depend upon
+open-source navigation programs.
+Programs requiring working computers ---
+working electronic equipment ---
+to exist, in order to work.
+
+Many of their homeboats
+depended on complex electronics
+to operate their engines properly.
+Of the minority
+who could actually navigate,
+many more were left stranded
+as the electromagnetic pulse
+passed over them,
+their engines destroyed,
+rendering their skill at navigation
+useless.
+
+Many of them,
+drifting in their dead homeboats,
+consumed all their food resources,
+and slowly starved to death
+before they could be rescued.
 
 @sp 2
 
