@@ -61,7 +61,7 @@ a copy of this license, visit
 * The First Step of Adulthood::
 * Choice of Destination::
 * Transplantation::
-* The End of R1::
+* The Mushroom at the End of R1::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -4906,8 +4906,8 @@ and he'd never sent or received messages
 from anyone logged in
 using that name.
 
-@node The End of R1
-@chapter The End of R1
+@node The Mushroom at the End of R1
+@chapter The Mushroom at the End of R1
 
 Lancer ex Caballeros,
 ex-admiral of the Sea Strikers,
@@ -5102,6 +5102,9 @@ heading for Rationality One.
 
 @sp 2
 
+@c yay nuclear explosion!!!
+@c coz why the hell not??
+
 The thermonuclear warhead
 that fell upon R1
 on that fateful night
@@ -5155,6 +5158,8 @@ It reached its destination
 at the precomputed time.
 Its circuits activated.
 
+@sp 2
+
 Smaller, ordinary chemical explosives
 surrounded the core,
 the nuclear heart
@@ -5204,12 +5209,12 @@ until they reached the beryllium sphere
 surrounding the core.
 
 But when the core was compressed,
-the uranium atoms pressed against each other,
-almost all the stray neutrons
+the uranium atoms pressed against each other.
+Almost all the stray neutrons
 hit other uranium atoms.
 
 The uranium atoms hit by neutrons
-would become even more unstable
+became even more unstable
 than they already,
 inherently,
 were.
@@ -5220,7 +5225,7 @@ and more neutrons.
 Perhaps a few stray uranium atoms,
 by the strange, counterintuitive laws
 of quantum physics,
-did not destabilize as quickly.
+did not destabilize.
 Some minor probability, some minor chance,
 kept those few uranium atoms from splitting.
 But in the face of what happened next,
@@ -5233,7 +5238,7 @@ uranium atoms began splitting,
 left and right.
 Nothing would help,
 @emph{could} help,
-the onslaught of neutrons
+against the onslaught of neutrons
 hitting those few lucky,
 extra-stable uranium atoms.
 
@@ -5268,6 +5273,10 @@ of the surface of the sun.
 A miniature sun blossomed in the midst of R1.
 
 @sp 2
+
+Heat has a tendency to expand objects.
+The higher the heat,
+the greater the expansion.
 
 The compressed core expanded,
 then expanded even more,
@@ -5306,9 +5315,135 @@ As the air and the steam expanded,
 its density dropped.
 Far less dense than the air above it,
 the hot air and the steam rose upward,
-cooling all along the way.
+cooling all along the way,
+forming a large column.
 
-The
+As the column of
+superheated air and steam rose
+far into the upper atmosphere,
+the air and steam at the edge
+of the column cooled,
+faster than the air
+near the center of column.
+The air and steam at the edges
+spread out a little as it rose.
+The air and steam at the center
+rose slightly faster,
+being slightly warmer.
+The mass of air reached a height
+where the surrounding air's density
+matched its own,
+staying at that level.
+The mass of superheated air
+formed a roundish shape,
+its edges spread out,
+its center somewhat higher.
+
+The column of hot air
+and the round shape at the top
+formed the distinctive mushroom shape
+of any sufficiently-large explosion.
+
+The mushroom that grew on R1
+was the largest mushroom
+that humankind had ever learned to grow.
+
+@sp 2
+
+At sea level, many more things happened
+as a consequence of the heat buildup
+in the thermonuclear warhead's core.
+
+The water under ground zero,
+in boiling,
+left an empty space in its wake.
+It was a void waiting to be filled
+by the right material:
+even more seawater.
+
+Many tonnes of seawater moved,
+rushing to fill the void
+left by the boiled water.
+Inevitably,
+more water would try to go in
+than was necessary to fill the gap.
+
+The excess water formed a small column
+at ground zero,
+rising underneath the mushroom.
+
+Inevitably, gravity would force
+that column of water
+back down towards Earth.
+
+The water falling down
+displaced more water,
+creating a tremendous tidal wave,
+spreading out around ground zero.
+
+The tidal wave spread out,
+destroying and overturning homeboats.
+Even many of those
+far from the explosion itself,
+and who could have survived, possibly,
+drowned as the tidal wave
+overtook them.
+Those who survived
+could only cling to the wreckage of their lives.
+
+And yet, even as the wave of destruction spread,
+it grew smaller, weaker.
+Its power stretched over a wider circumference.
+
+By the time the wave reached the shores of Chile,
+it was barely larger than the wind-blown waves
+that evening.
+
+@sp 2
+
+Around the core was the chemical explosives
+that triggered its critical mass.
+Around @emph{that} was the beryllium sphere,
+which absorbed excess neutrons and radiation.
+It ensured that a nuclear warhead,
+before its explosion,
+was not much more radioactive
+than a banana.
+It protected the core from exploding,
+by absorbing the destabilizing neutrons,
+ensuring that not even powerful hits,
+or gunshots,
+would trigger a nuclear warhead.
+
+When the core exploded,
+the beryllium sphere was blasted
+into smithereens.
+
+Radioactive by-products and neutrons
+spread out,
+without the beryllium sphere
+to contain them.
+
+The nuclear explosion spread those
+radioactive materials
+far from their source.
+The mushroom cloud
+and the tidal wave
+carried its own share
+of radioactivity.
+Many of those who survived
+the actual heat explosion
+received far too much radiation,
+killing them in hours, minutes,
+@emph{seconds}.
+
+Those further away
+received a dose
+that would reduce their lives
+by a few years.
+It increased their chances of cancer
+slightly,
+down the road.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
