@@ -61,6 +61,7 @@ a copy of this license, visit
 * The First Step of Adulthood::
 * Choice of Destination::
 * Transplantation::
+* The End of R1::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -1291,7 +1292,7 @@ were supposed to be the ones
 who would brief Renee Magnus.
 
 Except that a few minutes ago,
-a cognitivist had contacted her by ekiga
+a cognitivist had contacted her via ekiga
 and informed her that a situation had come up
 that would require their attention.
 They were too busy
@@ -4060,7 +4061,7 @@ Posted by @strong{u9860}:@*
 Posted by @strong{u1395}:@*
 @@u9860: Isn't that the point of the Seedling program?
 We're considered `probationary' adults
-and owners of the Fifth Seedling Company,
+and owners of the Fourth Seedling Company,
 which holds legal ownership of this boat.
 Our vote as stockholders of the company
 is what is supposed to determine
@@ -4729,7 +4730,8 @@ just by going here.''
 Maybe he loves you more than
 you think he does.''
 
-John smiled.
+John smiled,
+as if the idea was preposterous.
 ``I think I know my father well.
 I've lived with him.
 And ---
@@ -4739,7 +4741,12 @@ to consider me his son, you know.
 So I'm fairly confident he won't try.
 He'll probably tell my mother
 to never mention me again.
-Probably already has.''
+Probably already has.
+You want to know something?
+When I heard Cheers talk about
+his family so happily,
+it's like my family is
+a dark mirror to his.''
 
 John sat down on the seat again.
 
@@ -4791,7 +4798,8 @@ Or ---
 here.''
 He held out his hand.
 ``I'm your roommate.
-Maybe we can be friends.
+Maybe we can be more than that.
+We can be friends.
 No tracking of favors,
 just someone you can ask for help
 when you need it.
@@ -4800,6 +4808,507 @@ you need a lot of help
 if you don't want to let it slip
 that you're not from an R2 platform.''
 
+Marco waited, patient,
+his hand still held out.
+
+John shook his head.
+``Let me try for myself.
+Just a little.
+If I fail ---
+then maybe I'll ask for your help.''
+
+Marco put down his hand,
+taking care to stop
+his disappointment, embarassment, and frustration
+from reaching his face.
+@emph{Don't pressure him.
+And you can always keep an eye out,
+step in later,
+if it gets disastrous.
+Think of alternative means
+of helping him.}
+He forced himself to smile,
+crinkled his eyes
+to convince himself,
+or at least a part of himself,
+that he was not unhappy about it.
+
+In a way, he also wanted to have a genuine friend.
+Someone he could trust
+to tell about the physical bitcoin,
+about his parents,
+and about the meaning of `go west.'
+@emph{So I guess my motives aren't so pure,
+after all.}
+
+``It's fine,'' he said.
+``And you can trust me not to tell anyone.''
+
+He bowed slightly and left,
+closing the door carefully behind him.
+
+@sp 2
+
+The same mood still gripped him
+when he arrived back at room 2.
+Cheers' and John's bunk was empty;
+Damian was seated comfortably in his,
+typing something, probably programming.
+
+``Hello,'' said Marco.
+
+Damian didn't respond immediately.
+
+When he did,
+a distracted ``Hmm?''
+was all Damian said.
+
+@emph{Not someone I'd be able to
+talk to enough
+to confide in,
+I guess,}
+thought Marco.
+
+Marco climbed up to his bunk.
+He remembered @strong{u3649},
+who had given him advice
+on how to convince the others
+to go to the Dunbarite platforms
+of Polynesia and Micronesia.
+
+By this time,
+the anonymization would have been removed.
+He should be able to find out
+who @strong{u3649} really was.
+He enabled his computation pad
+to look for the real identity of @strong{u3649}.
+
+A tiny part of him hoped that it was Suzie.
+Susan ex Guillermo.
+It would be good to talk to her,
+get another chance to look at her
+beautiful brown irises.
+
+He looked for login name @strong{u3649}
+in the master list.
+
+Then he tried to look at the private messages
+he'd sent to @strong{u3649}.
+
+He looked at the master list again,
+unable to believe what he was seeing.
+
+Or rather, what he wasn't seeing.
+
+As far as the system was concerned,
+there never was a @strong{u3649},
+and he'd never sent or received messages
+from anyone logged in
+using that name.
+
+@node The End of R1
+@chapter The End of R1
+
+Lancer ex Caballeros,
+ex-admiral of the Sea Strikers,
+stood on the deck of his homeboat,
+admiring how the advertisements
+showed well in the evening.
+
+As he looked up,
+he thought he saw something move
+in the night sky.
+
+Advertising was, in retrospect,
+the best way to privatize armies,
+without making them into @emph{private} armies,
+owned and controlled by the highest bidder.
+The same way that other public resources,
+such as radio stations,
+news sites,
+web search engines,
+and others
+had been privatized:
+by advertising.
+
+Not so long ago,
+Rationality One had maintained
+a working navy,
+the only one that the Pacific Sea State had
+in any capacity.
+It was a necessity,
+an evil that the cognitivists of Rationality One
+had accepted,
+the Leviathan
+that ensured
+that citizens of R1
+did not go around murdering each other.
+
+Not having a public army was what
+had ultimately lead
+to the collapse of their sister country,
+the North Atlantic Sea State.
+Strict adherence to the ideals of
+anarcho-techno-libertarianism ---
+passing everything through
+the operation of the free market,
+without government intervention
+and supported by
+growing advances in technology ---
+prevented the formation of a public army.
+Without an analogue to the police force,
+ordinary citizen began to prey
+on their fellow citizens.
+Often by hiring @emph{private} armies
+to harass them.
+
+The cognitivists bent their idealogy,
+conforming to the evidence of reality.
+They formed a public army,
+a navy that served as police
+and army.
+
+But even public armies
+tended to be destabilizing,
+since there was always the risk
+of a military coup.
+And that power,
+that ability to threaten coup,
+meant that army leaders
+were in a position
+to ask for bribes ---
+bribes to avoid military takeovers.
+Hence, a source of corruption.
+The cognitivists recognized that,
+and took steps
+to prevent it.
+
+But it was a known evil,
+something accepted,
+for then,
+because it stopped an even greater evil:
+the utter collapse of society.
+
+And then an enterprising young man,
+Lancer ex Caballeros,
+figured out
+how to privatize armies
+while aligning their interests
+with the public.
+
+Advertising.
+
+It was a technique,
+a technology,
+that aided the ideals of
+anarcho-libertarianism.
+
+A private navy
+that did something ---
+anything ---
+that went
+against public interest
+would become unpopular.
+And no company would want
+their trademarks associated
+with an unpopular navy.
+They would withdraw
+their advertising contracts,
+leaving the navy without
+a source of funding.
+Protecting that revenue stream
+meant that private navies
+had to ensure good public relations.
+And meant that they adhered
+to the expected laws and customs
+of Sea State.
+
+A private navy that attempted
+to gain @emph{direct} control
+over their revenue --
+a military takeover
+or a harassment without just cause ---
+was branded a ``pirate navy.''
+Other private navies
+would then band together
+to eradicate the pirates,
+to protect the reputation
+of all advertising-revenue navies.
+
+In the early days,
+they were effectively lead by
+Rationality One's public navy.
+But as the number and strength of
+the private navies grew,
+the public navy began to have
+an increasingly peripheral role.
+When the cognitivists measured
+the relative advantages of the new style
+of private navies,
+and found them a better fit
+to anarcho-libertarian ideals,
+Rationality One disbanded its public navy.
+Taxes were reduced,
+to the joy of many.
+
+The new advertising private armies
+also helped start
+the Dunbarite movement.
+The R2 platforms
+had huddled around R1,
+to keep within the umbrella
+of Rationality One's
+public navy.
+But once the new,
+advertising-revenue private navies
+got started,
+some of the separationist
+R2 platforms
+spread out across the South Pacific,
+turning themselves into
+the Dunbarite platforms,
+each one proud of
+having their own platform names
+and their own, idiosynchratic cultures.
+They trusted the growing number of
+private navies
+that patrolled their platforms
+and the seas around
+and between them.
+
+So Lancer,
+even though he was retired,
+still put his old navy's advertisements
+on his own homeboat.
+It was the achievement of a lifetime,
+his legacy to Sea State.
+
+It was fitting that he was one of the few
+who glimpsed R1's doom fall on Rationality One
+that night,
+just a few days
+after the Seedling boats
+had left,
+to bring their Seedlings
+to their destiny.
+
+It was not fitting that he was,
+like most of R1's citizens,
+one of the many who died that night.
+
+The thing he had seen earlier
+streaked through the night sky,
+heading for Rationality One.
+
+@sp 2
+
+The thermonuclear warhead
+that fell upon R1
+on that fateful night
+was not intelligent.
+It didn't have to be.
+
+Its path had been precomputed.
+It would simply follow the instructions
+programmed into it,
+and it would reach its destination.
+
+Ideally, any object
+travelling on Earth
+would follow either a parabolic arc
+or an ellipse, an orbit around Earth.
+Of course,
+the Earth had an atmosphere.
+Near its launch and its destination,
+it would encounter significant air resistance
+due to the higher density of air.
+As the warhead arced into the upper reaches
+of the atmosphere,
+it would encounter less air resistance.
+
+This had already been considered,
+its path already computed
+to take this into account.
+Whatever minor, invisible effect
+that the local winds had
+was simply accepted as a small,
+controllable error factor.
+
+In the upper reaches of the atmosphere,
+it would arguably already be in space.
+There, external radiation,
+from the sun and other sources in the galaxy,
+would hit it.
+Far greater radiation
+than any device on Earth's surface
+would ever expect to encounter.
+This had also been considered
+by the designers of the missile.
+Whatever meager electronics it had
+was protected well
+against the onslaught of
+the flood of
+radioactive particles
+in space.
+
+It reached its destination
+at the precomputed time.
+Its circuits activated.
+
+Smaller, ordinary chemical explosives
+surrounded the core,
+the nuclear heart
+of the warhead.
+With careful timing,
+the circuits controlling the missile
+detonated the chemical explosive
+in a fixed,
+predetermined manner.
+
+If one of those chemical explosives failed
+to detonate in the right sequence,
+at the right timing,
+the core would not reach critical mass
+and the missile,
+for all intents and purposes,
+would be little more than
+a very expensive,
+ordinary, explosive
+intercontinental ballistic missile.
+
+But the simplicity of its electronics
+ensured its reliability.
+It was very, very unlikely to fail.
+
+The chemical explosives pushed
+the core, a large sphere,
+into a smaller sphere,
+at the requisite timing.
+This core entered critical mass.
+
+Each second,
+a few thousand uranium atoms
+in the core
+would split ---
+@emph{fissioned} was the term
+used by physicists ---
+into smaller atoms,
+as well as a few stray neutrons.
+
+In a core that was not
+in critical mass,
+almost all of the neutrons
+would fly out of the core,
+not hitting anything,
+until they reached the beryllium sphere
+surrounding the core.
+
+But when the core was compressed,
+the uranium atoms pressed against each other,
+almost all the stray neutrons
+hit other uranium atoms.
+
+The uranium atoms hit by neutrons
+would become even more unstable
+than they already,
+inherently,
+were.
+Many more of them would split
+into smaller atoms
+and more neutrons.
+
+Perhaps a few stray uranium atoms,
+by the strange, counterintuitive laws
+of quantum physics,
+did not destabilize as quickly.
+Some minor probability, some minor chance,
+kept those few uranium atoms from splitting.
+But in the face of what happened next,
+their luck was short-lived.
+
+Neutrons flooded the core.
+As more and more of their neighbors
+self-destructed,
+uranium atoms began splitting,
+left and right.
+Nothing would help,
+@emph{could} help,
+the onslaught of neutrons
+hitting those few lucky,
+extra-stable uranium atoms.
+
+A few thousand uranium atoms
+splitting in a second
+would warm the core very, very slightly.
+
+But as more and more neutrons
+destabilized more and more uranium atoms,
+many, many more uranium atoms
+would destabilize and split,
+bringing their neighbors
+closer to destruction.
+Millions more uranium atoms split.
+Then billions more.
+Then trillions more.
+
+The core became very, very, very warm.
+Billions of times warmer,
+as the destruction
+of uranium atoms
+sped up,
+causing many more uranium atoms
+to self-destruct.
+
+By the time all the uranium atoms
+in the missile's core had split,
+the temperature of the core
+had exceeded the temperature
+of the surface of the sun.
+
+A miniature sun blossomed in the midst of R1.
+
+@sp 2
+
+The compressed core expanded,
+then expanded even more,
+the heat it generated spreading
+over a wider and wider area.
+
+The time it took for the heat to spread
+was far smaller than a millisecond.
+The people on ground zero
+never felt the heat.
+The heat flew faster
+than the signals from their pain receptors
+could flow through their nerves
+and reach their brains.
+By the time the signal
+would have reached their brains,
+their brains had already been boiled
+in its own juices,
+then fried,
+then simply burned
+and eradicated
+as even more heat spread
+from the thermonuclear warhead.
+
+The seawater near ground zero
+reached boiling point,
+then went even further.
+It blew into superheated steam.
+Seawater far below ground zero evaporated.
+
+The hot air around ground zero
+and the steam expanded.
+Heat tended to expand things,
+after all.
+As the air and the steam expanded,
+its density dropped.
+Far less dense than the air above it,
+the hot air and the steam rose upward,
+cooling all along the way.
+
+The
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
