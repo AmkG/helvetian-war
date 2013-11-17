@@ -63,6 +63,7 @@ a copy of this license, visit
 * Transplantation::
 * The Mushroom at the End of R1::
 * The Gardeners Reconsider::
+* Fallout::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -5597,7 +5598,7 @@ was a similar mess.
 
 ``I just did,''
 said Renee.
-``This is worse than we expected.''
+``This is far worse than we expected.''
 
 ``Much worse.''
 
@@ -5668,8 +5669,24 @@ your homeboat
 and the Seedling boat
 will be fast enough
 that we will get hit
-only by the edges of the storm.
+only by the edges of the storm,
+and there's a good chance
+we'll avoid it completely.
 Hopefully, we'll be able to weather that.''
+
+``Is the storm radioactive?''
+
+``For now, yes.
+But its strength also means
+that almost all of the radioactive material
+will be dumped by rain
+in less than a day.
+By the time it reaches our location,
+it will only be slightly more radioactive
+than background.
+Not much more dangerous than sunbathing
+for an hour without sunblock.
+At least according to the simulation.''
 
 ``I see,'' said Renee.
 ``In that case, you're certainly welcome
@@ -5726,7 +5743,7 @@ I can adapt.''
 said Renee.
 ``We have a spare bunk.
 My husband sometimes sleeps in it
-since I sometimes toss and turn too much
+since I often toss and turn too much
 when I sleep,
 but I expect he shall manage well enough.
 You can sleep in the spare bunk.
@@ -5735,7 +5752,7 @@ as my husband is more comfortable that way,
 but we have enough spare blankets
 if you find it uncomfortable.
 Besides, as you said,
-we shall still be caught
+we may still be caught
 by the edge of that supertyphoon.
 It is not safe to be just on deck
 for that.''
@@ -5752,7 +5769,7 @@ I insist.''
 
 ``Thank you, Renee.
 And thank your husband for me.
-I have a final favor to ask.''
+I have a another favor to ask.''
 
 ``Yes?''
 
@@ -5765,8 +5782,186 @@ We need to wake them up.''
 
 ``I'll help you,'' said Renee.
 
+``Strangely enough,
+as it happens,
+none of the computation pads
+on board the Seedling boat
+appear to be enabled.
+Everyone on board
+appears to be asleep,
+or otherwise not interested
+in the computation pads.
+We'll need to sound
+the fire alarm to wake them up.''
+
+``Let's do it now.''
+
+``You'll tell them?''
+
+``It is my turn already, is it not?''
+said Renee.
+
+@node Fallout
+@chapter Fallout
+
+Drowsy, half-awake,
+Marco heard a strange,
+wailing sound.
+
+Two wailing sounds, in fact.
+
+Then suddenly he was wide awake,
+realizing that the two wailing sounds
+were two overlapping `boat on fire' alarms.
+
+Marco and his roommates scrambled messily
+out of their bunks.
+Outside their room,
+other Seedlings were walking
+in the corridor
+heading outside.
+Joining them,
+Marco looked out at the two
+nearby homeboats
+of their Gardeners.
+
+Neither boat was burning.
+
+Their small fleet was still travelling,
+controlled by the flocking program.
+Nothing was obviously wrong.
+The wind blew some girl's hair
+into Marco's face.
+The girl had a slight misstep,
+which resulted in her stepping on
+Marco's little toe.
+She did not apologize.
+
+He did not yet know that
+these moments
+would be etched into his memory,
+so he indulged in
+no small amount of annoyance
+at that girl.
+
+The alarm shut off.
+
+``False alarm?'' someone asked.
+
+In the silence after the alarm shut off,
+Marco heard a computation pad beep.
+It was Damian, who apparently thought
+that the proper response
+to a `boat on fire' alarm
+was to bring @emph{and turn on}
+his computation pad.
+
+Marco, John, and Cheers had had
+to practically coerce Damian
+to turn off the thing
+instead of staying up
+to the wee hours of the morning
+programming.
+Lack of sleep made Damian grouchy
+and even less sociable
+than usual.
+At least with a good night's sleep,
+he'd been a little more normal yesterday.
+
+That was what Marco was thinking about,
+at that time.
+After all, he did not yet know
+that he would remember this moment
+for the rest of his life.
+
+Renee appeared on Damian's pad.
+Damian raised it up,
+to let the other Seedlings see.
+
+Some semi-conscious part of him
+noticed how the light from the computation pad
+lit up a small circle of Seedlings.
+That detail, too,
+would become indelibly etched in his memory.
+
+``Hello, Seedlings,'' said Renee.
+``We apologize for waking you all up
+at this hour.
+A horrible incident has occurred.
+And we need to handle the ---
+fallout ---
+from that incident.''
+
+Dread stealing over his heart,
+Marco waited for Renee
+to say what had occured.
+
+@emph{There are --- some organizations of Sea State,
+with particular code words.
+Your parents are part of
+one of those organizations.
+A part of that code,
+`go west', has a particular meaning.
+It means: `prepare for imminent war.'}
+
+Perhaps war had already been declared.
+
+He hoped that Rudy and Rayne and Mike
+and Lizet and Maria and Red were safe.
+He hoped Lancer ex Caballeros was safe too.
+He wondered if Cognitivist Ricardo Derrick
+had evacuated Rationality One
+and as much of R1 and the R2's as they could.
+
+He would remember that moment,
+that heartfelt hope
+that the people he had known
+would be safe.
+
+Then Renee told them what happened,
+and all of Marco's hopes were smashed,
+in a manner that only a nuclear explosion
+could do.
+
+The exact words Renee said
+would forever slip Marco's mind.
+It was only the knowledge that he could remember.
+The knowledge of utter devastation.
+
 @sp 2
 
+There were gasps, wails,
+exhortations of disbelief,
+of pain,
+terror,
+fear,
+sorrow,
+anger.
+
+``Please, Seedlings,'' Renee said.
+``There are still some things we must do.
+The nuclear explosion
+has triggered the formation
+of a supertyphoon.
+That typhoon will head westward,
+and will reach our fleet,
+unless we head north now.
+Please disable the flocking program
+on your boat.''
+
+Someone ---
+several someones ---
+rushed to the control room,
+to disable the flocking program.
+The Seedling boat began to slow.
+
+``We shall dock with your boat,''
+said Renee,
+``and tell you more.
+Sara ex Mulligan, your other Gardener,
+will jettison her homeboat,
+as it is too slow.
+She will ride onboard my homeboat.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
