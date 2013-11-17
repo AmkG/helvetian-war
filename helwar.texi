@@ -4088,7 +4088,7 @@ Posted by @strong{u9860}:@*
 Originally posted by @strong{u1395}:@*
 @@u9860: Isn't that the point of the Seedling program?
 We're considered `probationary' adults
-and owners of the Fifth Seedling Company,
+and owners of the Fourth Seedling Company,
 which holds legal ownership of this boat.
 Our vote as stockholders of the company
 is what is supposed to determine
@@ -5774,7 +5774,10 @@ I have a another favor to ask.''
 ``Yes?''
 
 ``We need to head due north @emph{now}.
-Or in an hour, at least.
+Or in an hour, at the most.''
+She checked something on her computer.
+``Fifty-four minutes from now at most,
+to be precise.
 That means we need to disengage
 the flocking program,
 on the Seedling boat.
@@ -5973,6 +5976,108 @@ as it is too slow.
 She will ride onboard my homeboat.
 We need to head due north
 within forty minutes.''
+
+Renee paused.
+
+``My condolences, citizens of R1,''
+she said,
+before disconnecting.
+
+@sp 2
+
+In ten minutes, the two Gardeners' homeboats
+had finished docking on opposite sides
+of Seedling boat 3.
+
+Renee climbed the ladder
+leading from her homeboat
+onto the Seedling boat's
+public-use deck.
+She faced the crowd.
+
+Behind her, Sara brought a bag
+of her belongings.
+Renee's husband climbed up
+to get the bag,
+and Sara returned to her boat,
+to get more of her things.
+
+``Seedlings,'' said Renee,
+``citizens of R1,
+earlier last night,
+at around 2000h R1 local time,
+a tactical nuclear fission warhead
+was detonated at Rationality One.
+It is not yet known
+who detonated this warhead,
+although the United States
+and Mexico
+are confirmed
+to have declared war
+on Sea State,
+and unconfirmed reports state
+that the nuclear strike
+had been from the United States.
+The nuclear explosion destroyed
+the sea platform R1 completely.
+As I also mentioned,
+a supertyphoon is forming
+around the site,
+triggered by the nuclear explosion.
+
+``The liquid assets of the Fourth Seedling Company
+were deposited as a traditional bank account
+on R1 Bank.
+The main office of R1 Bank was destroyed,
+and R1 Bank faces bankruptcy.
+The account is insured ---
+by Rationality One Insurance Corporation,
+whose main office has also been destroyed,
+and which also faces bankruptcy.
+Also,
+we have been unable to contact
+the other Seedling boats.
+It seems likely that the Fourth Seedling Company's assets
+are this boat,
+and the possession you all currently have.''
+
+@emph{And }use@emph{ that coin.
+Its value is far, far more than a mere
+one hundred bitcoins.}
+
+``Who could care about money at a time like this?''
+somebody, possibly a male, wailed.
+``What about our @emph{families}?''
+
+``You are prospective adults, Seedlings.
+You @emph{must} worry about how your future
+will unfold,
+@emph{most especially}
+at a time like this.
+You @emph{must} care about the money,
+at a time like this,
+because that money is a measure of power,
+with which you will be able to take control
+of your future.
+Citizens of R1, realize this:
+Except for a few tourists,
+you, and Sara ex Mulligan,
+may very well remain the only citizens of R1
+@emph{in the whole world}.
+Most of the R2's survived,
+but the war with
+the most powerful military in the world
+may mean that they will get picked off,
+one by one,
+unless the R2's disband.
+
+``And there is a more important and pressing detail.
+Your internet service account
+is paid for from the R1 Bank account.
+With the account frozen
+and its fund very likely lost,
+your internet service cannot be paid for.
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
