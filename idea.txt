@@ -492,3 +492,12 @@ for aspiring (and top secret!) nuclear powers.
 They are composed of two "halves" of a nuclear core,
 brought together into a critical mass by firing a single
 chemical explosive.
+
+--
+
+TO FIX:
+
+I mentioned the computation pads issued to the Seedlings
+had a black-and-white electrophoretic paper display.
+This clashes with their actual use as, you know, video
+phones.  FIX THIS.
