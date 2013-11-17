@@ -5068,7 +5068,8 @@ some of the separationist
 R2 platforms
 spread out across the South Pacific,
 turning themselves into
-the Dunbarite platforms,
+the Dunbarite platforms
+of Polynesia,
 each one proud of
 having their own platform names
 and their own, idiosynchratic cultures.
@@ -5688,6 +5689,17 @@ Not much more dangerous than sunbathing
 for an hour without sunblock.
 At least according to the simulation.''
 
+``I thought your homeboat has a metapulse engine?''
+
+``An old model, kludged into my boat,
+so it's not as fast as the recent models.
+This boat's not exactly designed
+for metapulse,
+either;
+one of the metapulse tubes is a dummy.
+It's not fast enough to get out
+of the storm's possible radius.''
+
 ``I see,'' said Renee.
 ``In that case, you're certainly welcome
 to live with us.''
@@ -5698,7 +5710,7 @@ said Sara.
 before I scrounged up enough money
 to buy this old boat.''
 
-``Now, Sara, I refuse to let you
+``Nonsense, Sara, I refuse to let you
 be a public-use loafer.
 I shall consider it a charitable act
 to give you shelter for free.''
@@ -6037,9 +6049,10 @@ and which also faces bankruptcy.
 Also,
 we have been unable to contact
 the other Seedling boats.
-It seems likely that the Fourth Seedling Company's assets
+It seems likely that the Fourth Seedling Company's
+entire assets
 are this boat,
-and the possession you all currently have.''
+and the possessions you all currently have.''
 
 @emph{And }use@emph{ that coin.
 Its value is far, far more than a mere
@@ -6064,19 +6077,116 @@ Except for a few tourists,
 you, and Sara ex Mulligan,
 may very well remain the only citizens of R1
 @emph{in the whole world}.
-Most of the R2's survived,
+Most of the R2 platforms survived,
 but the war with
 the most powerful military in the world
 may mean that they will get picked off,
 one by one,
-unless the R2's disband.
+unless the R2 platforms disband.
 
 ``And there is a more important and pressing detail.
 Your internet service account
 is paid for from the R1 Bank account.
 With the account frozen
-and its fund very likely lost,
+and the funds very likely lost,
 your internet service cannot be paid for.
+It's possible that we will lose
+the only outside connection we have
+within about sixty-eight hours.
+In slightly less than three days,
+we will not be able to contact
+the outside world.
+Unfortunately,
+both your Seedling boat
+and my own homeboat
+do not have a traditional radio device.
+Sara's homeboat has a radio transceiver,
+but it is not portable,
+and, as you can see,
+we shall jettison that craft
+due to its lack of speed.
+We lose the only radio transceiver we have
+with it.
+
+``We need to utilize the internet connection well,
+before our connection is terminated.
+For now, I am downloading the English Wikipedia.
+Please download as much as you can,
+as much information as we can get
+that may be useful in the near future.
+If there are English Wikipedia articles
+you think should be prioritized,
+you may coordinate with me using a
+parallel download program.
+Our most pressing need is to build
+a radio transceiver,
+but please also consider the other problems we face.
+
+``We are human beings.
+We call ourselves @emph{homo sapiens} ---
+thinking man.
+Without information,
+our greatest advantage ---
+our brains ---
+loses its competitive edge.
+We need information
+if we are to survive
+in these conditions.
+
+``Money is important also due to our food supplies.
+We have one month's worth of food.
+We expected that the Fourth Seedling Company
+will be able to purchse food
+at our destination.
+There are now two problems
+with that plan:
+Fourth Seedling Company has no liquid assets
+to pay for food,
+and in wartime,
+food often gets rationed
+or otherwise limited.
+I trust you know enough about free markets
+to know what the effect
+of limited supply
+does to the price.
+
+``We have two main problems to solve:
+how to maintain communications with the outside world,
+and how to sustain our food supplies.
+We have one month of food
+but we may need to endure several months
+trying to evade enemy military,
+and any pirate parasites that arrive
+to prey on the weak
+in this time of chaos.''
+
+Renee looked directly at the person
+who had challenged her.
+
+``As to your families ---
+if your family was on R1,
+then it seems likely
+that they were caught in the explosion
+and its side effects.
+My condolences to those berieved.
+If your family was on R2,
+they probably survived.
+But as I mentioned,
+the United States navy
+may target them.
+Thus, I suggest that we do not head back.
+We expect much fighting in that direction.
+It is safer to head to the Polynesian platforms,
+and hide among them.
+You may need to make a group decision
+about whether to head back,
+or whether to continue to the Polynesian platforms.
+
+``My condolences to all of you,
+citizens of R1 and all the R2's,
+for the loss of Rationality One,
+and the largest sea platform
+of your culture.''
 
 
 @node CC-BY-SA 3.0 Unported
