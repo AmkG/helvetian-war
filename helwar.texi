@@ -65,6 +65,7 @@ a copy of this license, visit
 * The Gardeners Reconsider::
 * Fallout::
 * The Admiral::
+* The Seedlings Reconsider::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -1891,9 +1892,9 @@ over the rest of you, eh?
 Besides, if anyone asks,
 I used the standard-issued R3PP
 to make it anyway.
-If I didn't,
-it's the first thing I'd do
-after we choose destinations.''
+If I hadn't,
+it's the first thing I'd have to do
+after we choose destinations anyway.''
 
 ``I guess,'' said Cheers, still frowning.
 
@@ -6138,9 +6139,10 @@ if we are to survive
 in these conditions.
 
 ``Money is important also due to our food supplies.
-We have one month's worth of food.
+We have a little less than
+one month's worth of food.
 We expected that the Fourth Seedling Company
-will be able to purchse food
+will be able to purchase food
 at our destination.
 There are now two problems
 with that plan:
@@ -6790,8 +6792,10 @@ We can also avoid most surface-to-air
 guns by keeping out of their range,
 and with luck we can sneak on top
 of an unsuspecting fixed target
-under cloud cover and bomb it.
-I've got a ship that can spot enemies
+under cloud or night cover
+and bomb it.
+
+``I've got a ship that can spot enemies
 from very far away,
 is itself very hard to spot,
 is surprisingly tough,
@@ -6803,12 +6807,97 @@ and can destroy any fixed target
 with cooperative weather
 and using relatively cheap ammunition.''
 
+The airship descended,
+pulling on the ropes
+tied to the prisonboat.
+
+``If you can use an airship,''
+said Laurel,
+``the Americans can use them too.''
+
+``They already do,'' said Junio.
+``They use airships as scouts
+and command centers already.
+Airships are too slow
+to hunt down mobile targets,
+so they haven't bothered to
+weaponize them.
+I realized, however,
+that airships are quite fine
+against fixed targets.
+And Sea State has the advantage
+that we @emph{don't} have any 
+fixed targets.
+Our land-based opponents do.''
+
 Junio smiled at him.
 
 ``Come on,'' he said.
 ``You're my special guest
 in the safest place
 on Sea State.''
+
+@node The Seedlings Reconsider
+@chapter The Seedlings Reconsider
+
+Marco was not able to sleep.
+Few of the Seedlings could.
+
+Marco lay in his bunk,
+thoughts jumbled.
+
+Damian sat in his bunk.
+His hands were on
+his customized keyboard,
+but he was just staring at the pad.
+The usual quiet tapping of keys
+was missing.
+
+Cheers had decided to help
+organize the sleep roster
+so that at least two Seedlings
+would be awake,
+the contact point in case of emergency.
+He had volunteered to be one
+of the first to man the communications.
+
+Marco didn't know where John was,
+but he suspected that John
+was in the 3-D Printer room.
+
+Marco closed his eyes,
+in order to organize his thoughts.
+
+@sp 2
+
+What do you want?
+What do you have?
+How can you use the latter
+to gain the former?
+
+Marco wanted his family.
+
+He had a physical bitcoin,
+the standard items issued
+with his knapsack,
+a small community of
+similarly shocked teenagers,
+two Gardeners,
+an internet connection
+that would disappear
+in a few days...
+
+There was no way to get
+his family back.
+
+If your goals are not feasible,
+try dividing them
+into smaller parts,
+and see if the smaller parts
+are individually feasible.
+
+Yes, he wanted his family.
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
