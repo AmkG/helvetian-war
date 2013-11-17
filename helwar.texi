@@ -64,6 +64,7 @@ a copy of this license, visit
 * The Mushroom at the End of R1::
 * The Gardeners Reconsider::
 * Fallout::
+* The Admiral::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -2916,7 +2917,7 @@ Older sister's married,
 also R1,
 also heteronormative.
 Cognitivist,
-her husband works for Blimp Tourisms,
+her husband works for Blimp Tourism,
 middle-level manager.''
 
 Damian acted as if he'd completed
@@ -4680,7 +4681,7 @@ He's got his own personal army ---
 they're technically bodyguards and aides,
 but we know what they actually do.
 There's a vigilante group
-which operate in my father's province
+which operates in my father's province
 that owes a few favors to him, too.
 Favors.
 Hate that word.''
@@ -4723,6 +4724,7 @@ instead of just benefiting themselves.
 I left a note
 about how I was going to Sea State,
 to Rationality One.
+How I planned to talk to the cognitivists directly.
 I @emph{think} he won't try to get to me here.
 Because he thinks I've joined
 the ranks of the damned,
@@ -4748,7 +4750,8 @@ You want to know something?
 When I heard Cheers talk about
 his family so happily,
 it's like my family is
-a dark mirror to his.''
+a dark mirror,
+a dark opposite to his.''
 
 John sat down on the seat again.
 
@@ -4778,7 +4781,7 @@ even the most separationist Dunbarites
 won't contest it.
 The few slip-ups you've had won't tag you @emph{yet},
 nobody's perfect,
-but the more you have,
+but the more slip-ups you have,
 the more people will suspect
 that you don't have basic rationality training.
 I can help you with that.''
@@ -4808,7 +4811,8 @@ when you need it.
 And I assure you,
 you need a lot of help
 if you don't want to let it slip
-that you're not from an R2 platform.''
+that you're not from an R2 platform,
+like you told us.''
 
 Marco waited, patient,
 his hand still held out.
@@ -4888,7 +4892,7 @@ to look for the real identity of @strong{u3649}.
 A tiny part of him hoped that it was Suzie.
 Susan ex Guillermo.
 It would be good to talk to her,
-get another chance to look at her
+get another chance to look at her...
 beautiful brown irises.
 
 He looked for login name @strong{u3649}
@@ -6246,6 +6250,565 @@ and help you grow.''
 Then she descended to her boat
 and disconnected the ladder.
 
+@node The Admiral
+@chapter The Admiral
+
+The Ocean Hunter's prisonboat,
+`Error Correction Check,'
+drifted somewhere
+in the Pacific Ocean.
+
+Laurel Cyrus Blake,
+a special guest of the prisonboat,
+estimated that they were somewhere
+in the tropics,
+from the heat and angle of the sun
+at midday.
+
+On what had started as an ordinary day,
+Laurel awoke early
+and performed his usual morning exercise.
+By the time his breakfast arrived,
+he had worked up an appetite.
+
+After eating,
+he asked permission
+from the guard
+to leave his room.
+As a special guest,
+he was allowed the run of the prisonboat,
+provided an armed guard
+escorted him.
+
+As was usual,
+he went up onto the prisonboat's private deck.
+As was also usual,
+the prisonboat's other special guest,
+Louisa ex Milan,
+was already on deck,
+wearing a bikini,
+sunbathing on a lounge chair.
+Another lounge chair was set up beside her.
+
+Laurel reclined on his lounge chair,
+prepared for their usual verbal battle.
+
+``The killjoy arrives,'' said Louisa.
+``What shall we debate today?''
+
+``Perhaps the excesses of
+anarcho-libertarianism?''
+
+``We had that the other day,''
+said Louisa.
+
+``Do you have anything else you'd rather
+debate about, @emph{libertine}?''
+
+``Is it not the right ---
+excuse me, the @emph{duty} ---
+of the man
+to make all the decisions, hmm,
+@emph{patriarch}?''
+
+``Then do not question my decision.
+If you wish to debate
+our political philosophies,
+then let us focus on
+the excesses of
+anarcho-libertarianism.''
+Laurel sighed loudly,
+to broadcast his exasperation.
+
+There was an audience of only two here ---
+their two armed guards ---
+but Laurel always acted as if
+he was speaking publicly.
+It was especially ironic,
+since the Ocean Hunters
+specifically assigned
+deaf guards
+to escort
+the two special guests.
+Precautions against subversion.
+
+``As if reactionary, @emph{patriarchal}, conservatism
+does not have its excesses,''
+said Louisa.
+In the beginning of their interment,
+such a statement
+would have been delivered
+with a good dose of contempt.
+Poisonous barbs on the weapons
+of their verbal conflict.
+But as their time in captivity lengthened,
+their words and debates
+began to take on the tone of a chore,
+a charade.
+She spoke the words
+almost as if she were @emph{bored}.
+
+Even her provocative dress,
+or lack thereof,
+now seemed ordinary,
+no longer shocking.
+
+Something to pass the time,
+as they were held,
+prisoners of the Ocean Hunters,
+never sure of when they would be freed.
+Or if they would ever be freed.
+
+``By its definition,
+conservatism cannot have any
+@emph{excess},''
+said Laurel.
+``It is conservative.
+Cautious.
+Measure twice, cut once.''
+
+``In short, a killjoy conservative
+in excess
+is a Luddite.''
+
+``Not so,''
+said Laurel.
+``We accept the advance of technology.
+We only wish it to be slower,
+for human sensibilities
+to keep up with it.''
+A year ago, perhaps,
+he would have offered his defense
+much more vehemently.
+Long, repetitive debates
+on the subject
+with this irritating libertine
+anarcho-libertarian woman
+had ground his passion
+into dust.
+Even his attack,
+when delivered,
+sounded half-hearted.
+``Whereas your libertine ideology ---
+I'm sorry, your @emph{libertarian} ideology ---
+follows every new technology eagerly.
+It is one of your excesses.
+It is no small wonder
+that the Atlantic Sea State collapsed,
+destroying itself
+in a flurry of innovation
+before collapsing
+from the dangers of its own,
+untested, unsafe technological advances.''
+
+``Technological advance cannot be controlled,''
+said Louisa.
+``You cannot dictate the pace of technology.
+You may as well attempt to dictate
+the results of a lottery.
+You can never be sure
+if investigating some phenomenon
+will yield a practically useable technology.
+It is, in fact, a lottery.''
+
+``We can always choose not to look,''
+said Laurel,
+``until we have,
+mentally and spiritually,
+prepared ourselves
+for the consequences
+of opening the Pandora's box
+of technology.''
+
+He looked out,
+at the deceptive,
+peaceful calm 
+of the Pacific Ocean,
+waiting for Louisa
+to reply.
+
+She sighed.
+Or perhaps yawned.
+
+``When will this end?''
+she said, finally.
+
+Laurel wondered, too.
+
+He'd been arrested
+after making a mistake
+that revealed his espionage activities.
+He was brought to
+`Error Correction Check,'
+and introduced to
+the stunning Louisa,
+who, it turned out,
+had also been arrested on espionage charges.
+
+Neither of them revealed
+the identities of the groups
+or countries
+they worked for.
+They were kept here,
+to be used as potential resources.
+Special guests,
+separated from the
+ordinary prison population,
+escorted by armed guards
+specifically chosen
+for their deafness.
+
+He'd kept to his usual exercise routine
+to keep fit,
+and,
+if he could perhaps
+just admit to himself,
+to impress Louisa.
+He would, of course,
+quite adamantly refuse
+to have the other special guest
+be a better sample of her gender
+than he could be of his.
+He would be extremely pleased to know
+that she would judge him desirable,
+if she were to merely look at him,
+without listening to his ideology.
+After all, if he were honest,
+he felt much the same way towards her.
+In no way could he allow her
+that victory.
+
+The similar charges,
+the lack of `special guests'
+other than them,
+the isolation of their interment,
+the unacknowledged
+physical attraction to one another,
+the long debates ---
+the long talks
+they would have
+almost every day ---
+these all brought the two of them
+dangerously close together,
+even as their
+conflicting political ideologies
+and their stubborn adherence to those ideologies
+strove to keep them apart.
+
+Perhaps if they had known
+that it would be their last day
+to be with one another,
+they might have acted much more differently.
+
+The Pacific Ocean,
+its placid surface hiding turmoil,
+answered their questions
+with its usual silence.
+
+@sp 2
+
+Laurel ignored the rhythmic stepping behind him,
+assuming it was simply a patrol.
+Only when their guards
+suddenly snapped to attention
+and saluted
+did he look at the source.
+
+He recognized the man.
+The man's uniform was emblazoned
+with the advertisements
+of Ocean Hunters' sponsors.
+An honor guard of four
+soldiers escorted him.
+
+The man was Admiral Junio ex Legato,
+the current admiral of the Ocean Hunters.
+He was short and a little fat,
+his days in active duty long behind him.
+
+Junio pointed to Louisa,
+then flicked his wrist
+in some sign
+that Laurel couldn't catch.
+One of Junio's escorts
+separated from the rest
+and approached Louisa,
+pointing a weapon at her.
+Louisa's guard,
+and even Laurel's own escort,
+approached her,
+their weapons drawn
+and pointed at Louisa,
+surrounding her.
+
+``The individual claiming the name
+Louisa ex Milan
+is hereby charged of
+espionage during wartime,
+abetting and aiding hostiles
+that threaten the peace
+and sovereignty
+of all constituents
+of the Sea State Agreement,''
+said Admiral Junio.
+``You shall be escorted to your room,
+Louisa ex Milan,
+where you will wear decent clothes,
+and then escorted
+to a different prisonboat,
+where you will await the military court
+that will convene
+to judge your complicity
+in last night's
+nuclear strike
+against the sea platform R1.
+Be reminded that,
+while espionage outside of wartime
+is punishable with
+indefinite imprisonment,
+espionage @emph{during} wartime
+is punishable with
+execution.
+Spies are @emph{shot} during wartime.''
+
+As Louisa sat, stunned,
+Laurel somehow mustered enough
+presence of mind
+to speak.
+
+``She's been imprisoned here
+for at least a year,''
+said Laurel.
+``How can she have engaged
+in espionage?''
+
+``We have evidence pointing to her
+as the source of certain classified information
+that was leaked to the United States.
+Perhaps she has some device hidden somewhere.
+We never checked her thoroughly.
+Perhaps we should.''
+Junio snorted.
+``So you defend her now,
+Laurel?
+I thought you couldn't
+tolerate her ideology?''
+
+``You're ---
+you're at war
+with @emph{the United States of America}?''
+
+``@emph{Yes}.
+The most powerful military force
+on Earth.''
+
+A host of questions flooded Laurel.
+He picked the most important one.
+
+``She's a libertarian.
+How could she possibly be working for
+the United States?''
+
+``Perhaps she @emph{isn't}
+a libertarian.
+I admit,
+I would have thought it more likely
+that you would be the one
+who is actually the US of A agent.
+Given how powerfully
+the Fox News Network
+has controlled the country,
+a conservative like you
+would be exactly what we expect
+a United States spy to be.
+But we have compelling evidence
+that it was actually her,
+and we have evidence
+that you haven't done any espionage
+since your arrest.''
+
+``She's already a prisoner here,''
+said Laurel.
+``She isn't going anywhere.
+She's already under arrest.''
+
+``We've decided to move her from here.
+Since she appears to have some way
+of communicating to others
+even though she has been imprisoned here,
+she may have some way
+of escaping from this prisonboat.''
+Admiral Junio sneered at him.
+``Why this uncharacteristic change,
+conservative?
+Why defend this avowed arch-enemy of yours?
+Have you fallen in love with her?''
+
+Louisa stood up,
+her knees shaking.
+
+Their eyes met for a brief second.
+
+``I only want justice to be done properly,''
+said Laurel, looking back at Junio,
+daring the admiral to contradict him.
+``I cannot possibly love her,
+her ideology is a dark subversion,
+a twisting of my own pure ideology.''
+
+For some reason, after saying this,
+he looked down at his feet,
+feeling horrified at what he'd just said,
+even though it was perfectly correct and right.
+
+He heard footsteps receding away from him,
+and for some reason a deep pain
+gripped his heart.
+
+@sp 2
+
+``As for you,
+Laurel Cyrus Blake,
+you shall come with me,''
+said Junio.
+
+``Where?''
+said Laurel.
+Hostility burned at the edge of his voice.
+He knew it was dangerous
+to be too overtly hostile
+to the admiral
+that held him captive,
+but for some reason,
+he didn't feel a pressing need to care
+about consequences.
+
+``To my flagship.
+You are a potential military target.
+This is largely a civilian prisonboat.
+Hopefully, if you're not here,
+even if this prisonboat is captured
+by the United States navy
+they will be compelled to be lenient,
+given that all the prisoners
+are all noncombatant civilians,
+anyway.
+Maybe.''
+
+They walked,
+escorted by the three remaining soldiers
+of Admiral Junio ex Legato.
+On the side of the boat
+opposite where
+Laurel and Louisa habitually
+had their long debates
+was docked a warship.
+
+An @emph{old} warship.
+
+``That's your flagship?
+The United States can probably take that down
+using one remote drone.''
+
+``That,'' said Junio,
+``is not my flagship.
+Louisa will be taken there
+for her trial,
+and will probably be executed there.
+We wait here.''
+
+When Junio's flagship did arrive,
+Laurel looked up and gaped at it in awe.
+
+@sp 2
+
+The airship dropped a length of rope.
+One of Junio's escorts
+scrambled after it,
+tying it to the prisonboat's deck.
+More ropes dropped down,
+to be secured on the deck.
+
+``How...?'' said Laurel.
+
+Admiral Junio ex Legato just pointed
+at an advertisement on his uniform.
+
+An advertisement for Blimp Tourism.
+
+``Only the best possible ship
+for the flagship, right?''
+said Junio.
+
+``I don't see how it's going to be better
+than that warship.''
+
+``Airships are surprisingly powerful
+in combat.
+The airbag is not going to appear on radar,
+giving us a tremendous stealth advantage.
+The gondola of that airship
+is assembled from
+3-D printed parts ---
+it's plastic, also not very reflective to radar.
+It means that most missiles
+will be unable to get a lock on it,
+only guns will be able to target it.
+The gondola isn't armored
+but it doesn't have to be ---
+its position makes it difficult
+to target from air-to-air
+using just guns.
+Hitting the airbag won't crash
+the airship ---
+there are several internal ballonets
+that are unconnected,
+and all have to be destroyed
+to crash the airship.
+Each ballonet has self-healing resin
+to protect against most punctures.
+It needs no fuel,
+as its engines are all electric
+and fed from the solar panels.
+The only supplies it needs are
+food and water for
+the squishy humans on board,
+replacement helium for what little it leaks,
+and relatively simple explosive bombs,
+which, as military equipment goes,
+are cheap.
+That airship is specifically designed
+for high altitudes.
+At its
+cruise altitude eighteen thousand meters
+above sea level,
+its radar can reach more than
+four hundred eighty kilometers,
+and only specially-designed military airplanes
+can engage it.
+We can also avoid most surface-to-air
+guns by keeping out of their range,
+and with luck we can sneak on top
+of an unsuspecting fixed target
+under cloud cover and bomb it.
+I've got a ship that can spot enemies
+from very far away,
+is itself very hard to spot,
+is surprisingly tough,
+operates at the edge
+of the engagement range
+of other aircraft
+and well out of range of all seacraft,
+and can destroy any fixed target
+with cooperative weather
+and using relatively cheap ammunition.''
+
+Junio smiled at him.
+
+``Come on,'' he said.
+``You're my special guest
+in the safest place
+on Sea State.''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
