@@ -5774,7 +5774,7 @@ I have a another favor to ask.''
 ``Yes?''
 
 ``We need to head due north @emph{now}.
-Within the hour, at least.
+Or in an hour, at least.
 That means we need to disengage
 the flocking program,
 on the Seedling boat.
@@ -5796,7 +5796,16 @@ the fire alarm to wake them up.''
 
 ``Let's do it now.''
 
-``You'll tell them?''
+``I wish we could at least
+let them have
+a full night's sleep
+without this ---
+terrible news ---
+hanging over their heads.
+But we need to change course now,
+and we need to coordinate with the Seedlings.
+We need to wake them up.
+You'll tell them?''
 
 ``It is my turn already, is it not?''
 said Renee.
@@ -5962,6 +5971,8 @@ Sara ex Mulligan, your other Gardener,
 will jettison her homeboat,
 as it is too slow.
 She will ride onboard my homeboat.
+We need to head due north
+within forty minutes.''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
