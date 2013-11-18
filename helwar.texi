@@ -66,6 +66,7 @@ a copy of this license, visit
 * Fallout::
 * The Admiral::
 * The Seedlings Reconsider::
+* The Politician Talks::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -7324,6 +7325,18 @@ put it into its charging socket
 beside his bunk,
 pulled the covers over himself
 and slept.
+
+@node The Politician Talks
+@chapter The Politician Talks
+
+Cheers prodded Marco awake.
+
+``Hey, roommate!'' whispered Cheers.
+
+``Hey, Cheers,'' said Marco.
+
+A glance showed that John was not in the room.
+A snore indicated that Damian was still sleeping.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
