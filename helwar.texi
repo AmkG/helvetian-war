@@ -4972,7 +4972,7 @@ on their fellow citizens.
 Often by hiring @emph{private} armies
 to harass them.
 
-The cognitivists bent their idealogy,
+The cognitivists bent their ideology,
 conforming to the evidence of reality.
 They formed a public army,
 a navy that served as police
@@ -7093,9 +7093,7 @@ then when it comes up again,
 tell yourself you'll do it later,
 again.}
 This was a lesson that Marco
-had learned for himself long ago,
-back when he had first been tested
-as having high self-control,
+had figured out for himself long ago,
 and which,
 to his suprise and pleasure,
 turned out to be an actual technique
@@ -7337,6 +7335,254 @@ Cheers prodded Marco awake.
 
 A glance showed that John was not in the room.
 A snore indicated that Damian was still sleeping.
+
+``Let's go up on deck,'' said Cheers.
+He prodded Marco again.
+``Up, up.''
+He seemed to be hopping
+from one foot to the other.
+
+``Okay.''
+
+They went up on deck,
+Cheers skipping a little.
+
+@sp 2
+
+``You seem jumpy,''
+said Marco,
+when they stepped on deck.
+There were a few Seedlings
+on deck.
+Two girls were
+in the navigation room.
+
+``Yes, my friend, amped!''
+
+``Amped?  As in amphetamines?''
+
+``Yes, yes.''
+
+``Be careful, Cheers.
+Don't do too much of that.''
+
+Cheers nodded,
+much longer than
+one would normally
+nod to indicate
+assent.
+
+``We each get a small dose
+of it in our Seedling medikits,
+you know,''
+said Cheers.
+``Something we all have.
+Emergency nootropic,
+when we need to do a lot of thinking.
+This @emph{incident}
+seems to call for that.
+I wanted to be able to
+think faster,
+while we still have internet.
+So I can confirm stuff I think of,
+and get information
+to my brain.
+It's also one reason
+I wanted to talk to you.''
+
+``You want me
+to do amp too?
+I'm not convinced
+we're in straits
+that dire ---''
+
+``I want you to
+keep me under control.
+Don't do amp,
+at least no yet.
+I'm thinking faster
+than I've thought before.
+Better than coffee,
+when I managed to steal some
+from my papas.
+It @emph{is} addictive,
+I'll grant you that.
+You've got high self-control,
+so maybe you can help me out,
+keep me from hitting it too much.''
+
+Marco sighed.
+``Have you been pulling strings
+to look at my records?''
+
+``@emph{Heck} no.
+Your sister.
+She keeps introducing you
+as this guy with
+monstrously high self-control.
+`Oh, look, that's my brother Marco.
+He's got high self-control.
+Hey, have I mentioned my brother
+in the last minute?
+He's got high self-control.
+Oh, someone brought up
+the topic of self-control?
+Let me tell you about my brother.'
+Doting, loving elder sister.
+Don't tell me girls aren't
+noisy and strange,
+like my research told me.''
+
+Marco groaned.
+``People are strange,
+not just girls.
+Look at yourself.
+And I just tested
+a little above average
+in self-control
+in a single test
+when I was five years old.
+It's been, what,
+a decade since then?''
+
+``Doesn't matter, my friend,''
+said Cheers.
+``Still need someone
+to look out for me,
+keep me from getting too attached
+to the stimulant.
+Anyway, I need an outlet.
+Someone I can talk to.
+That fine?''
+
+``Sure.''
+
+``Good.
+So tell me, Marco:
+What do you know about Sea State's history?''
+
+@sp 2
+
+``Well,''
+said Marco,
+``Sea State was the ultimate project
+of the Seasteading Institute.
+It was first started
+in the North Atlantic Ocean,
+as a bunch of relatively independent
+sea platforms,
+bound together only by
+the Sea State agreement.
+Then the Sea State company
+Rationality One Ocean Ventures
+started the sea platform R1
+in the South Pacific Ocean,
+starting the sister Sea State.
+R1 spawned out the R2 platforms,
+to serve as experiments
+in sociopolitical structures;
+R1 provides a stable government base,
+while the R2's provide innovation
+in politics.
+Eventually,
+due to sociopolitical turmoil,
+the Atlantic Sea State
+platforms collapsed.
+Then some R2 platforms
+decided to separate from R1's control,
+and started the Dunbarite platforms,
+migrating west towards Polynesia
+and Micronesia.''
+
+Cheers nodded.
+``Correct in the broad strokes,
+but details are not actually accurate.
+You have to realize that there were
+two main philosophies
+that were pushing for seasteading.
+The one which managed to get in first
+was libertarianism,
+specifically,
+anarcho-techno-libertarianism.
+Heard of that?''
+
+``A little.
+In a sentence, that's
+putting the supremacy of the free market
+over all parts of social life,
+without any government,
+or with very little government,
+and supported by technological
+advancement.''
+
+``Correct in the broad strokes,
+again.
+But that will do for now.
+The other philosophy
+was rationalism.
+You know,
+the cognitivists.''
+
+``Yes,'' said Marco.
+``So that's us, I guess.''
+
+``Yes,'' said Cheers.
+``The success of the
+Pacific Sea State
+is often seen
+as the superiority of rationalism
+over strict libertarianism.
+This popular idea, 
+however,
+is again a broad-strokes correct thing.
+At the beginning,
+the cognitivists
+had a lot of mistakes
+while starting up the Pacific Sea State
+pretty much all on their lonesome.
+One of their mistakes is,
+believe it or not,
+that they made a similar,
+but different,
+Sea State Agreement.''
+
+``Really?''
+
+``Really.
+This meant quite a bit
+of resentment
+from the Atlantic Sea State.
+Many of the Atlantic Sea State platforms
+refused to trade with R1.
+At one point,
+R1 was ready to disband
+as a failed experiment.''
+
+``I didn't know that.''
+
+``It's fine,
+it's not often known
+in R1.
+You see, R1 @emph{didn't} disband
+due to something that
+still affects politics now,
+and you know how politics
+is relegated to the R2's.
+So it's not surprising
+that you're not aware of this.''
+
+``So... what is it?''
+
+``Massive, secret infusions
+of funding
+into R1's economy,
+from what was at that time
+the most powerful economy
+in the world.
+The United States of America.
+You know, our current enemies.''
+
+@sp 2
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
