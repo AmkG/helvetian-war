@@ -3508,7 +3508,9 @@ and The Hero pauses,
 weighing the decision,
 knowing that much more is at stake
 than what is important to him.
-Then one of his allies ---
+He decides to make the sacrifice.
+But before he is able to,
+one of his allies ---
 or more dramatically, a minor enemy
 that changes his or her allegiance ---
 sacrifices himself or herself instead.
@@ -4727,7 +4729,7 @@ about how I was going to Sea State,
 to Rationality One.
 How I planned to talk to the cognitivists directly.
 I @emph{think} he won't try to get to me here.
-Because he thinks I've joined
+Because he'll think I've joined
 the ranks of the damned,
 just by going here.''
 
@@ -5311,6 +5313,12 @@ and eradicated
 as even more heat spread
 from the nuclear warhead.
 
+Seedling boat 1,
+which had decided to
+study the government of Rationality One,
+was among those who never felt
+the pain.
+
 The seawater near ground zero
 reached boiling point,
 then went even further.
@@ -5402,6 +5410,10 @@ Those who survived
 could only cling to the wreckage of their homeboats.
 The wreckage of their lives.
 
+Seedling boats 2, 5, and 7
+were among those obliterated
+by the tidal wave.
+
 And yet, even as the wave of destruction spread,
 it grew smaller, weaker.
 The same amount of power
@@ -5457,6 +5469,15 @@ It increased their chances of cancer
 slightly,
 down the road.
 
+Seedling boat 4
+had survived the tidal wave,
+not even capsizing,
+but its Seedlings
+received a fatal dose
+of radioactive materials,
+many of them bleeding out horribly
+within hours.
+
 @sp 2
 
 Gamma rays from the nuclear explosion
@@ -5498,6 +5519,9 @@ drifting in their dead homeboats,
 consumed all their food resources,
 and slowly starved to death
 before they could be rescued.
+
+Seedling boat 6
+suffered this fate.
 
 @sp 2
 
@@ -5549,6 +5573,10 @@ in recent history formed,
 practically overnight,
 at the graveyard
 of sea platform R1.
+
+It would head west,
+in the direction of
+Seedling boat 3.
 
 @node The Gardeners Reconsider
 @chapter The Gardeners Reconsider
@@ -6943,6 +6971,9 @@ Stephanie opened the door.
 ``Mind if we hang out with you?''
 said Marco.
 
+Stephanie looked at Marco's eyes
+for a few seconds.
+
 ``Okay.''
 Stephanie opened the door to let them in.
 
@@ -6973,6 +7004,122 @@ the bunk that Castor was sitting on.
 Castor moved a little,
 and they sat there.
 Steph sat between Suzie and Anita.
+
+``So,'' said Steph.
+
+``So,'' said Marco,
+wondering what to talk about.
+
+Steph smiled.
+``I guess I'll break the ice.
+Marco is my brother,
+like I said.
+I've introduced Suzie to him.
+Both Anita and Castor are from R1.''
+
+Marco glanced at Damian,
+who shrugged.
+``Damian is also from R1.
+He's a programmer.
+He likes to stay up late
+programming.
+We ---
+me and our other roommates, I mean ---
+we had to impose a curfew on him,
+because he would sometimes go straight
+without sleep the whole night.
+And we've known each other
+for just four days.
+Or five days by now, I think.''
+
+That brought smiles
+to the others.
+
+``Wow,'' said Castor.
+``That's quite impressive.''
+
+``Not really,'' said Damian.
+``Especially now,
+can't get sleep anyway.
+With what happened.
+Can't even focus on debugging.''
+
+That brought the conversation
+to an uncomfortable stop.
+
+@emph{Well, it's the main reason
+most of us are still awake
+at three in the morning,}
+thought Marco.
+@emph{So I guess trying to pretend
+that nothing is wrong
+is pointless.}
+
+Move foreward, then.
+
+``We're all from R1, right?''
+said Marco.
+``I guess all of us
+have just lost loved ones.''
+
+Everyone nodded.
+Castor covered his face.
+He started sobbing.
+
+``At least you two still have each other,''
+said Anita.
+``I have an older sister
+who's also a Seedling.
+She was on Seedling boat 5.
+They were ---''
+The tears came.
+She told the story through sobs.
+``They were going to start with
+the north districts of R1,
+then work themselves southwards
+until they'd visited all of R1.''
+
+Steph put an arm around her.
+
+@emph{If there's something
+that part of you wants to do,
+but which your entire rational thought
+determines is a bad idea,
+distract yourself from it.
+Delay.
+Tell yourself you'll do it later,
+then when it comes up again,
+tell yourself you'll do it later,
+again.}
+This was a lesson that Marco
+had learned for himself long ago,
+back when he had first been tested
+as having high self-control,
+and which,
+to his suprise and pleasure,
+turned out to be an actual technique
+that the cognitivists taught
+in the basic rationality courses.
+
+He, too, wanted to cry over the loss
+of his four parents
+and his two younger siblings ---
+but not yet.
+Later, perhaps.
+
+For now,
+dealing with the living
+was of higher priority.
+
+@sp 2
+
+``I understand,''
+said Marco.
+``We've lost family.
+And, like Renee said ---
+we've just lost an entire community,
+an entire culture and way of life.
+Because of war.''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
