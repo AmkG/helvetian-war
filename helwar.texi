@@ -7119,7 +7119,211 @@ said Marco.
 And, like Renee said ---
 we've just lost an entire community,
 an entire culture and way of life.
-Because of war.''
+Because of this war.''
+
+``The third world war,''
+said Suzie.
+
+@emph{Maybe not,}
+thought Marco.
+@emph{Sea State isn't that important,
+in international politics.}
+
+Still, it was not something
+he would contradict,
+given the mood.
+
+Or maybe he just didn't want
+to get on Suzie's bad side.
+
+``I guess what my brother wants to say is,
+we have to move forward,''
+said Steph.
+
+``I want to crush them
+to dust,''
+said Castor,
+lifting his face
+from his hands.
+``Crush them,
+the way they crushed
+my family.
+Crush all those Americans.''
+
+@emph{Strength through diversity,
+diversity through tolerance,}
+thought Marco.
+@emph{Not all those Americans
+targeted the nuke at us.
+A few of them might have opposed it.}
+
+Well, those slogans
+of Lancer ex Caballeros
+were probably completely destroyed
+by now.
+
+``Tried looking into
+some strategy programs,''
+said Damian.
+``Want to crush them, too.
+Problem is,
+we got nothing to work with.
+No weapons, no tools,
+nothing.
+Programs couldn't find
+any strategy,
+because we have no pieces.
+Got depressed,
+just stared at
+my computation pad.''
+
+``Yes,'' said Marco.
+``We all feel a need to do something.
+To fix this, make the problem go away.
+Maybe we could try to figure out
+something we could do.
+You know, like in rationality training.
+What do you want?
+What do you have?
+How can you use the latter
+to gain the former?''
+
+``I want my family back,''
+said Suzie.
+``You know, my grandparents
+were cryopreserved
+in Rationality One's alcor.
+We knew, we always knew
+that we'd see each other again,
+someday, after The Singularity.
+But now ---
+even the alcor's gone.
+Nuked.
+And my parents,
+and my brother,
+they won't be preserved
+in an alcor.
+They can't be.
+There's nothing left of them
+to preserve now.''
+
+``We all do,''
+said Steph.
+``I miss Daddy Mike.
+Mad Dad, we used to call him,
+because he'd get mad at us
+whenever we forgot to do chores
+or did something naughty
+or teased him.''
+
+Marco felt the pain in his heart again.
+Later, later.
+
+``Need to focus on the three questions,''
+he whispered.
+
+``Marco's right, you know,''
+said Damian.
+``What do we want?
+We want to be comforted,
+to feel better again.
+What do we have?
+We've got our voices,
+and we've got each other.
+How do we use the latter
+to get the former?
+Let's talk.
+Let's remember our families,
+and let's let them @emph{go}.
+Then maybe after that
+we can focus on how to fix our problems.''
+
+Everyone nodded.
+
+@sp 2
+
+They took turns.
+
+It did feel better, a few hours later.
+
+@sp 2
+
+Exhausted physically,
+but feeling better emotionally,
+Marco and Damian walked back
+to their room.
+
+It was empty.
+They both crawled into
+their respective bunks,
+feeling much more able to sleep.
+
+A thought had occurred to Marco.
+
+@emph{What do we have?}
+
+Mommy Lizet had given Marco a physical bitcoin.
+Perhaps she'd given Stephanie one, too.
+
+@emph{Use} that coin.
+
+He enabled his computation pad,
+enabled the mail program.
+
+To his suprise,
+a message greeted him.
+
+@quotation
+Hey Marco!
+
+If you can, meet me up at the nav room.
+Want to talk about something with you.
+
+Cheers, Cheers
+@end quotation
+
+He was tired.
+
+He composed a reply.
+
+@quotation
+Hi Cheers,
+
+Sorry, I'm *really* tired right now.
+I'll sleep for a while, okay?
+Damian is going to sleep too.
+
+Sorry.
+I guess it's about something important
+but I might not be able to
+handle it properly right now.
+I'll just nap a bit, okay?
+
+After your shift there ends,
+you can wake me up
+and we can talk then.
+
+Sincerely, Marco
+@end quotation
+
+Then he wrote a message for Stephanie.
+
+@quotation
+Hey Steph,
+
+Just a question,
+but did our parents
+give you anything extra,
+by any chance?
+
+Love, Marco
+@end quotation
+
+Then he disabled the pad,
+put it into its charging socket
+beside his bunk,
+pulled the covers over himself
+and slept.
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
