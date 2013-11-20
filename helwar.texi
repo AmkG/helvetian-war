@@ -7915,7 +7915,7 @@ but failed.''
 ``With the exception
 of an atomic difference,
 this time.
-When the United States
+After the United States
 secured the Mississippi,
 the major powers
 could no longer destroy the country
@@ -7946,6 +7946,148 @@ could utterly destroy the United States
 in a single night,
 the way the United States
 just destroyed Sea State.''
+
+@sp 2
+
+Marco nodded.
+``It bugged me, you know,''
+he said.
+``Dropping a nuclear bomb
+is not going to make friends,
+given how horrifying it is,
+no matter what justifications
+you might convincingly claim.
+It appeared to be
+a stupid move,
+before.
+Now ---
+if you're right,
+this is actually a @emph{smart} move.''
+
+Cheers shook his head.
+``Not so smart, for all that.
+It removes a potential @emph{future} threat,
+but is likely to lose the United States
+@emph{present} allies.
+And possibly gain a few enemies,
+although honestly,
+Sea State has few international allies.
+That part still bugs me, you know.''
+
+``So,''
+said Marco,
+``given that,
+what can we do?''
+
+Cheers sighed, shrugging.
+``I'm not sure, Marco.
+All I can think is,
+in the modern world,
+money represents
+one aspect of power.
+In many ways,
+it's the aspect of power
+we have least right now.
+We have legitimacy and credibility
+as a nation,
+simply because the other countries
+already implicitly recognized
+Sea State's right to exist,
+by letting Sea State
+exist for almost two generations now.
+Not to mention
+that nuke,
+which is going to paint us
+as quite sympathetic.
+Chile isn't much,
+but it's probably Sea State's best ally,
+since they get significant side benefits
+from the sea fertilization pumps we operate;
+we can almost be sure they will not bend
+to America when it comes to our allegiance
+with them.
+Our rejection of international copyright treaties
+means we have a good amount of informational power.
+Our private armies
+are decentralized,
+meaning the attack on R1
+has hardly touched our military power,
+although of course we're going against
+the most powerful military on Earth.
+It's money,
+and the means to make money,
+that's the tightest
+and smallest aspect of power
+that we have.
+Is there some way for us
+to mine bitcoins,
+while we still 
+have internet?''
+
+@emph{Ricardo Derrick,
+his eyes narrowed,
+his forehead knotted,
+his face a grimace of sternness,
+saying,
+``}Use@emph{ that coin.
+Its value is far more than
+you think it is.''}
+
+Marco shook his head,
+looking down at the waves
+formed as their boat
+cut through the sea.
+``Bitcoin mining is highly competitive,''
+he said.
+He hadn't thought of that
+simply because it was completely infeasible.
+``Every miner is trying to win the lottery
+by guessing the correct answer
+to the mathematical puzzle, remember?
+The more people place their bets in the lottery,
+the more difficult the lottery gets,
+the lesser your chance of winning.
+So you bet more, by pushing more hardware
+to guess the answer.
+My parents had to commission
+their equipment from an IC fabrication factory
+on Chile,
+because R1 doesn't have
+the proper industrial base for it.
+No, it's a very low chance,
+and without specialized equipment
+you'll probably drain our batteries faster
+than the solar panels can replenish them.
+I don't think we want that,
+since at least energy is pretty much
+the only thing we have an unlimited supply of.''
+
+Cheers winced.
+``Ah, not good!
+I'd hoped that was possible.
+Thanks anyway, my friend.
+At least I know now
+that consdering it
+would be a waste of time.
+And thanks for listening, at least.
+It's valuable.
+And remember to look out for me,
+I don't want to get
+addicted to nootropics.
+Okay?''
+
+``Okay.
+Take care of yourself.''
+
+``Thanks again.
+If you don't mind,
+the ampethamines
+seem to be wearing off,
+and I think I want to lie down
+in my nice bunk.
+Thanks, Marco.''
+
+``You're welcome, Cheers.''
 
 
 @node CC-BY-SA 3.0 Unported
