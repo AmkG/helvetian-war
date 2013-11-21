@@ -67,6 +67,7 @@ a copy of this license, visit
 * The Admiral::
 * The Seedlings Reconsider::
 * The Politician Talks::
+* The Stranger Builds::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -2800,7 +2801,7 @@ again, strength in numbers ---
 that each miner tries to solve.
 The first miner that solves this puzzle
 wins a number of bitcoins,
-which is how bitcoins are `minted,'
+which is how bitcoins are created or `mined,'
 so to speak.
 Then that solution becomes
 the template for the next mathematical
@@ -3041,6 +3042,13 @@ I would have completely missed
 being a programmer.
 And I can't imagine what it would be like,
 me not being a programmer.
+I imagine it's like me not having legs
+or not having eyes,
+except even worse,
+because it's like not having
+a part of your brain
+that was @emph{meant} to be there
+all along, anyway.
 So I give my own software,
 my own source code,
 so that others, too,
@@ -3481,9 +3489,18 @@ someone asked.
 It really didn't matter who did.
 
 ``Not yet,'' said John.
-``The hero, and his allies,
-take some time out,
-to rest and recover,
+``Because the hero's work is not so simple.''
+
+Someone breathed in loudly,
+and didn't breath out until
+John continued.
+
+``The hero and his allies,''
+said Join,
+``take some time out,
+to rest and recover
+from the trials of escaping
+the Belly of the Whale,
 and to prepare for the last stage
 in the story.
 The hero takes what was retrieved
@@ -3699,7 +3716,7 @@ and she whispered ``Go west, sweetheart ---''}
 you should be doing now,'' continued Renee,
 cutting off what Damian had to say.
 ``You shall begin your first group decision:
-where shall your boat, Seedling boat 2, go,
+where shall your boat, Seedling boat 3, go,
 over the next three months,
 before the next shuffling?''
 
@@ -4390,6 +4407,11 @@ The Seedlings parted to let her pass.
 
 After having lunch with Steph and Suzie,
 Marco set about to explore the boat more.
+Small groups, pairs, and individuals
+like Marco
+were roaming the boat,
+no doubt familiarizing themselves
+with its layout.
 
 The seedlings were on their way west.
 
@@ -4928,6 +4950,12 @@ showed well in the evening.
 As he looked up,
 he thought he saw something move
 in the night sky.
+He blinked, tried to look for it again.
+
+Well, he was getting old,
+and perhaps his eyes
+were, in their age,
+more likely to play tricks on him.
 
 Advertising was, in retrospect,
 the best way to privatize armies,
@@ -5779,8 +5807,11 @@ upon receiving the file.
 a portable computation device ---
 I'll be leaving the computer
 on this boat.
-I'll just send the contract
-to an online archive.
+I'll just put the contract
+in a portable memory device,
+together with the Wikipedia
+articles I can download
+until I transfer there.
 Are you sure it's not too much trouble?
 I've been an actual public-use loafer,
 I can adapt.''
@@ -6175,7 +6206,8 @@ will be able to purchase food
 at our destination.
 There are now two problems
 with that plan:
-Fourth Seedling Company has no liquid assets
+Fourth Seedling Company no longer has
+liquid assets
 to pay for food,
 and in wartime,
 food often gets rationed
@@ -7730,7 +7762,7 @@ Cheers nodded.
 
 ``The sea fertilization pumps,''
 said Marco,
-``at the continental shelf off Chile.''
+``at the continental shelf off Chile.
 Which are under control of R1
 and its R2 platforms.
 The cultural, political, and social center
@@ -7760,15 +7792,22 @@ for maybe two or three years,
 and then salt builds up,
 which kills plants
 and turns the land to deserts ---
-that's the reason why what used to be
-the `Fertile Crescent'
-no longer is.
-Over-irrigation.
-If you irrigate,
-you need to drain the soil,
-to flush out salts
-and other toxic byproducts
-of plant growth.
+the soil salination effect
+of over-irrigation,
+Almost all water,
+even rainwater,
+contains trace amount of salt.
+The water is absorbed by the plants
+for photosynthesis,
+but the salt remains in the soil.
+Irrigating the soil means
+adding more water,
+and inevitably, more salts,
+into the soil.
+So you need to ensure good drainage,
+flooding the soil to dissolve
+any deposited salts,
+then draining out the floodwater.
 Watersheds like the Nile delta,
 the Yangtze rice fields,
 and the Mississippi watershed
@@ -7827,7 +7866,10 @@ around R1 ---
 was well on its way to surpassing
 the United States of America
 as the leading economic powerhouse
-on Earth.''
+on Earth.
+This preemptive attack
+is to ensure that
+we could never rival the United States.''
 
 @sp 2
 
@@ -7839,12 +7881,23 @@ infused investment capital
 into R1,
 which helped keep it afloat
 after the Atlantic Sea State
-embargoed them.''
+embargoed them.
+If the United States
+thought we were going to
+surpass them ---''
 
 ``An attempt towards buying influence
 over R1.''
 
-``Which, I take it, failed?''
+``Huh.  Really.''
+
+Cheers smiled at him.
+
+``So,''
+said Marco,
+``I take it,
+that attempt
+to buy influence failed?''
 
 Cheers nodded.
 ``The United States
@@ -7912,7 +7965,7 @@ that could kill it
 were distracted}.
 The European powers
 were struggling amongst themselves
-for control of the European continent,
+for control of the Eurasian continent,
 and ignored the importance
 of the Louisiana purchase
 and the Tejan annexation,
@@ -7948,6 +8001,8 @@ When the two world wars erupted
 in Europe,
 there was only one
 non-European major power.
+One power who lost no factories,
+and whose heartland was never invaded.
 Its position away
 from the bulk of the fighting
 meant it retained most of its
@@ -7957,17 +8012,18 @@ economic power.''
 said Marco.
 ``You're talking about the nuclear bomb.''
 
+@sp 2
+
 ``Yes,''
 said Cheers.
 ``When the United States was still growing,
-weapons of mass destruction were not yet invented.
+weapons of mass destruction were not yet refined
+to their current levels.
 None of the major powers of that time
 could utterly destroy the United States
 in a single night,
 the way the United States
 just destroyed Sea State.''
-
-@sp 2
 
 Marco nodded.
 ``It bugged me, you know,''
@@ -7992,7 +8048,15 @@ but is likely to lose the United States
 And possibly gain a few enemies,
 although honestly,
 Sea State has few international allies.
-That part still bugs me, you know.''
+That part still bugs me, you know.
+I mean, yes, I know a common
+mental mistake
+is to want to be a king in hell
+rather than a servant in heaven,
+but @emph{still} I doubt
+that it is a @emph{smart move}.''
+
+Cheers scowled at the sea.
 
 ``So,''
 said Marco,
@@ -8027,7 +8091,9 @@ we can almost be sure they will not bend
 to America when it comes to our allegiance
 with them.
 Our rejection of international copyright treaties
-means we have a good amount of informational power.
+means we have a good amount of informational power,
+and the availability of satellite internet
+makes that informational power more powerful.
 Our private armies
 are decentralized,
 meaning the attack on R1
@@ -8039,6 +8105,8 @@ and the means to make money,
 that's the tightest
 and smallest aspect of power
 that we have.
+It probably threatens
+what power we still retain.
 Is there some way for us
 to mine bitcoins,
 while we still 
@@ -8078,9 +8146,15 @@ No, it's a very low chance,
 and without specialized equipment
 you'll probably drain our batteries faster
 than the solar panels can replenish them.
-I don't think we want that,
-since at least energy is pretty much
-the only thing we have an unlimited supply of.''
+You should have seen my parent's homeboat,
+it had maybe every available upper surface
+covered in solar panels.
+Anyway, I don't think we can do
+bitcoin mining,
+because it will drain energy too much,
+and at least energy is pretty much
+the only thing we currently have
+an unlimited supply of.''
 
 Cheers winced.
 ``Ah, not good!
@@ -8106,9 +8180,124 @@ seem to be wearing off,
 and I think I want to lie down
 in my nice bunk.
 Thanks, Marco.''
+Cheers patted Marco's shoulder.
 
 ``You're welcome, Cheers.''
 
+@node The Stranger Builds
+@chapter The Stranger Builds
+
+Marco remained on the starboard side of the deck,
+watching the sea as their boat cut through the waves,
+the sun shining on his face.
+
+Far to the east
+was the place
+where home ---
+@emph{had} been.
+
+Marco shut his eyes.
+Home would have to be here, now.
+
+Hadn't that been what he had thought,
+when he first got on board Seedling boat 3?
+
+@emph{He was on the vessel
+he would call his homeboat
+for at least three months.}
+
+What do you want?
+What do you have?
+How can you use the latter
+to get the former?
+
+@emph{Cheers ex Littlefoot,
+still intense from the shot
+of ampethamines,
+a little more jittery
+than normal.
+``It's money,
+and the means to make money,
+that's the tightest
+and smallest aspect of power
+that we have.''}
+
+He had a physical bitcoin.
+And he had a contact,
+someone with good hand-eye coordination,
+who might be able
+to open the bitcoin
+to access the face value funds.
+
+@sp 2
+
+When Marco opened the door of the
+3-D Printer room,
+he was suddenly stopped in surprise.
+
+The 3-D Printer room was messy,
+filled with various items.
+In the midst of it,
+watching the RepRap,
+was John ex Nikos.
+
+He was so focused
+on the RepRap's operation
+that Marco had to tap his shoulder
+to get his attention.
+
+@sp 2
+
+John ex Nikos rushed to stand up,
+then bowed to Marco.
+
+``Seriously,'' said Marco,
+``at least let me tell you that
+all this
+bowing and apologizing
+is completely unnecessary
+in Sea State.
+Sure Cheers does it,
+but not as often as you do
+and he only does it
+to manipulate you into liking him.''
+
+``S-Sorry,'' said John.
+Then he winced,
+started to open his mouth again,
+then shut it.
+
+``Anyway,'' said Marco,
+``What have you been doing?''
+
+``Anyway,'' said Marco,
+``I've got a ---''
+
+@emph{John, his voice bitter
+as he spoke about his father, saying,
+``Favors.  Hate that word.''}
+
+``--- request to ask of you.''
+
+John folded his arms,
+then said,
+``Okay, what is it?''
+
+Marco brought out the shiny round metal object
+his Mommy Lizet
+had given him, not even a week ago.
+
+``It's a physical bitcoin,''
+said Marco.
+``It has a tamper-resistant hologram, here.
+That hologram sticker
+covers a small card
+whose information I need.
+I'd like to peel it off,
+take the embedded card,
+then return the hologram
+without it being obvious
+that the coin has been tampered with.''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
