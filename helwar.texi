@@ -8288,16 +8288,83 @@ his Mommy Lizet
 had given him, not even a week ago.
 
 ``It's a physical bitcoin,''
+said Marco,
+handing the coin to John.
+
+He explained physical bitcoins
+to John.
+
+``It has a tamper-resistant hologram, here,''
 said Marco.
-``It has a tamper-resistant hologram, here.
-That hologram sticker
+``That hologram sticker
 covers a small card
 whose information I need.
 I'd like to peel it off,
 take the embedded card,
 then return the hologram
 without it being obvious
-that the coin has been tampered with.''
+that the coin has been tampered with.
+Is that possible?''
+
+``Hmm,'' said John.
+``It's possible, but not very likely ---
+do you know how those
+people you mentioned
+were able to first undetectably tamper the coin
+managed to do it?''
+
+Maroo shrugged.
+``If I remember correctly,
+one article described them
+as using a non-polor solvent,
+whatever that means.''
+
+John nodded.
+``Paint thinner, basically.
+We don't have supplies of that,
+but I may be able to build a
+chemical synthesis machine
+using the RepRap,
+or kludge something with it.
+But I'll need more R3PP,
+I managed to almost run out of it.''
+
+``I can get you mine.''
+
+John was looking at the coin,
+turning it over and over.
+``Is it ---
+Is it okay
+for me to ask
+why you want to do this?''
+
+``Well,''
+said Marco,
+``you don't have to ask me
+if it's okay to ask me anything.
+Or something like that, anyway,
+I guess you know what I mean.
+Basically, the coin
+is a limited-edition
+collector's item.
+As it happens, the embedded card
+contains access information
+for an account containing
+twenty-five bitcoins.
+Collectors don't actually care
+for the actual account,
+but they do care about
+the condition of the coin.
+So I'd like to get
+the twenty-five bitcoins
+in the account,
+and, secondarily,
+I'd like to access the card
+without the tampering being obvious,
+because much of the coin's
+subsequent collector's price
+will be based on that.''
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
