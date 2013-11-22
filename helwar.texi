@@ -6558,10 +6558,12 @@ conflicting political ideologies
 and their stubborn adherence to those ideologies
 strove to keep them apart.
 
-Perhaps if they had known
+Perhaps if Laurel had known
 that it would be their last day
 to be with one another,
-they might have acted much more differently.
+he might have acted much more differently.
+
+Or perhaps not.
 
 The Pacific Ocean,
 its placid surface hiding turmoil,
@@ -6608,7 +6610,9 @@ surrounding her.
 Louisa ex Milan
 is hereby charged of
 espionage during wartime,
-abetting and aiding hostiles
+treason against
+the Sea State Agreement,
+and abetting and aiding hostiles
 that threaten the peace
 and sovereignty
 of all constituents
@@ -6659,11 +6663,13 @@ tolerate her ideology?''
 
 ``You're ---
 you're at war
-with @emph{the United States of America}?''
+with @emph{the United States of America}?
+They threw a nuke at you?''
 
-``@emph{Yes}.
+``Yes, and @emph{yes}.
 The most powerful military force
-on Earth.''
+on Earth
+just destroyed R1 last night.''
 
 A host of questions flooded Laurel.
 He picked the most important one.
@@ -6785,12 +6791,17 @@ Laurel looked up and gaped at it in awe.
 
 @sp 2
 
+A large, cigar-shaped, floating balloon.
+That was Junio's flagship.
+An @emph{air}ship.
+
 The airship dropped a length of rope.
 One of Junio's escorts
 scrambled after it,
 tying it to the prisonboat's deck.
 More ropes dropped down,
-to be secured on the deck.
+to be secured on the deck
+by Junio's honour guard.
 
 ``How...?'' said Laurel.
 
@@ -6808,7 +6819,8 @@ than that warship.''
 
 ``Airships are surprisingly powerful
 in combat.
-The airbag is not going to appear on radar,
+The airbag is mostly gas,
+and is not going to appear on radar,
 giving us a tremendous stealth advantage.
 The gondola of that airship
 is assembled from
@@ -6817,6 +6829,7 @@ it's plastic, also not very reflective to radar.
 It means that most missiles
 will be unable to get a lock on it,
 only guns will be able to target it.
+Manually-aimed guns.
 The gondola isn't armored
 but it doesn't have to be ---
 its position makes it difficult
@@ -6872,6 +6885,10 @@ The airship descended,
 pulling on the ropes
 tied to the prisonboat.
 
+``Its only real weakness
+is being relatively slow,''
+said Junio.
+
 ``If you can use an airship,''
 said Laurel,
 ``the Americans can use them too.''
@@ -6886,10 +6903,10 @@ weaponize them.
 I realized, however,
 that airships are quite fine
 against fixed targets.
-And Sea State has the advantage
-that we @emph{don't} have any 
-fixed targets.
-Our land-based opponents do.''
+And Sea State has the advantage that,
+while we @emph{don't} have any 
+truly fixed targets,
+our land-based opponents do.''
 
 Junio smiled at him.
 
@@ -8455,8 +8472,11 @@ I, I wanted to try
 building a weapon.
 A gun.''
 
-Marco swallowed.
-``A gun?''
+Marco wondered if he heard correctly.
+Was it a bung?
+A gum?
+A pun?
+``A gun?'' he said.
 
 ``Yes.''
 
@@ -8487,7 +8507,43 @@ The gun will probably not last more
 than a few shots,
 but it'll be able to actually fire.''
 
+``Huh.  I guess,''
+said Marco.
+He scratched his head.
+Knowing the intended product,
+the scattered printed pieces
+@emph{did} look like
+possible parts of a gun.
 ``Still, a gun?''
+
+John was silent for a while.
+
+``Yes,'' he said.
+``A gun.
+Because even though I didn't grow up on R1,
+even though this is just some place
+I went to
+because I wanted
+to get away from my father,
+@emph{I} think, @emph{I} believe,
+that R1 didn't deserve to be nuked.
+I know I'm not really
+a citizen of Sea State,
+but I want to become one,
+and I'm going to fight for it.''
+
+``I see,''
+said Marco.
+He wondered how to persuade John
+to refocus his energy.
+
+``You're not going to stop me?''
+
+``Of course not, you're my roommate.''
+
+``It's just that.... I....''
+
+
 
 
 @node CC-BY-SA 3.0 Unported
