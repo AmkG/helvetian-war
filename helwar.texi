@@ -8541,8 +8541,109 @@ to refocus his energy.
 
 ``Of course not, you're my roommate.''
 
-``It's just that.... I....''
+``It's just that I... I...''
 
+Marco waited.
+
+``I was expecting you'd stop me.
+Tell me that this is stupid.''
+
+Was John asking for help?
+
+Probably.
+
+``Then I suppose,''
+said Marco,
+``you, or at least some part of you,
+recognize that this is really a bad idea?
+I don't know if you have had
+military training,
+or if you know how to aim properly,
+especially since the gun,
+as you described it,
+will only last for a few shots.
+I suppose you realize
+how little
+one man with a gun
+can do.''
+
+John winced,
+hanging his head.
+Marco paused.
+
+Eventually, John said,
+``But what can one teenager,
+with @emph{nothing}, do?''
+
+``If you don't mind,
+is it okay for me
+to teach you some of
+the basic rationality training
+we get?''
+
+``Okay.''
+
+``There are three questions
+that you can always ask yourself.
+They are:
+number 1
+`What do I want?'
+Number 2,
+`What do I have?'
+Number 3,
+`How can I use what I have
+to get what I want?'
+Okay?''
+
+``Okay.''
+
+``You always have things you want.
+So the first question,
+you can always answer.
+And you always have things you have.
+So again,
+you can always answer
+the second question.''
+
+``I don't have anything, anymore.''
+
+``Yes you do.
+You have that RepRap behind you.
+You have your standard-issued knapsack
+containing a bunch of really useful things.
+You have that conch shell you built three days ago.
+You have your bunk.
+You have your brain.
+You have a community of Seedlings.
+You have the Gardeners.
+You have your roommates,
+Damian and Cheers and me.
+Although admittedly Damian is asocial
+and Cheers is weird.
+So maybe not them.''
+
+John smiled.
+``But... how do I get revenge
+for R1?''
+
+``That's the third question.
+And the truth of the matter is that
+sometimes,
+that third question
+doesn't have an answer.
+Sometimes you just can't see
+a way from here to there,
+you know what I mean?
+Maybe you just can't seem the way to get there,
+or maybe there really isn't a path to go to your goals.
+When that happens,
+you don't give up.
+Instead, you break apart
+what you want into smaller pieces.
+@emph{Then} maybe one of those smaller pieces
+will be achievable with what you have.''
+
+``I see,'' was all that John said.
 
 
 
