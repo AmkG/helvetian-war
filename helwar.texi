@@ -8645,7 +8645,13 @@ will be achievable with what you have.''
 
 ``I see,'' was all that John said.
 
-
+``Maybe after you achieve
+some other subgoal,
+you can see a full path to your main goal.
+Or maybe by that time
+your own goals may have changed.
+The important thing is to keep trying
+to move forward.''
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
