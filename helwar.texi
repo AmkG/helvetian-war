@@ -8224,8 +8224,9 @@ that we have.''}
 
 He had a physical bitcoin.
 And he had a contact,
-someone with good hand-eye coordination,
-who might be able
+someone who claimed to have
+good hand-eye coordination.
+Someone who might be able
 to open the bitcoin
 to access the face value funds.
 
@@ -8364,6 +8365,129 @@ without the tampering being obvious,
 because much of the coin's
 subsequent collector's price
 will be based on that.''
+
+John nodded.
+``Twenty-five bitcoins.
+I'm not sure, but that seems
+like quite a bit of money.''
+
+``Enough to buy us a few months'
+worth of food.
+Or about a month of
+satellite internet.
+Which is what I hope
+to use it for.''
+
+``Okay.''
+
+``If possible,''
+Marco said,
+``I'll need it
+before we lose our internet connection.''
+
+John shook his head.
+``That's a tight schedule,
+I'm afraid.''
+
+``Well, only if possible,
+anyway.
+If it's not possible,
+that's still fine,
+we'll just have to go
+to some sea platform
+and get a guest account
+for internet.
+It's just a few weeks
+without internet, anyway,
+we'll probably still survive.
+And we may be able to locate
+an antiques dealer
+or a coin collector.
+I suppose procuring that solvent
+is difficult.''
+
+``Yes, I'll need to build
+a chemical synthesis system,
+most likely one that's an extension
+of the RepRap.
+Other than that,
+a scalpel to help peel away
+the foil
+would probably be useful.''
+
+Marco winced.
+``That'll be difficult to procure.''
+
+John smiled.
+``Our medikits have razor blades,
+you know.
+I already started building
+a scalpel-like holder
+for razor blades.''
+
+``Huh.
+Pretty clever.
+Thanks for this, John.
+I appreciate it.''
+
+@sp 2
+
+Marco looked around
+at the strange objects
+that John had built.
+He saw the completed conch shell design
+but he didn't know what the other parts were.
+
+``So, John,''
+he said,
+``if you don't mind me asking,
+what have you been building?''
+
+``Um, I ---''
+
+When John trailed off,
+Marco said,
+``It's fine,
+I'll leave.''
+
+``Wait, um ---
+I, I wanted to try
+building a weapon.
+A gun.''
+
+Marco swallowed.
+``A gun?''
+
+``Yes.''
+
+``A gun made of R3PP.
+Which, as far as I know,
+melts at high temperatures.''
+
+``Yeah, but, but...''
+John breathed in.
+``It's quite clever, actually.
+You know the bottle of melter we have?
+We're supposed to break up
+a printed item into little bits,
+put it into the recycler over there
+and pour some melter,
+then let it do its thing
+to get back some R3PP.
+The melter's main ingredient is an enzyme
+that breaks down the R3PP.
+I found a mix on the internet,
+you can mix a small amount of melter
+with a tiny amount of vinegar,
+which partially denatures the enzyme.
+The denatured enzyme can then
+increase the toughness of R3PP,
+and increase the melting temperature.
+The gun will probably not last more
+than a few shots,
+but it'll be able to actually fire.''
+
+``Still, a gun?''
 
 
 @node CC-BY-SA 3.0 Unported
