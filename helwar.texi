@@ -68,6 +68,7 @@ a copy of this license, visit
 * The Seedlings Reconsider::
 * The Politician Talks::
 * The Stranger Builds::
+* Outside Assistance::
 
 * CC-BY-SA 3.0 Unported::          License of the novel Helvetian War.
 @end menu
@@ -8482,7 +8483,11 @@ A pun?
 
 ``A gun made of R3PP.
 Which, as far as I know,
-melts at high temperatures.''
+melts at high temperatures.
+Like the temperatures that gunpowder
+will reach.
+Unless you're talking about
+spring-loaded pellet guns.''
 
 ``Yeah, but, but...''
 John breathed in.
@@ -8496,11 +8501,11 @@ then let it do its thing
 to get back some R3PP.
 The melter's main ingredient is an enzyme
 that breaks down the R3PP.
-I found a mix on the internet,
+I found a recipe on the internet,
 you can mix a small amount of melter
 with a tiny amount of vinegar,
 which partially denatures the enzyme.
-The denatured enzyme can then
+The denatured enzyme will then
 increase the toughness of R3PP,
 and increase the melting temperature.
 The gun will probably not last more
@@ -8565,7 +8570,8 @@ will only last for a few shots.
 I suppose you realize
 how little
 one man with a gun
-can do.''
+can do
+in a war against a superpower.''
 
 John winced,
 hanging his head.
@@ -8620,7 +8626,8 @@ You have your roommates,
 Damian and Cheers and me.
 Although admittedly Damian is asocial
 and Cheers is weird.
-So maybe not them.''
+So maybe not them.
+But at least you got me.''
 
 John smiled.
 ``But... how do I get revenge
@@ -8652,6 +8659,95 @@ Or maybe by that time
 your own goals may have changed.
 The important thing is to keep trying
 to move forward.''
+
+``Like building a gun?''
+
+Marco shrugged.
+``Building a gun that fires
+just a few shots
+before getting destroyed
+strikes me as being less useful
+than other ways of
+spending your time.
+You need to practice
+with the gun
+in order to learn how to aim,
+and you'll need more than a few shots
+to hone your skills.
+Which means building
+several guns.
+Which isn't to say
+the gun is useless,
+since I suppose
+it will still work
+at point-blank range.
+It's possible as a backup weapon
+for, I don't know, something.''
+
+``So what @emph{can} I do?''
+
+``Build the chemical synthesizer
+you told me about?
+That may be more useful generally.''
+
+``And we need it
+to make a gunpowder replacement too.''
+
+Marco nodded.
+``Which brings us to levers.
+You know them?''
+
+John blinked.
+``Yes, of course.
+I don't see how it's related,
+though.''
+
+``It's @emph{very} related,
+as anyone who's ever talked
+to a cognitivist
+will tell you.
+Levers, in general, are ways
+to increase your reach.
+One gun
+that will last only a few shots
+may not mean much
+in a war against a superpower,
+but it @emph{may} become
+more powerful
+if pointed in the proper direction.
+That's what we mean by levers.''
+
+``I see.''
+
+``Yes.
+And finding levers
+that we can exploit
+is generally our first priority.
+It allows us to convert
+one kind of power
+to another kind,
+to utilize powers
+that have been kept and sealed away,
+and to magnify what power we have.
+Like you and your spool of R3PP.
+R3PP isn't a tough material.
+But you've leveraged
+a method of making it tougher,
+to the point that you can use it
+to build a weapon.''
+
+John smiled.
+``Thanks, Marco.''
+
+``You're welcome, John.
+And remember my coin, okay?
+If you can't finish it
+before disconnection,
+that's fine.''
+
+@node Outside Assistance
+@chapter Outside Assitance
+
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
