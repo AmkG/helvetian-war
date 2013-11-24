@@ -8743,11 +8743,106 @@ John smiled.
 And remember my coin, okay?
 If you can't finish it
 before disconnection,
-that's fine.''
+that's fine,
+but getting access
+to its contents
+is probably a good idea.''
 
 @node Outside Assistance
-@chapter Outside Assitance
+@chapter Outside Assistance
 
+Damian and Cheers
+were curled up
+in their respective bunks
+when Marco arrived.
+They were snoring.
+
+It was probably past lunchtime,
+but Marco didn't have much
+of an appetite.
+He felt sleepy
+much more than he felt hungry.
+Cheers had interrupted his sleep,
+after all,
+and he hadn't had a good sleep
+the previous night.
+
+He felt sticky and itchy.
+He decided to take a bath instead.
+
+@sp 2
+
+Refreshed,
+Marco himself
+went into his bunk.
+
+Before napping again,
+he enabled his computation pad
+to check for messages.
+
+There were two.
+
+@sp 2
+
+@quotation
+Hey bro!
+
+You know,
+the Alugbati family
+always taught its children
+to be independent of
+their parent's wealth
+when they grew up
+and moved out of the house.
+
+I'm sure our beloved, late parents
+wouldn't want
+other people
+to think
+that they would give
+an unfair advantage
+to their children.
+
+Take care,@*
+Steph
+@end quotation
+
+On the surface,
+it meant that
+Stephanie hadn't
+been given anything.
+
+On the other hand,
+it @emph{could} mean
+something like,
+``Shut up, Marco,
+keep it a secret.''
+
+The other message,
+he had been sure was spam,
+given the sender's e-mail address.
+However, the message hadn't been caught
+by spam filters.
+
+Then Marco opened it.
+
+It was short.
+
+@quotation
+Marco,
+
+Do you need help?
+
+I may be able to give help
+while your boat
+still has internet,
+so better hurry.
+
+Sincerely,@*
+u3649
+@end quotation
+
+@sp 2
 
 @node CC-BY-SA 3.0 Unported
 @appendix CC-BY-SA 3.0 Unported
